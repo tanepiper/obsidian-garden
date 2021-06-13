@@ -1,4 +1,5 @@
 # 🪨🌱 The Obsidian Garden
+> Please note that this is currently in active development an evolving - and riddled with spelling and grammer
 
 The [[👩‍🌾 Gardening Tips/🪨🌱 Obsidian Garden|Obsidian Garden]] is an opinionated [[📇 Terms/Knowledge Management|Knowledge Management]] toolkit based on [Obsidian](https://obsidian.md) with a set of community [[👩‍🌾 Gardening Tips/🔌 Plugins|plugins]] and Markdown files.
 
