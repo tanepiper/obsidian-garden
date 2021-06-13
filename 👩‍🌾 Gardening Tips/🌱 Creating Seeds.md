@@ -13,6 +13,9 @@ When creating a document, you can either use (on OSX) the **⌘ + n** to create 
 The document will be created with a `status` of `triage` - this means that the item is currently unsorted - use the document as a way to quickly capture and idea, and later when you have time you can sort them into their correct locations - here set the `status` to `ready`. See [[👩‍🌾 Gardening Tips/⚠️ Statuses]] for more details.
 
 ## 🌱 Seed Templates
+
+^599347
+
 There are several seed templates available 
 
 ```dataview

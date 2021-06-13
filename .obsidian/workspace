@@ -4,68 +4,41 @@
     "type": "split",
     "children": [
       {
-        "id": "b42e78c92abad399",
-        "type": "split",
-        "dimension": 73.63636363636363,
-        "children": [
-          {
-            "id": "13bad62d67db6d12",
-            "type": "leaf",
-            "dimension": 79.61264016309887,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "📇 Terms/Knowledge Management.md",
-                "mode": "source"
-              }
-            },
-            "group": "e13355ba39b2da0e"
-          },
-          {
-            "id": "804c7fa2aa23e95c",
-            "type": "leaf",
-            "dimension": 20.38735983690112,
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "📇 Terms/Knowledge Management.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": true,
-                "unlinkedCollapsed": true
-              }
-            },
-            "group": "e13355ba39b2da0e"
+        "id": "906da97215b34231",
+        "type": "leaf",
+        "dimension": 73.18181818181819,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "README.md",
+            "mode": "source"
           }
-        ],
-        "direction": "horizontal"
+        },
+        "group": "c9694d5db174f626"
       },
       {
-        "id": "2e1493d491d20609",
+        "id": "ec1a8dc40647d332",
         "type": "split",
-        "dimension": 26.36363636363636,
+        "dimension": 26.81818181818182,
         "children": [
           {
-            "id": "9ce85b3a667faf49",
+            "id": "ee26878cff1f700e",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "📇 Terms/Knowledge Management.md"
+                "file": "README.md"
               }
             },
-            "group": "e13355ba39b2da0e"
+            "group": "c9694d5db174f626"
           },
           {
-            "id": "843a53fd8f30627a",
+            "id": "b881b9b402aa2243",
             "type": "leaf",
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "📇 Terms/Knowledge Management.md",
+                "file": "README.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -93,7 +66,25 @@
                 }
               }
             },
-            "group": "e13355ba39b2da0e"
+            "group": "c9694d5db174f626"
+          },
+          {
+            "id": "2ab3748456947f7e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "README.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            },
+            "group": "c9694d5db174f626"
           }
         ],
         "direction": "horizontal"
@@ -123,7 +114,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#term",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -168,7 +159,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "📇 Terms/Knowledge Management.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -201,7 +192,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "📇 Terms/Knowledge Management.md"
+                "file": "README.md"
               }
             }
           },
@@ -211,7 +202,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "📇 Terms/Knowledge Management.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -235,17 +226,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "13bad62d67db6d12",
+  "active": "906da97215b34231",
   "lastOpenFiles": [
-    "📇 Terms/Knowledge Management.md",
     "README.md",
-    "👩‍🌾 Gardening Tips/Untitled.md",
-    "🗂 Projects/Untitled.md",
-    "⏣ Templates/Untitled.md",
-    "⏰ ToDo List.md",
-    "👨‍👧‍👦 People.md",
-    "📇 Glossary.md",
-    "📚 Reading.md",
-    "CHANGELOG.md"
+    "📇 Terms/Connection.md",
+    "📇 Terms/Knowledge Management.md",
+    "📇 Terms/Link.md",
+    "📇 Terms/Untitled.md",
+    "🌱 Seed Box/Untitled.md",
+    "👩‍🌾 Gardening Tips/🎯 Create Custom Dashboards.md",
+    "👩‍🌾 Gardening Tips/🏭 Project Stucture.md",
+    "👩‍🌾 Gardening Tips/🔌 Plugins.md",
+    "👩‍🌾 Gardening Tips/🪨🌱 Obsidian Garden.md"
   ]
 }

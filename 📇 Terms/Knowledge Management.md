@@ -12,6 +12,6 @@ Knowledge management (KM) is the process of creating, sharing, using and managin
 
 ## Sources
 - [Wikipedia](https://en.wikipedia.org/wiki/Knowledge_management)
-- 
+
 ## Uses
-Knowledge Management is used in the understanding of connections between seamingly different things.
+Knowledge Management is used in the understanding of [[📇 Terms/Connection|connections]] and [[📇 Terms/Link|links]] between seamingly different things.

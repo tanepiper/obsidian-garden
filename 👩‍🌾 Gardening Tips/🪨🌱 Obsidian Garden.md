@@ -6,7 +6,7 @@ Tags: #obsidian #gardening #ideas #tutorials #principles
 > Plant a new 🌱 seed to grow into an 🌺 idea.
 
 ## What is the 🪨🌱 Obsidian Garden?
-Like any person with ADHD, I've tried several systems and invented a few myself - for me nothing has ever stuck - I even tried [Obsidian](https://obsidian.md) before - but found it's UI difficult and not much help.
+Like any person with ADHD, [[👨‍👧‍👦 People/🧑🏻‍💻 Tane Piper|I've]] tried several systems and invented a few myself - for me nothing has ever stuck - I even tried [Obsidian](https://obsidian.md) before - but found it's UI difficult and not much help.
 
 Things change, and ideas grow - after discussing note taking apps I decided to give Obsidian a try again - I watched [[👨‍👧‍👦 People/👤 Alexis Rondeau]]'s video [How to use Obsidian to write a book](https://www.youtube.com/watch?v=pP4AeGY2mz4) - after this something just clicked.  
 
