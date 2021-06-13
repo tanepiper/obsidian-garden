@@ -1,11 +1,35 @@
 # 🪨🌱 The Obsidian Garden
-> Please note that this is currently in active development an evolving - and riddled with spelling and grammer
+> Please note that this is currently in active development and evolving - and riddled with spelling and grammer mistakes.
+> If you are viewing this on [obsidian.garden](https://obsidian.garden) please be aware that [Obsidian Publish](https://help.obsidian.md/Plugins/Publish) does not yet support community plugins so not all featured are rendered - the project is best viewed in [[📇 Terms/Obsidian|Obsidian]] desktop.
 
 The [[👩‍🌾 Gardening Tips/🪨🌱 Obsidian Garden|Obsidian Garden]] is an opinionated [[📇 Terms/Knowledge Management|Knowledge Management]] toolkit based on [Obsidian](https://obsidian.md) with a set of community [[👩‍🌾 Gardening Tips/🔌 Plugins|plugins]] and Markdown files.
 
 It's designed to be a simple introduction to how you can design your own knowlege management system, rather than be a comprehensive on in itself - each person's garden is different and this is just one way to tend to it.
 
 This set of tools is released under Creative Commons Zero v1.0 Universal [[LICENSE]]
+
+## Building Flow
+Based on the system provided here, this diagram shows the sort of discovery flow that can be created using [[📇 Terms/Obsidian|Obsidian]]
+
+```mermaid
+graph LR
+	Idea((Get Idea)) -- Braindump --> Notes([Create Seeds])
+	Notes --> Triage{Triage}
+	Triage --> Dump
+	Triage --> Organise{{Organise Items}}
+	Organise --> Person>Create Person]
+	Person --> Research>Conduct Research]
+	Organise --> Term>Create Term]
+	Term --> Research
+	Organise --> Todo>Create Todos]
+	Todo --> Discover --> Idea
+	Todo --> Notes
+	Research -- Collect --> Notes
+	Research -- Question --> Notes
+	Research -- Discover --> Idea
+	Research -- Formulate --> Create[\Create new product or service\]
+	Create -- Iterate --> Idea
+```
 
 ## Getting Started
 The garden is designed for anyone who wants to collect data and gather information and use it to [[📇 Terms/Link|links]] and [[📇 Terms/Connection|connections]] and build ideas - like a book, a new software product, or just de-weeding and decluttering life.
