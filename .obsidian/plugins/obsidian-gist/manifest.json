@@ -1,0 +1,10 @@
+{
+  "id": "obsidian-gist",
+  "name": "Gist",
+  "version": "0.7.0",
+  "minAppVersion": "0.9.12",
+  "description": "This is a plugin to display the GitHub Gist.",
+  "author": "Jun Lin",
+  "authorUrl": "https://github.com/linjunpop/obsidian-gist",
+  "isDesktopOnly": false
+}

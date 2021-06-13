@@ -1,0 +1,8 @@
+{
+  "id": "obsidian-reading-time",
+  "name": "Reading Time",
+  "version": "1.0.4",
+  "description": "Add the current note's reading time to Obsidian's status bar.",
+  "isDesktopOnly": false,
+  "js": "main.js"
+}

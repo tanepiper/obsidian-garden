@@ -1,0 +1,49 @@
+/* .nav-file:not(.oz-nav-file) { 
+    display: none !important;
+} */
+
+.oz-file-tree-header{
+    height: 22px;
+    color: var(--text-normal);
+    margin-top: 0px;
+    font-size: 16px;
+    font-weight: bold;
+    margin-bottom: 5px;
+    text-align: center;
+}
+
+.oz-nav-action-button{
+    margin-bottom: 2px !important;
+}
+
+/* .nav-folder-title:not([has-child-folder='true']) > div.nav-folder-collapse-indicator{
+    visibility: hidden;
+} */
+
+.oz-nav-file-title{
+    padding-left: 2px !important;
+    padding-right: 2px !important;
+}
+
+div.workspace-leaf-content[data-type='file-tree-view'] > div.view-content {
+    padding: 10px 5px 10px 5px;
+}
+
+.oz-flex-container {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.nav-folder-children:first-child{
+    margin-bottom: 0px !important;
+}
+
+.oz-explorer-container{
+    padding-left: 3px !important;
+    padding-right: 3px !important;
+}
+
+.oz-file-tree-files{
+    padding-top: 3px !important;
+}

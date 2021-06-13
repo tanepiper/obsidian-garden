@@ -1,0 +1,251 @@
+{
+  "main": {
+    "id": "6d192a8137c21897",
+    "type": "split",
+    "children": [
+      {
+        "id": "b42e78c92abad399",
+        "type": "split",
+        "dimension": 73.63636363636363,
+        "children": [
+          {
+            "id": "13bad62d67db6d12",
+            "type": "leaf",
+            "dimension": 79.61264016309887,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "📇 Terms/Knowledge Management.md",
+                "mode": "source"
+              }
+            },
+            "group": "e13355ba39b2da0e"
+          },
+          {
+            "id": "804c7fa2aa23e95c",
+            "type": "leaf",
+            "dimension": 20.38735983690112,
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "📇 Terms/Knowledge Management.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": true,
+                "unlinkedCollapsed": true
+              }
+            },
+            "group": "e13355ba39b2da0e"
+          }
+        ],
+        "direction": "horizontal"
+      },
+      {
+        "id": "2e1493d491d20609",
+        "type": "split",
+        "dimension": 26.36363636363636,
+        "children": [
+          {
+            "id": "9ce85b3a667faf49",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "📇 Terms/Knowledge Management.md"
+              }
+            },
+            "group": "e13355ba39b2da0e"
+          },
+          {
+            "id": "843a53fd8f30627a",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "📇 Terms/Knowledge Management.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 1,
+                  "close": false
+                }
+              }
+            },
+            "group": "e13355ba39b2da0e"
+          }
+        ],
+        "direction": "horizontal"
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "43bf2720613d7d23",
+    "type": "split",
+    "children": [
+      {
+        "id": "7809a0592f8db2af",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "91f1dcc79c72e889",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "d491b697ebe0bc64",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ea6f776614e699fd",
+            "type": "leaf",
+            "state": {
+              "type": "file-tree-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "322342a2c258bfbb",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "bb7bd0b32145b639",
+    "type": "split",
+    "children": [
+      {
+        "id": "5da860a61f1c73f3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8559220fe2d2af04",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "📇 Terms/Knowledge Management.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "be9f14ab1c389a8f",
+            "type": "leaf",
+            "state": {
+              "type": "stats-tracker",
+              "state": {}
+            }
+          },
+          {
+            "id": "75b4f20e390be5a8",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "df15c937db4eceee",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "📇 Terms/Knowledge Management.md"
+              }
+            }
+          },
+          {
+            "id": "84947e5e37c4b3c3",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "📇 Terms/Knowledge Management.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "1d3b3665ed63b563",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "13bad62d67db6d12",
+  "lastOpenFiles": [
+    "📇 Terms/Knowledge Management.md",
+    "README.md",
+    "👩‍🌾 Gardening Tips/Untitled.md",
+    "🗂 Projects/Untitled.md",
+    "⏣ Templates/Untitled.md",
+    "⏰ ToDo List.md",
+    "👨‍👧‍👦 People.md",
+    "📇 Glossary.md",
+    "📚 Reading.md",
+    "CHANGELOG.md"
+  ]
+}
