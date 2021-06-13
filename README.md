@@ -5,7 +5,7 @@ The [[👩‍🌾 Gardening Tips/🪨🌱 Obsidian Garden|🪨🌱 Obsidian Gard
 This set of tools is released under Creative Commons Zero v1.0 Universal [[LICENSE]]
 
 ## Getting Started
-The garden is designed for anyone who wants to collect data and gather information and use it to build out ideas great ideas - like a book, a new software product, or just de-weeding and decluttering life.
+The garden is designed for anyone who wants to collect data and gather information and use it to [[📇 Terms/Link|link]] [[📇 Terms/Connection|connections]] and build ideas - like a book, a new software product, or just de-weeding and decluttering life.
 
 The easiest way to start is clone [this GitHub repository](https://github.com/tanepiper/obsidian-garden) containing the most up to date version, or download it as a zip file.
 

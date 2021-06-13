@@ -1,0 +1,22 @@
+---
+status: in progress
+type: todoList
+description: The todo list for releasing Obsidian Garden
+startDate: 2021-06-13
+endDate:
+---
+Tags: #todo-list
+Links: [[⏰ ToDo List]]
+
+## Towards Version 0.1.0
+- [ ] Finalise documentation for in
+
+## Initial Release
+- [x] Create git repo
+- [x] Create initial layout structure
+- [x] Create ToDo dashboard
+- [x] Create People Dashboard
+- [x] Create Glossary Dashboard
+- [x] Create Reading Dashboard
+
+## Notes

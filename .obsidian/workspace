@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "README.md",
+            "file": "⏰ Todo Lists/Obsidian Garden Todo.md",
             "mode": "source"
           }
         },
@@ -27,7 +27,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "⏰ Todo Lists/Obsidian Garden Todo.md"
               }
             },
             "group": "c9694d5db174f626"
@@ -38,7 +38,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "README.md",
+                "file": "⏰ Todo Lists/Obsidian Garden Todo.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -62,7 +62,7 @@
                   "linkStrength": 1,
                   "linkDistance": 250,
                   "scale": 1,
-                  "close": false
+                  "close": true
                 }
               }
             },
@@ -74,7 +74,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "⏰ Todo Lists/Obsidian Garden Todo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +159,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "⏰ Todo Lists/Obsidian Garden Todo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -192,7 +192,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "⏰ Todo Lists/Obsidian Garden Todo.md"
               }
             }
           },
@@ -202,7 +202,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "⏰ Todo Lists/Obsidian Garden Todo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -228,15 +228,15 @@
   },
   "active": "906da97215b34231",
   "lastOpenFiles": [
+    "⏰ Todo Lists/Obsidian Garden Todo.md",
     "README.md",
     "📇 Terms/Connection.md",
+    "⏰ ToDo List.md",
+    "📇 Glossary.md",
+    "📚 Reading.md",
     "📇 Terms/Knowledge Management.md",
-    "📇 Terms/Link.md",
-    "📇 Terms/Untitled.md",
     "🌱 Seed Box/Untitled.md",
-    "👩‍🌾 Gardening Tips/🎯 Create Custom Dashboards.md",
-    "👩‍🌾 Gardening Tips/🏭 Project Stucture.md",
-    "👩‍🌾 Gardening Tips/🔌 Plugins.md",
-    "👩‍🌾 Gardening Tips/🪨🌱 Obsidian Garden.md"
+    "📇 Terms/Obsidian.md",
+    "📇 Terms/Link.md"
   ]
 }

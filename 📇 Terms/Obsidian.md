@@ -2,14 +2,14 @@
 status: done
 type: term
 description: Description of Obsidian
-category: 
+category: obsidian
 ---
 Tags: #term #obsidian #knowledge-management 
 Links: [[📇 Glossary]]
 
 ## Definition
 1. Obsidian is a naturally occurring volcanic glass formed when lava extruded from a volcano cools rapidly with minimal crystal growth. It is an igneous rock. Obsidian is produced from felsic lava, rich in the lighter elements such as silicon, oxygen, aluminium, sodium, and potassium.
-2. A knowledge base that works on local Markdown files.
+2. A knowledge systems that works on local Markdown files.
 
 ## Sources
 1. [Wikipedia](https://en.wikipedia.org/wiki/Obsidian)
