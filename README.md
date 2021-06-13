@@ -2,7 +2,7 @@
 
 The [[👩‍🌾 Gardening Tips/🪨🌱 Obsidian Garden]] is a set of tools to help you plant the seeds of great ideas, letting them grow in to the next great thing that you do.
 
-To use the toolset you need [Obsidian](https://obsidian.md) - a [[Knowledge Management]] system that lets you collect ideas and form new connections between them plus the installed [[👩‍🌾 Gardening Tips/🔌 Plugins]]
+To use the toolset you need [Obsidian](https://obsidian.md) - a [[📇 Terms/Knowledge Management]] system that lets you collect ideas and form new connections between them plus the installed [[👩‍🌾 Gardening Tips/🔌 Plugins]]
 
 The garden is great for people who want to gather and collect data to build out ideas like a book, a new software product, or just deweeding and decluttering life.
 
