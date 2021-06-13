@@ -1,4 +1,5 @@
 ---
+aliases: [Connection, connections, connect]
 status: done
 type: term
 description: Description of the word "connection"

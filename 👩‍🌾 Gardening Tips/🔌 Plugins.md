@@ -1,4 +1,5 @@
 ---
+aliases: [Plugins, plugins]
 type: tutorial
 description: A list of all the plugins used in this Obsidian vault
 ---

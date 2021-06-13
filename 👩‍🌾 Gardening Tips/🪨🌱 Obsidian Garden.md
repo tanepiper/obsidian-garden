@@ -1,4 +1,5 @@
 ---
+aliases: [Obsidian Garden, garden, gardening]
 type: tutorial
 ---
 Tags: #obsidian #gardening #ideas #tutorials #principles

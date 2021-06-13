@@ -1,14 +1,13 @@
 ---
 type: dashboard
+description: A dashboard for all the reading items in the garden
 ---
-## Curating A Reading List 📚
-This dashboard is designed to help curate and manage a reading list based on statuses.
+## 📚 Curating A Reading List
+Reading is one of the best ways to gather knowledge from multiple sources - reading can be books - in physical and electronic form, magazines, blog posts and articles.
 
-To create a new reading item use the [[⏣ Templates/📙 New Reading Item]] template to create an item, set the format such as "Book", "E-Book", etc from the options and fill in the other details.
+Every good reading subject should be something to questions to find answers, and to seek unknown knowledge - by using the [[⏣ Templates/📙 New Reading Item]] you can create a list of items to review and extract data from.
 
-When you have added some details to a document, set the status from "triage" to "ready". when picking up a reading item set the status to "in progress" and when finished to "done".
-
-When finished a book, you can add a rating.
+This dashboard is designed to help curate and manage a reading list based on statuses - from a backlog of items being read, to seeing how successful you've already been.
 
 ### Triage List
 This list contains items not yet processed - to remove them from this list set their status to "ready"
@@ -20,6 +19,7 @@ and status = "triage"
 ```
 
 ### In Progress List
+Items that are current in progress of being read and reviewed
 ```dataview
 table author as "Author", format as "Format"
 from #reading
@@ -28,6 +28,7 @@ and status = "in progress"
 ```
 
 ### Done
+A list of all your finished items
 ```dataview
 table author as "Author", format as "Format", rating as "Rating"
 from #reading

@@ -1,4 +1,5 @@
 ---
+aliases: [Statuses, statuses, status]
 type: tutorial
 ---
 

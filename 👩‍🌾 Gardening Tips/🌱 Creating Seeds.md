@@ -1,4 +1,5 @@
 ---
+aliases: [Creating Seeds, create seeds, create a seed, seeds, seed]
 type: tutorial
 ---
 Tags: #tutorials #seed #triage #tags #templates #statuses

@@ -1,4 +1,5 @@
 ---
+aliases: [frontmatter]
 status: done
 type: term
 description: A definition for "front matter" for YAML files

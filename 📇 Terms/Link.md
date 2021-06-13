@@ -1,4 +1,5 @@
 ---
+alias: [Link, link, links]
 status: done
 type: term
 description: Description of a Link

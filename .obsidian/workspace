@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "ea1557e3a3f71e4b",
+        "id": "fca7083a899b5e03",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "🌱 Seed Box/🧠 Create My First Idea.md",
+            "file": "README.md",
             "mode": "source"
           }
         }
@@ -84,7 +84,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🌱 Seed Box/🧠 Create My First Idea.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🌱 Seed Box/🧠 Create My First Idea.md"
+                "file": "README.md"
               }
             }
           },
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🌱 Seed Box/🧠 Create My First Idea.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "🌱 Seed Box/🧠 Create My First Idea.md",
+                "file": "README.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -186,17 +186,17 @@
     "direction": "horizontal",
     "width": 305.5
   },
-  "active": "ea1557e3a3f71e4b",
+  "active": "fca7083a899b5e03",
   "lastOpenFiles": [
-    "🌱 Seed Box/🧠 Create My First Idea.md",
-    "⏰ Todo Lists/Obsidian Garden Todo.md",
-    "⏣ Templates/🪛 Todo List.md",
-    "⏣ Templates/🗒 Basic Note.md",
-    "⏣ Templates/🔬 New Research.md",
-    "⏣ Templates/🔖 New Term.md",
-    "⏣ Templates/📙 New Reading Item.md",
-    "⏣ Templates/👤 New Person.md",
-    "⏣ Templates/▶️ Basic Kanban.md",
+    "README.md",
+    "⏰ ToDo List.md",
+    "👨‍👧‍👦 People.md",
+    "📇 Glossary.md",
+    "📚 Reading.md",
+    "🌱 Seed Box/garden.md",
+    "👩‍🌾 Gardening Tips/🪨🌱 Obsidian Garden.md",
+    "👩‍🌾 Gardening Tips/🌱 Creating Seeds.md",
+    "👩‍🌾 Gardening Tips/⚠️ Statuses.md",
     "👩‍🌾 Gardening Tips/🎯 Create Custom Dashboards.md"
   ]
 }

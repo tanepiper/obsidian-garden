@@ -1,4 +1,5 @@
 ---
+aliases: [Knowledge Management]
 status: in progress
 type: term
 description: Description for Knowledge Management

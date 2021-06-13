@@ -1,4 +1,5 @@
 ---
+aliases: [Project Stucture, project structure, projects]
 type: tutorial
 description: How to use this folder
 ---
