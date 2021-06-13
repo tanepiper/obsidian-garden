@@ -6,6 +6,8 @@ To use the toolset you need [Obsidian](https://obsidian.md) - a [[Knowledge Mana
 
 The garden is great for people who want to gather and collect data to build out ideas like a book, a new software product, or just deweeding and decluttering life.
 
+This set of tools is released under Creative Commons Zero v1.0 Universal [[LICENSE]]
+
 ## Getting Started
 To get started: Fork this repository, and then clone it - then open in Obsidian.  The first thing is to [[👩‍🌾 Gardening Tips/🌱 Creating Seeds]] which allow you to start building up your knowledge collection.
 
