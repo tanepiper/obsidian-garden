@@ -1,6 +1,7 @@
 ---
 status: in progress
 type: daily
+description: Basic layout for a Daily Note
 ---
 Tags: #daily-note
 Links: <!-- Add any additional links here -->

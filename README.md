@@ -2,46 +2,31 @@
 
 The [[👩‍🌾 Gardening Tips/🪨🌱 Obsidian Garden]] is a set of tools to help you plant the seeds of great ideas, letting them grow in to the next great thing that you do.
 
-Built in [Obsidian](https://obsidian.md)
+To use the toolset you need [Obsidian](https://obsidian.md) - a [[Knowledge Management]] system that lets you collect ideas and form new connections between them.
 
 The garden is great for people who want to gather and collect data to build out ideas like a book, a new software product, or just deweeding and decluttering life.
 
 ## Getting Started
-To get started, clone this repository and open in [Obsidian](https://obsidian.md). To create a new template file (on OSX) use **⌘ + n** or select a template with **⌘ + ⌥ + n** - a list of [templates](#Templates) is listed below.
+To get started: Fork this repository, and then clone it - then open in Obsidian.  The first thing is to [[👩‍🌾 Gardening Tips/🌱 Creating Seeds]] which allow you to start building up your knowledge collection.
 
-## How to grow the garden
+There are a set of base [templates](#Templates) that give you a set of options for collecting data - using the garden you should [[Link]] and #tag as much as possible and adding your own templates is encouraged.
 
-### Query-Driven Dashboards
-One of the features of the garden is the dashboard pages, these allow dynamic queries to be created - for example these are the 5 most recent files worked on and their last modified time:
+Once you have your data you can start using dashboards like [[📚 Reading]] or [[👨‍👧‍👦 People]] to see what's upcoming and in progress, and how far you've come.
 
+Work with [[👩‍🌾 Gardening Tips/⚠️ Statuses]] and [[👩‍🌾 Gardening Tips/🎯 Create Custom Dashboards]] to get the best out of your knowledge collection.
+
+Once you're ready, feel free to change this readme and turn it into your home dashboard
+
+### Last 5 Files Edited
 ```dataview
-list file.mtime
+table file.mtime as "Modified Time"
 where file.mtime < (date(today) + dur(1 day))
 sort file.mtime DESC
 limit 5
 ```
 
-### Templates
-
-These templates will help you get started in making notes, each one contains a basic Frontmatter configuration for each type - these properties are used to make dataview queries
-
-```dataview
-list from "⏣ Templates"
-sort file.name ASC
-```
-
-### The 🌱 Seed Box and Statuses
-The 🌱 Seed Box is your inbox for new notes and ideas - when you create a new file, it will go here.  The files contain properties that are used for queries - the most important is the `status` property which is set to `triage` to start with, this means the file requires some pruning.
-
-Once you have set the file properties and added some detail, you can set the `status` to `ready`. This indicates it's ready to pick up.
-
-When a item is in flight, set it to `in progress` and finally when complete, set to `done`.
-
-You can create your own custom statuses too, but these 4 build the foundation of the gardens queries.
-
-#### Current 🌰 Seeds
-
+### 🌱 Seed Box
 ```dataview
 list from "🌱 Seed Box"
-sort file.mtime DESC
+sort file.ctime DESC
 ```

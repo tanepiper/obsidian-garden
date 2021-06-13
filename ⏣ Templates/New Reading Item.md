@@ -1,6 +1,7 @@
 ---
 status: triage
 type: reading
+description: A new reading item such as as book, article, blog post or PDF
 format: <% tp.system.suggester(["Book", "E-Book", "Article", "Blog Post", "PDF", "Custom"], ["Book", "E-Book", "Article", "Blog Post", "PDF", ""]) %>
 author: 
 rating: 
