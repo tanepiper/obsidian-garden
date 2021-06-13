@@ -4,90 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "906da97215b34231",
+        "id": "ea1557e3a3f71e4b",
         "type": "leaf",
-        "dimension": 73.18181818181819,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "⏰ Todo Lists/Obsidian Garden Todo.md",
+            "file": "👩‍🌾 Gardening Tips/🪨🌱 Obsidian Garden.md",
             "mode": "source"
           }
-        },
-        "group": "c9694d5db174f626"
-      },
-      {
-        "id": "ec1a8dc40647d332",
-        "type": "split",
-        "dimension": 26.81818181818182,
-        "children": [
-          {
-            "id": "ee26878cff1f700e",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "⏰ Todo Lists/Obsidian Garden Todo.md"
-              }
-            },
-            "group": "c9694d5db174f626"
-          },
-          {
-            "id": "b881b9b402aa2243",
-            "type": "leaf",
-            "state": {
-              "type": "localgraph",
-              "state": {
-                "file": "⏰ Todo Lists/Obsidian Garden Todo.md",
-                "options": {
-                  "collapse-filter": true,
-                  "search": "",
-                  "localJumps": 1,
-                  "localBacklinks": true,
-                  "localForelinks": true,
-                  "localInterlinks": false,
-                  "showTags": false,
-                  "showAttachments": false,
-                  "hideUnresolved": false,
-                  "collapse-color-groups": true,
-                  "colorGroups": [],
-                  "collapse-display": true,
-                  "showArrow": false,
-                  "textFadeMultiplier": 0,
-                  "nodeSizeMultiplier": 1,
-                  "lineSizeMultiplier": 1,
-                  "collapse-forces": true,
-                  "centerStrength": 0.518713248970312,
-                  "repelStrength": 10,
-                  "linkStrength": 1,
-                  "linkDistance": 250,
-                  "scale": 1,
-                  "close": true
-                }
-              }
-            },
-            "group": "c9694d5db174f626"
-          },
-          {
-            "id": "2ab3748456947f7e",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "⏰ Todo Lists/Obsidian Garden Todo.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            },
-            "group": "c9694d5db174f626"
-          }
-        ],
-        "direction": "horizontal"
+        }
       }
     ],
     "direction": "vertical"
@@ -159,7 +84,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "⏰ Todo Lists/Obsidian Garden Todo.md",
+                "file": "👩‍🌾 Gardening Tips/🪨🌱 Obsidian Garden.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -192,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "⏰ Todo Lists/Obsidian Garden Todo.md"
+                "file": "👩‍🌾 Gardening Tips/🪨🌱 Obsidian Garden.md"
               }
             }
           },
@@ -202,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "⏰ Todo Lists/Obsidian Garden Todo.md",
+                "file": "👩‍🌾 Gardening Tips/🪨🌱 Obsidian Garden.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -218,25 +143,59 @@
                 "useHierarchy": true
               }
             }
+          },
+          {
+            "id": "b881b9b402aa2243",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "👩‍🌾 Gardening Tips/🪨🌱 Obsidian Garden.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 1,
+                  "close": true
+                }
+              }
+            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 305.5
   },
-  "active": "906da97215b34231",
+  "active": "ea1557e3a3f71e4b",
   "lastOpenFiles": [
-    "⏰ Todo Lists/Obsidian Garden Todo.md",
+    "👩‍🌾 Gardening Tips/🪨🌱 Obsidian Garden.md",
+    "👩‍🌾 Gardening Tips/🔌 Plugins.md",
+    "👩‍🌾 Gardening Tips/🏭 Project Stucture.md",
+    "👩‍🌾 Gardening Tips/🎯 Create Custom Dashboards.md",
+    "👩‍🌾 Gardening Tips/🌱 Creating Seeds.md",
+    "👩‍🌾 Gardening Tips/⚠️ Statuses.md",
+    "🌱 Seed Box/query dashboards.md",
     "README.md",
-    "📇 Terms/Connection.md",
-    "⏰ ToDo List.md",
-    "📇 Glossary.md",
-    "📚 Reading.md",
-    "📇 Terms/Knowledge Management.md",
-    "🌱 Seed Box/Untitled.md",
-    "📇 Terms/Obsidian.md",
-    "📇 Terms/Link.md"
+    "🌱 Seed Box/🧠 Create My First Idea.md",
+    "⏣ Templates/▶️ Basic Kanban.md"
   ]
 }

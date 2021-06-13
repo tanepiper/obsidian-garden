@@ -3,10 +3,12 @@ type: tutorial
 ---
 
 ## Custom dashboards with dataview
-The [dataview](https://blacksmithgu.github.io/obsidian-dataview/) plugin allows for the creation of simple but rich dynamic queries across your Obsidian dataset.
+The [Dataview](https://blacksmithgu.github.io/obsidian-dataview/) plugin for [[📇 Terms/Obsidian]] allows for the creation of 3 basic types of view using a SQL-like language, as well as JavaScript functions too.
 
-For example, here are the last 5 edited files - click the "Preview" button to see it
+Full documentation is available on the site, but to help you along here are some basic examples - if you see the `dataview` code, switch to preview mode.
 
+### Last 5 edited files
+Using the `file` object you can query properties and use functions to do things like date comparsion:
 ```dataview
 list file.mtime
 where file.mtime < (date(today) + dur(1 day))
@@ -14,25 +16,27 @@ sort file.mtime DESC
 limit 5
 ```
 
-You can be more specific with queries, for example lets find all the pages that contain the `tutorial` type in frontmatter
-
+### Show all tutorials
+You can be more specific with queries, for example lets find all the pages that contain the `tutorial` type in [[📇 Terms/Front Matter|Front Matter]]:
 ```dataview
 list where type = "tutorial"
 ```
 
-We can also create tables, here we can select a specific folder containing our templates, and we'll sort them by name
+### Show all 🌱 Seed templates
+As well as lists, you can also render tables - when doing this, you can use file and [[📇 Terms/Front Matter]] properties and provide them a label.
 
+Querying can be done in a specific folder
 ```dataview
 table description as "Description"
 from "⏣ Templates"
 sort file.name ASC
 ```
 
-We can also query tags, here we can also filter out files like templates
-
+### People table
+As well as folders we can also query `#tags` - when doing this it's good to exclude template files from the query
 ```dataview
 table connection as "Connection"
 from #person
 sort file.name ASC
-where file.name != "New Person"
+where file.name != "👤 New Person"
 ```

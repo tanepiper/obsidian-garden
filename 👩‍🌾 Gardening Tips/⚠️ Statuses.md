@@ -3,7 +3,7 @@ type: tutorial
 ---
 
 ## How to use statuses
-A `status` is a frontmatter property contained in all the ⏣ Template files.  This status is designed to help understand where a file's current progress is in being usable as data - rather than the file being finished - and use this to build [[query dashboards]].  
+A `status` is a frontmatter property contained in all the ⏣ Template files.  This status is designed to help understand where a file's current progress is in being usable as data - rather than the file being finished - and use this to [[👩‍🌾 Gardening Tips/🎯 Create Custom Dashboards]]  
 
 Not all files need a status type (such as these tutorial files) - and it's mostly used to indicate that a file or idea has been dealt with - even when set to `done` this does not mean the file will never change again!
 
