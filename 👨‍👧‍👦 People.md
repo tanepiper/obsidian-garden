@@ -12,5 +12,5 @@ This dashboard shows all your current people with the `#person` tag and how they
 
 ```dataview
 list from #person 
-where file.name != "New Person"
+where file.name != "👤 New Person"
 ```

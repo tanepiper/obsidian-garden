@@ -9,7 +9,11 @@ It's designed to be a simple introduction to how you can design your own knowleg
 This set of tools is released under Creative Commons Zero v1.0 Universal [[LICENSE]]
 
 ## Building Flow
-Based on the system provided here, this diagram shows the sort of discovery flow that can be created using [[📇 Terms/Obsidian|Obsidian]]
+The garden is designed for anyone who wants to collect data and gather information and use it to [[📇 Terms/Link|links]] and [[📇 Terms/Connection|connections]] and build ideas - like a book, a new software product, or just de-weeding and decluttering life.
+
+Based on the system provided here, this diagram shows basic idea of some of discovery flow that is possible using [[📇 Terms/Obsidian|Obsidian]]. Starting with an idea, we create some [[👩‍🌾 Gardening Tips/🌱 Creating Seeds|seeds]] which we will triage later.  Some seeds won't make it and might get dumped.
+
+The one's that do might go in to be new terms, or contacts or things to research.  Each of these things provide us more [[📇 Terms/Link|links]] and [[📇 Terms/Connection|connections]] that we can use to discover more knowlege.
 
 ```mermaid
 graph LR
@@ -17,23 +21,19 @@ graph LR
 	Notes --> Triage{Triage}
 	Triage --> Dump
 	Triage --> Organise{{Organise Items}}
-	Organise --> Person>Create Person]
+	Organise -- Create --> Person
 	Person --> Research>Conduct Research]
-	Organise --> Term>Create Term]
+	Organise -- Create --> Term
 	Term --> Research
-	Organise --> Todo>Create Todos]
-	Todo --> Discover --> Idea
-	Todo --> Notes
-	Research -- Collect --> Notes
-	Research -- Question --> Notes
+	Organise -- Create --> Todo
+	Todo -- Discover --> Idea
+	Research -- Question --> Person
 	Research -- Discover --> Idea
-	Research -- Formulate --> Create[\Create new product or service\]
+	Research -- Formulate --> Create
 	Create -- Iterate --> Idea
 ```
 
 ## Getting Started
-The garden is designed for anyone who wants to collect data and gather information and use it to [[📇 Terms/Link|links]] and [[📇 Terms/Connection|connections]] and build ideas - like a book, a new software product, or just de-weeding and decluttering life.
-
 The easiest way to start is clone [this GitHub repository](https://github.com/tanepiper/obsidian-garden) containing the most up to date version, or download it as a zip file.
 
 > `git clone https://github.com/tanepiper/obsidian-garden.git`

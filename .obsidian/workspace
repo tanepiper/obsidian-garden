@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "README.md",
+            "file": "👩‍🌾 Gardening Tips/🎯 Create Custom Dashboards.md",
             "mode": "preview"
           }
         }
@@ -84,7 +84,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "👩‍🌾 Gardening Tips/🎯 Create Custom Dashboards.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "👩‍🌾 Gardening Tips/🎯 Create Custom Dashboards.md"
               }
             }
           },
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "👩‍🌾 Gardening Tips/🎯 Create Custom Dashboards.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "README.md",
+                "file": "👩‍🌾 Gardening Tips/🎯 Create Custom Dashboards.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -184,19 +184,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 305.5
+    "width": 305.5,
+    "collapsed": true
   },
   "active": "fca7083a899b5e03",
   "lastOpenFiles": [
-    "README.md",
+    "👩‍🌾 Gardening Tips/🎯 Create Custom Dashboards.md",
     "⏰ ToDo List.md",
     "👨‍👧‍👦 People.md",
+    "⏣ Templates/👤 New Person.md",
     "📇 Glossary.md",
     "📚 Reading.md",
+    "README.md",
     "🌱 Seed Box/garden.md",
     "👩‍🌾 Gardening Tips/🪨🌱 Obsidian Garden.md",
-    "👩‍🌾 Gardening Tips/🌱 Creating Seeds.md",
-    "👩‍🌾 Gardening Tips/⚠️ Statuses.md",
-    "👩‍🌾 Gardening Tips/🎯 Create Custom Dashboards.md"
+    "👩‍🌾 Gardening Tips/🌱 Creating Seeds.md"
   ]
 }
