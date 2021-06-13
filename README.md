@@ -1,5 +1,8 @@
 # 🪨🌱 The Obsidian Garden
-The Obsidian Garden is a set of tools to help you plant the seeds of great ideas, letting them grow in to the next great thing that you do.
+
+The [[👩‍🌾 Gardening Tips/🪨🌱 Obsidian Garden]] is a set of tools to help you plant the seeds of great ideas, letting them grow in to the next great thing that you do.
+
+Built in [Obsidian](https://obsidian.md)
 
 The garden is great for people who want to gather and collect data to build out ideas like a book, a new software product, or just deweeding and decluttering life.
 
