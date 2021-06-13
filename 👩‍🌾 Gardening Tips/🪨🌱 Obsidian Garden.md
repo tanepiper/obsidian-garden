@@ -8,11 +8,11 @@ Tags: #obsidian #gardening #ideas #tutorials #principles
 ## What is the 🪨🌱 Obsidian Garden?
 Like any person with ADHD, I've tried several systems and invented a few myself - for me nothing has ever stuck - I even tried [Obsidian](https://obsidian.md) before - but found it's UI difficult and not much help.
 
-Things change, and ideas grow - after discussing note taking apps I decided to give Obsidian a try again - I watched [[👨‍👧‍👦 People/Alexis Rondeau]]'s video [How to use Obsidian to write a book](https://www.youtube.com/watch?v=pP4AeGY2mz4) - after this something just clicked.  
+Things change, and ideas grow - after discussing note taking apps I decided to give Obsidian a try again - I watched [[👨‍👧‍👦 People/👤 Alexis Rondeau]]'s video [How to use Obsidian to write a book](https://www.youtube.com/watch?v=pP4AeGY2mz4) - after this something just clicked.  
 
 Within hours I already had things close to how I liked it. This document I'm writing now is about 24 hours later - I didn't waste any time getting started on making a great template for myself to use, but also to share.
 
-Based on what I've learned in that short time, I've tried to come up with a simple idea that is reusable - a structure that contains a way to create connections, to set up goals and to capture knowledge.  The garden and seed idea are not new, but I've tried to crystalise it into a set of principles.
+Based on what I've learned in that short time, I've tried to come up with a simple idea that is reusable - a structure that contains a way to create connections, to set up goals and to capture knowledge.  The garden and seed idea are not new, but I've tried to crystalise it into a set of principles for [[🌱 Seed Box/Knowledge Management]].
 
 ## The Garden Analogy
 I myself enjoy gardening - both in my own back yard, and an allotment with greenhouse, raised beds and berry bushes.  As you learn the ways of gardening it helps see how nurturing and growing plants leads to a rewarding harvest.
@@ -31,7 +31,7 @@ Each template file contains a set of frontmatter properties, the most important 
 ### Sensible Templates
 [[👩‍🌾 Gardening Tips/🌱 Creating Seeds]]
 
-Each template also has a sensible set of default layouts and purpose - for example the [[⏣ Templates/New Reading Item]] template has sections for quotes, questions and reviews.
+Each template also has a sensible set of default layouts and purpose - for example the [[⏣ Templates/📙 New Reading Item]] template has sections for quotes, questions and reviews.
 
 ### Query-driven pages
 [[👩‍🌾 Gardening Tips/🎯 Create Custom Dashboards]]
