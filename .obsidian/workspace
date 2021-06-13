@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "👩‍🌾 Gardening Tips/🪨🌱 Obsidian Garden.md",
+            "file": "🌱 Seed Box/🧠 Create My First Idea.md",
             "mode": "source"
           }
         }
@@ -84,14 +84,14 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "👩‍🌾 Gardening Tips/🪨🌱 Obsidian Garden.md",
+                "file": "🌱 Seed Box/🧠 Create My First Idea.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
           },
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "👩‍🌾 Gardening Tips/🪨🌱 Obsidian Garden.md"
+                "file": "🌱 Seed Box/🧠 Create My First Idea.md"
               }
             }
           },
@@ -127,9 +127,9 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "👩‍🌾 Gardening Tips/🪨🌱 Obsidian Garden.md",
+                "file": "🌱 Seed Box/🧠 Create My First Idea.md",
                 "linksCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
           },
@@ -150,7 +150,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "👩‍🌾 Gardening Tips/🪨🌱 Obsidian Garden.md",
+                "file": "🌱 Seed Box/🧠 Create My First Idea.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -179,7 +179,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
@@ -187,15 +188,15 @@
   },
   "active": "ea1557e3a3f71e4b",
   "lastOpenFiles": [
-    "👩‍🌾 Gardening Tips/🪨🌱 Obsidian Garden.md",
-    "👩‍🌾 Gardening Tips/🔌 Plugins.md",
-    "👩‍🌾 Gardening Tips/🏭 Project Stucture.md",
-    "👩‍🌾 Gardening Tips/🎯 Create Custom Dashboards.md",
-    "👩‍🌾 Gardening Tips/🌱 Creating Seeds.md",
-    "👩‍🌾 Gardening Tips/⚠️ Statuses.md",
-    "🌱 Seed Box/query dashboards.md",
-    "README.md",
     "🌱 Seed Box/🧠 Create My First Idea.md",
-    "⏣ Templates/▶️ Basic Kanban.md"
+    "⏰ Todo Lists/Obsidian Garden Todo.md",
+    "⏣ Templates/🪛 Todo List.md",
+    "⏣ Templates/🗒 Basic Note.md",
+    "⏣ Templates/🔬 New Research.md",
+    "⏣ Templates/🔖 New Term.md",
+    "⏣ Templates/📙 New Reading Item.md",
+    "⏣ Templates/👤 New Person.md",
+    "⏣ Templates/▶️ Basic Kanban.md",
+    "👩‍🌾 Gardening Tips/🎯 Create Custom Dashboards.md"
   ]
 }
