@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "CHANGELOG.md",
-            "mode": "source"
+            "file": "README.md",
+            "mode": "preview"
           }
         }
       }
@@ -84,7 +84,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CHANGELOG.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CHANGELOG.md"
+                "file": "README.md"
               }
             }
           },
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CHANGELOG.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "CHANGELOG.md",
+                "file": "README.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -188,15 +188,15 @@
   },
   "active": "8b3f784f18038499",
   "lastOpenFiles": [
-    "CHANGELOG.md",
     "README.md",
-    "🪵 Backlog/Shopping List.md",
-    "🪴 Grow Room.md",
-    "🌱 Seed Box/Untitled.md",
-    "⏰ ToDo List.md",
-    "🌱 Seed Box.md",
-    "👨‍👧‍👦 People.md",
+    "📇 Terms/Link.md",
+    "📇 Terms/Obsidian.md",
+    "📇 Terms/System.md",
+    "📇 Terms/Connection.md",
     "📇 Glossary.md",
-    "📚 Reading.md"
+    "📇 Terms/Front Matter.md",
+    "📇 Terms/Knowledge Management.md",
+    "CHANGELOG.md",
+    "🪵 Backlog/Shopping List.md"
   ]
 }

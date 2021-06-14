@@ -1,11 +1,11 @@
 ---
-status: done
+aliases: [System, systems]
 type: term
-description: The definition of the word "system"
-category: 
 ---
-Tags: #term #system #systems-thinking
-Links: [[📇 Glossary]]
+Status:: #in-progress  
+Category:: Concepts
+Tags:: #term #system #systems-thinking
+Links:: [[📇 Glossary]]
 
 ## Definition
 1. a set of things working together as parts of a mechanism or an interconnecting network; a complex whole.
@@ -16,4 +16,5 @@ Links: [[📇 Glossary]]
 - [Wikipedia](https://en.wikipedia.org/wiki/System)
 
 ## Uses
-In [[📇 Terms/Knowledge Management]] for [[Systems Thinking]]
+- In [[📇 Terms/Knowledge Management]] systems
+- [[Systems Thinking]]
