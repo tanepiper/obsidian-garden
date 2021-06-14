@@ -37,4 +37,4 @@ Each template also has a sensible set of default layouts and purpose - for examp
 ### Query-driven pages
 [[👩‍🌾 Gardening Tips/🎯 Create Custom Dashboards]]
 
-Query-driven pages live at the top level of the garden, for example [[📚 Reading]] and [[👨‍👧‍👦 People]], as well as the [[README]] file. These allow quick access to pages that let you see the underlying data in your files.
+Query-driven pages live at the top level of the garden, for example [[📚 Reading]] and [[👨‍👧‍👦 People]], as well as the [[👩‍🌾 Your Knowledge Garden]] file. These allow quick access to pages that let you see the underlying data in your files.
