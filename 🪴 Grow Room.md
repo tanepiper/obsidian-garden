@@ -13,10 +13,12 @@ When you are in a creative flow, use [[📇 Terms/Link|links]] and `#tags` in al
 
 Using the [Templater](https://github.com/SilentVoid13/Templater) plugin you can use the command pallete to change from a [[⏣ Templates/🗒 Basic Note]] to any other type - such as [[⏣ Templates/📙 New Reading Item]].
 
-If you are not ready to place the file, or have a file that can be deleted after use (like a shopping list) you can place it in the 🪵 Backlog - this is another inbox for files that are ready to be delt with.
+If you are not ready to place the file, or have a file that can be deleted after use (like a shopping list) you can place it in the 🪵 Backlog - this is another inbox for files that are ready to be dealt with.
+
+---
 
 ## 🪵 Current Backlog
-You're entire backlog is visible
+Your entire backlog is visible
 ```dataview
 table file.ctime as "Planted at" 
 from "🪵 Backlog"
