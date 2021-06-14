@@ -9,7 +9,7 @@ Tags: #todo-list
 Links: [[⏰ ToDo List]]
 
 ## Towards Version 0.2.0
-- [ ] Move some properties from frontmatter to `Value::` properties in docs (e.g. status, tags, etc)
+- [x] Move some properties from frontmatter to `Value::` properties in docs (e.g. status, tags, etc)
 - [ ] Create Filters and sorting for Tables and Lists
 
 ## Towards Version 0.1.0

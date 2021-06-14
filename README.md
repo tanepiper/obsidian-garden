@@ -21,15 +21,20 @@ This set of tools is released under Creative Commons Zero v1.0 Universal [[LICEN
 
 The garden is designed for anyone who wants to create their own [[📇 Terms/Knowledge Management|Knowledge Management]] system to currate content and ideas. The [[📇 Terms/Obsidian|Obsidian]] way is to use a lot of [[📇 Terms/Link|links]], `#tags` and [[📇 Terms/Connection|connections]] (and I mean A LOT!)
 
-Based on the system provided here, this diagram shows basic idea of some of discovery flow that is possible using [[📇 Terms/Obsidian|Obsidian]]. Starting with an idea, we create some [[👩‍🌾 Gardening Tips/🌱 Creating Seeds|seeds]] which we will triage later.  Some seeds won't make it and might get dumped.
+Based on the system provided here, this diagram shows basic idea of some of discovery flow that is possible using [[📇 Terms/Obsidian|Obsidian]]. Starting with an idea, we create some [[👩‍🌾 Gardening Tips/🌱 Creating Seeds|seeds]] which we will triage later.  
 
-The one's that do might go in to be new terms, or contacts or things to research (just a selection of things we can create).  Each of these things provide us more [[📇 Terms/Link|links]] and [[📇 Terms/Connection|connections]] that we can use to discover more knowlege.
+Some seeds won't make it and might get dumped. Some seeds need to be dealt with, but are not yet ready to be categorised - here you can use the 🪵 Backlog - another inbox for items ready to be picked up.
+
+Each seed we create allows for more [[📇 Terms/Link|links]] and [[📇 Terms/Connection|connections]] that we can use to discover more knowlege.
 
 ```mermaid
 graph LR
 	Idea((Get Idea)) -- Braindump --> Notes([Create Seeds])
 	Notes --> Triage{Triage}
 	Triage --> Dump
+	Triage --> Backlog
+	Backlog --> Dump
+	Backlog --> Organise
 	Triage --> Organise{{Organise Items}}
 	Organise -- Create --> Person
 	Person --> Research>Conduct Research]
@@ -61,6 +66,21 @@ Once a seed has been moved to the correct location you can update the [[👩‍�
 
 Once you're ready, feel free to change this readme and turn it into your home dashboard.
 
+## 🪵 Current Backlog
+```dataview
+table file.ctime as "Planted at" 
+from "🪵 Backlog"
+sort file.ctime DESC
+```
+
+## 🌱 Seed Box Latest 5
+```dataview
+table file.ctime as "Planted at" 
+from "🌱 Seed Box"
+sort file.ctime DESC
+limit 5
+```
+
 ## Last 5 Files Edited
 ```dataview
 table file.mtime as "Last tended to"
@@ -69,9 +89,3 @@ sort file.mtime DESC
 limit 5
 ```
 
-## 🌱 Seed Box Latest 5
-```dataview
-table file.ctime as "Planted at" 
-from "🌱 Seed Box"
-sort file.ctime DESC
-```

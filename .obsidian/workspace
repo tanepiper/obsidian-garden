@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "🌱 Seed Box/Untitled.md",
-            "mode": "source"
+            "file": "🪴 Grow Room.md",
+            "mode": "preview"
           }
         }
       }
@@ -84,7 +84,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🌱 Seed Box/Untitled.md",
+                "file": "🪴 Grow Room.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🌱 Seed Box/Untitled.md"
+                "file": "🪴 Grow Room.md"
               }
             }
           },
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🌱 Seed Box/Untitled.md",
+                "file": "🪴 Grow Room.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "🌱 Seed Box/Untitled.md",
+                "file": "🪴 Grow Room.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -188,15 +188,15 @@
   },
   "active": "8b3f784f18038499",
   "lastOpenFiles": [
+    "🪴 Grow Room.md",
+    "README.md",
     "🌱 Seed Box/Untitled.md",
-    "👨‍👧‍👦 People/🧑🏻‍💻 Tane Piper.md",
-    "🖇 Attachments/Tane color WEB4.jpg",
-    "👨‍👧‍👦 People/👤 Alexis Rondeau.md",
-    "⏣ Templates/👤 New Person.md",
-    "🌱 Seed Box/🧠 Create My First Idea.md",
-    "⏣ Templates/🗒 Basic Note.md",
-    "⏣ Templates/🗓 Daily Note.md",
-    "⏰ Todo Lists/Obsidian Garden Todo.md",
-    "⏣ Templates/🪛 Todo List.md"
+    "⏰ ToDo List.md",
+    "🌱 Seed Box.md",
+    "👨‍👧‍👦 People.md",
+    "📇 Glossary.md",
+    "📚 Reading.md",
+    "CHANGELOG.md",
+    "🗂 Projects/My New Garden/Next Steps.md"
   ]
 }

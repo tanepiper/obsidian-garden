@@ -14,7 +14,9 @@ I re-discovered [[📇 Terms/Obsidian|Obsidian]] after not finding it so user fr
 
 Within 24 hours I had created the 🌱 [[👩‍🌾 Gardening Tips/🌱 Creating Seeds|seed]] of this idea - a [[📇 Terms/Knowledge Management|Knowledge Management]] system that itself is a tutorial on how to build your own.  Each person, and each project, is different - so it needs to be organic.
 
-Hopefully you find it useful - if you do reach out on Twitter or GitHub.
+Who know's if it'll stick - but with data portability and a great concept (once you get over the initial curve) I'm hoping it'll become one of my daily tools.
+
+Hopefully you'll also find it useful - if you do reach out on Twitter or GitHub.
 
 ![[🖇 Attachments/Tane color WEB4.jpg]]
 
