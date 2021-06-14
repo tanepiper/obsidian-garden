@@ -1,5 +1,6 @@
 # 🪨🌱 The Obsidian Garden
 > Please note that this is currently in active development and evolving - and riddled with spelling and grammer mistakes.
+
 > If you are viewing this on [obsidian.garden](https://obsidian.garden) please be aware that [Obsidian Publish](https://help.obsidian.md/Plugins/Publish) does not yet support community plugins so not all featured are rendered - the project is best viewed in [[📇 Terms/Obsidian|Obsidian]] desktop.
 
 The [[👩‍🌾 Gardening Tips/🪨🌱 Obsidian Garden|Obsidian Garden]] is an opinionated [[📇 Terms/Knowledge Management|Knowledge Management]] toolkit based on [Obsidian](https://obsidian.md) with a set of community [[👩‍🌾 Gardening Tips/🔌 Plugins|plugins]] and Markdown files.
@@ -8,7 +9,7 @@ It's designed to be a simple introduction to how you can design your own knowleg
 
 This set of tools is released under Creative Commons Zero v1.0 Universal [[LICENSE]]
 
-## Building Flow
+## Building a Flow
 The garden is designed for anyone who wants to collect data and gather information and use it to [[📇 Terms/Link|links]] and [[📇 Terms/Connection|connections]] and build ideas - like a book, a new software product, or just de-weeding and decluttering life.
 
 Based on the system provided here, this diagram shows basic idea of some of discovery flow that is possible using [[📇 Terms/Obsidian|Obsidian]]. Starting with an idea, we create some [[👩‍🌾 Gardening Tips/🌱 Creating Seeds|seeds]] which we will triage later.  Some seeds won't make it and might get dumped.
