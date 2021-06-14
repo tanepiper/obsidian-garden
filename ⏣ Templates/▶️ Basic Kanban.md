@@ -1,9 +1,9 @@
 ---
 kanban-plugin: basic
-status: triage
 type: kanban
-description: A Basic Kanban Board for your project stucture
+description: A basic stucture for creating Kanban boards for your projects
 ---
+Status:: #triage
 
 ## Ready to pick up
 

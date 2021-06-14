@@ -1,9 +1,9 @@
 ---
-status: in progress
 type: daily
-description: Basic layout for a Daily Note
+description: A basic structure for a daily note that evolves over the day
 ---
-Tags: #daily-note
+Status:: #in-progress
+Tags:: #daily-note
 Links: <!-- Add any additional links here -->
 
 # Todays Plan

@@ -1,17 +1,17 @@
 ---
-status: triage
 type: term
-description: A term which goes to build up the glossary
-category: 
+description: A basic structure for a term, these are used to build up your glossary of terms across the knowledge base
 ---
-Tags: #term 
-Links: [[📇 Glossary]]
+Status:: #triage 
+Tags:: #term 
+Category:: 
+Links:: [[📇 Glossary]]
 
 ## Definition
-<!-- Enter the definition of the term -->
+<!-- Enter the definition of the term here, such as a dictionary definition or your own. A term can be anything from a concept, a product or a method -->
 
 ## Sources
-<!-- Add Any sources -->
+<!-- Link any sources related to the term -->
 
 ## Uses
-<!-- Where is the term used -->
+<!-- Provide some example uses of the term, or where it may be used -->

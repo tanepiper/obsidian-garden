@@ -69,7 +69,7 @@ sort file.mtime DESC
 limit 5
 ```
 
-## 🌱 Seed Box
+## 🌱 Seed Box Latest 5
 ```dataview
 table file.ctime as "Planted at" 
 from "🌱 Seed Box"

@@ -1,10 +1,11 @@
 ---
 status: triage
 type: research
-description: A research note to help you think about projects
+description: A basic structure for carrying out a research topic with hypothesis, goals and conculsion
 ---
-Tags: #research
-Links: [[🔬 Research]]
+Status:: #triage 
+Tags:: #research
+Links:: [[🔬 Research]]
 
 ## Hypothesis
 
@@ -24,8 +25,6 @@ Links: [[🔬 Research]]
 
 ## References
 <!-- Link any references here -->
-
-  
 
 ## Conclusion
 
