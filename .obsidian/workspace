@@ -4,13 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "fca7083a899b5e03",
+        "id": "63711a8053bec359",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "👩‍🌾 Gardening Tips/🎯 Create Custom Dashboards.md",
-            "mode": "preview"
+            "file": "README.md",
+            "mode": "source"
           }
         }
       }
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#term",
+                "query": "tag:#tutorials",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -84,7 +84,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "👩‍🌾 Gardening Tips/🎯 Create Custom Dashboards.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "👩‍🌾 Gardening Tips/🎯 Create Custom Dashboards.md"
+                "file": "README.md"
               }
             }
           },
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "👩‍🌾 Gardening Tips/🎯 Create Custom Dashboards.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "👩‍🌾 Gardening Tips/🎯 Create Custom Dashboards.md",
+                "file": "README.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -184,20 +184,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 305.5,
-    "collapsed": true
+    "width": 305.5
   },
-  "active": "fca7083a899b5e03",
+  "active": "63711a8053bec359",
   "lastOpenFiles": [
-    "👩‍🌾 Gardening Tips/🎯 Create Custom Dashboards.md",
-    "⏰ ToDo List.md",
-    "👨‍👧‍👦 People.md",
-    "⏣ Templates/👤 New Person.md",
-    "📇 Glossary.md",
-    "📚 Reading.md",
     "README.md",
-    "🌱 Seed Box/garden.md",
-    "👩‍🌾 Gardening Tips/🪨🌱 Obsidian Garden.md",
-    "👩‍🌾 Gardening Tips/🌱 Creating Seeds.md"
+    "👨‍👧‍👦 People/Alex.md",
+    "🌱 Seed Box/Coaching.md",
+    "🌱 Seed Box/Alex.md",
+    "📇 Terms/Link.md",
+    "⏣ Templates/🔖 New Term.md",
+    "⏣ Templates/📙 New Reading Item.md",
+    "👩‍🌾 Gardening Tips/🌱 Creating Seeds.md",
+    "📇 Terms/Connection.md",
+    "📇 Terms/Knowledge Management.md"
   ]
 }
