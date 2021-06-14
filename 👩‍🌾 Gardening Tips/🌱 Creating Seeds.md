@@ -16,7 +16,7 @@ The document will be created with a `status` of `triage` - this means that the i
 Some seed templates also contain a `#tag` and a [[📇 Terms/Link|link]] allowing for queries and backlinks to be generated to make finding information easier.
 
 ## 🌱 Seed Templates
-^599347
+
 There are several seed templates available to start with - each one contains their own set of custom [[📇 Terms/Front Matter]] properties - these can be used for additional queries
 
 ```dataview

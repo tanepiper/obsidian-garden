@@ -1,4 +1,5 @@
 ---
+aliases: [Obsidian]
 status: done
 type: term
 description: Description of Obsidian

@@ -1,4 +1,5 @@
 ---
+aliases: [People, people, person]
 type: dashboard
 ---
 ## Human Connections
