@@ -1,0 +1,10 @@
+{
+	"id": "vantage-obsidian",
+	"name": "Vantage - Advanced search builder",
+	"version": "1.4.0",
+	"minAppVersion": "0.9.12",
+	"description": "Build advanced search queries in Obsidian.",
+	"author": "ryanjamurphy",
+	"authorUrl": "https://axle.design",
+	"isDesktopOnly": false
+}

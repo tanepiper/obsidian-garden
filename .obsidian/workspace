@@ -10,7 +10,7 @@
           "type": "markdown",
           "state": {
             "file": "README.md",
-            "mode": "preview"
+            "mode": "source"
           }
         }
       }
@@ -189,14 +189,14 @@
   "active": "8b3f784f18038499",
   "lastOpenFiles": [
     "README.md",
+    "📚 Reading.md",
+    "🪴 Grow Room.md",
     "📇 Terms/Link.md",
     "📇 Terms/Obsidian.md",
     "📇 Terms/System.md",
     "📇 Terms/Connection.md",
     "📇 Glossary.md",
     "📇 Terms/Front Matter.md",
-    "📇 Terms/Knowledge Management.md",
-    "CHANGELOG.md",
-    "🪵 Backlog/Shopping List.md"
+    "📇 Terms/Knowledge Management.md"
   ]
 }
