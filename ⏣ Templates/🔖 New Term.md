@@ -4,7 +4,7 @@ description: A basic structure for a term, these are used to build up your gloss
 ---
 Status:: #triage 
 Tags:: #term 
-Category:: 
+Category:: <!-- Add a term catergory for the glossary -->
 Links:: [[📇 Glossary]]
 
 ## Definition

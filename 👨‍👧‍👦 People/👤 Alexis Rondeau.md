@@ -1,14 +1,13 @@
 ---
-status: done
 type: person
-connection: youtube
 ---
-Tags: #person #youtube #obsidian #tutorials
-Links: [[👨‍👧‍👦 People]]
+Status:: #done
+Tags:: #person #youtube #obsidian #tutorials
+Links:: [[👨‍👧‍👦 People]] [[📇 Terms/Knowledge Management]]
 
 # Links
 - [Youtube](https://www.youtube.com/channel/UCPcIIq_EMs2U0QQzEF9qbtA)
 
-# Connection
+# Notes
 
-Introduced a method via his video [How to use Obsidian to write a book](https://www.youtube.com/watch?v=pP4AeGY2mz4) 
+- Introduced a method via his video [How to use Obsidian to write a book](https://www.youtube.com/watch?v=pP4AeGY2mz4) 

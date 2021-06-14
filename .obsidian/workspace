@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "92ebd094695edd1c",
+        "id": "8b3f784f18038499",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "⏣ Templates/🗓 Daily Note.md",
+            "file": "🌱 Seed Box/Untitled.md",
             "mode": "source"
           }
         }
@@ -84,7 +84,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "⏣ Templates/🗓 Daily Note.md",
+                "file": "🌱 Seed Box/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "⏣ Templates/🗓 Daily Note.md"
+                "file": "🌱 Seed Box/Untitled.md"
               }
             }
           },
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "⏣ Templates/🗓 Daily Note.md",
+                "file": "🌱 Seed Box/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "⏣ Templates/🗓 Daily Note.md",
+                "file": "🌱 Seed Box/Untitled.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -186,17 +186,17 @@
     "direction": "horizontal",
     "width": 305.5
   },
-  "active": "92ebd094695edd1c",
+  "active": "8b3f784f18038499",
   "lastOpenFiles": [
-    "⏣ Templates/🗓 Daily Note.md",
-    "⏣ Templates/🗒 Basic Note.md",
-    "⏣ Templates/🔬 New Research.md",
-    "⏣ Templates/🔖 New Term.md",
-    "⏣ Templates/📰 New Dashboard.md",
-    "⏣ Templates/📙 New Reading Item.md",
-    "⏣ Templates/👤 New Person.md",
-    "⏣ Templates/▶️ Basic Kanban.md",
     "🌱 Seed Box/Untitled.md",
-    "📚 Reading.md"
+    "👨‍👧‍👦 People/🧑🏻‍💻 Tane Piper.md",
+    "🖇 Attachments/Tane color WEB4.jpg",
+    "👨‍👧‍👦 People/👤 Alexis Rondeau.md",
+    "⏣ Templates/👤 New Person.md",
+    "🌱 Seed Box/🧠 Create My First Idea.md",
+    "⏣ Templates/🗒 Basic Note.md",
+    "⏣ Templates/🗓 Daily Note.md",
+    "⏰ Todo Lists/Obsidian Garden Todo.md",
+    "⏣ Templates/🪛 Todo List.md"
   ]
 }

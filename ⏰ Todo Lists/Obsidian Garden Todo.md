@@ -1,10 +1,10 @@
 ---
-status: in progress
 type: todoList
 description: The todo list for releasing Obsidian Garden
-startDate: 2021-06-13
-endDate:
 ---
+Status:: #in-progress 
+Started:: 2021-06-13
+Ended:: 
 Tags: #todo-list
 Links: [[⏰ ToDo List]]
 
