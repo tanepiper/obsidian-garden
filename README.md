@@ -5,7 +5,11 @@
 
 ## Welcome to your Knowledge Garden
 
-The [[👩‍🌾 Gardening Tips/🪨🌱 Obsidian Garden|Obsidian Garden]] is an opinionated [[📇 Terms/Knowledge Management|Knowledge Management]] guide based on [Obsidian](https://obsidian.md) with a set of community [[👩‍🌾 Gardening Tips/🔌 Plugins|🔌 Plugins]]. The guide itself is a knowledge management system, with a sensible default layout and guides on how to [[👩‍🌾 Gardening Tips/🌱 Creating Seeds|🌱 Creating Seeds]] and [[👩‍🌾 Gardening Tips/🎯 Create Custom Dashboards|🎯 Create Custom Dashboards]] so you can build a knowledge garden unique to you.
+The [[👩‍🌾 Gardening Tips/🪨🌱 Obsidian Garden|Obsidian Garden]] is an opinionated [[📇 Terms/Knowledge Management|Knowledge Management]] guide based on [Obsidian](https://obsidian.md) with a set of community [[👩‍🌾 Gardening Tips/🔌 Plugins|🔌 Plugins]]. 
+
+Using [[📇 Terms/Obsidian|Obsidian]] to build the guide, it is also knowledge management system with a sensible default layout and guides on how to [[👩‍🌾 Gardening Tips/🌱 Creating Seeds|🌱 Creating Seeds]] and [[👩‍🌾 Gardening Tips/🎯 Create Custom Dashboards|🎯 Create Custom Dashboards]].
+
+By using this guide, you can easily extend and remix it, or create your own new [[vault]] with some of the same techniques.
 
 > If you are looking for a more fully featured [[📇 Terms/Knowledge Management|Knowledge Management]] system check out [LytKit](https://publish.obsidian.md/lyt-kit/_Start+Here)
 
@@ -13,9 +17,9 @@ The garden is somewhere to [[👩‍🌾 Gardening Tips/🌱 Creating Seeds|plan
 
 When you're ready to get started on your next great idea - a new book, the next billion dollar web app, or just de-weeding and tending to your current challanges - having a knowledge garden allows you to start querying and questioning the data, building up outcomes from research topics and reference content and using it to discover more new great ideas.
 
-Each [[👨‍👧‍👦 People|person]]'s garden is different - some like order, everything in rows and well manicured, some prefer it to be more organic and messy with the occasional tidy-up. All of them require regular tending and curating to make sure you can harvest information 
+Each [[👨‍👧‍👦 People|person]]'s garden is different - some like order, everything in rows and well manicured, some prefer it to be more organic and messy with the occasional tidy-up. All of them require regular tending and curating to make sure you can harvest information .
 
-This set of tools is released under Creative Commons Zero v1.0 Universal [[LICENSE]]
+> ✅ This set of tools is released under Creative Commons Zero v1.0 Universal [[LICENSE]]
 
 ## Curating Your Garden
 

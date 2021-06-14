@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "🪴 Grow Room.md",
-            "mode": "preview"
+            "file": "CHANGELOG.md",
+            "mode": "source"
           }
         }
       }
@@ -84,7 +84,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🪴 Grow Room.md",
+                "file": "CHANGELOG.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🪴 Grow Room.md"
+                "file": "CHANGELOG.md"
               }
             }
           },
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🪴 Grow Room.md",
+                "file": "CHANGELOG.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "🪴 Grow Room.md",
+                "file": "CHANGELOG.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -188,15 +188,15 @@
   },
   "active": "8b3f784f18038499",
   "lastOpenFiles": [
-    "🪴 Grow Room.md",
+    "CHANGELOG.md",
     "README.md",
+    "🪵 Backlog/Shopping List.md",
+    "🪴 Grow Room.md",
     "🌱 Seed Box/Untitled.md",
     "⏰ ToDo List.md",
     "🌱 Seed Box.md",
     "👨‍👧‍👦 People.md",
     "📇 Glossary.md",
-    "📚 Reading.md",
-    "CHANGELOG.md",
-    "🗂 Projects/My New Garden/Next Steps.md"
+    "📚 Reading.md"
   ]
 }
