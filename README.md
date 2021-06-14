@@ -1,19 +1,19 @@
 # 🪨🌱 The Obsidian Garden
 > Please note that this is currently in active development and evolving - and riddled with spelling and grammer mistakes.
 
-> If you are viewing this on [obsidian.garden](https://obsidian.garden) please be aware that [Obsidian Publish](https://help.obsidian.md/Plugins/Publish) does not yet support community plugins so not all featured are rendered - the project is best viewed in [[📇 Terms/Obsidian|Obsidian]] desktop.
+> If you are viewing this on [obsidian.garden](https://obsidian.garden) please be aware that [Obsidian Publish](https://help.obsidian.md/Plugins/Publish) does not yet support community plugins so not all featured are rendered - the project is best viewed in [Obsidian](https://obsidian.md) desktop.
 
 ## Welcome to your Knowledge Garden
 
-The [[👩‍🌾 Gardening Tips/🪨🌱 Obsidian Garden|Obsidian Garden]] is an opinionated [[📇 Terms/Knowledge Management|Knowledge Management]] toolkit based on [Obsidian](https://obsidian.md) with a set of community [[👩‍🌾 Gardening Tips/🔌 Plugins|plugins]] and Markdown files.
+The [[👩‍🌾 Gardening Tips/🪨🌱 Obsidian Garden|Obsidian Garden]] is an opinionated [[📇 Terms/Knowledge Management|Knowledge Management]] guide based on [Obsidian](https://obsidian.md) with a set of community [[👩‍🌾 Gardening Tips/🔌 Plugins|🔌 Plugins]]. The guide itself is a knowledge management system, with a sensible default layout and guides on how to [[👩‍🌾 Gardening Tips/🌱 Creating Seeds|🌱 Creating Seeds]] and [[👩‍🌾 Gardening Tips/🎯 Create Custom Dashboards|🎯 Create Custom Dashboards]] so you can build a knowledge garden unique to you.
 
-Instead of being a fully featured system like [LytKit](https://publish.obsidian.md/lyt-kit/_Start+Here) the garden is designed to be a simple introduction to what a [[📇 Terms/Knowledge Management|Knowledge Management]] system is and also a guide to how you can extend it and make it your own.
+> If you are looking for a more fully featured [[📇 Terms/Knowledge Management|Knowledge Management]] system check out [LytKit](https://publish.obsidian.md/lyt-kit/_Start+Here)
 
-Instead of it being a "second brain" - the garden is somewhere to [[👩‍🌾 Gardening Tips/🌱 Creating Seeds|plant seeds]] and let them grow. You don't need to be there all there time to tend to it, but when you do - you see new insights and information that wasn't visible before.
+The garden is somewhere to [[👩‍🌾 Gardening Tips/🌱 Creating Seeds|plant seeds]] and let them grow. You don't need to be there all there time to tend to it, but when you do - you see new insights and information that wasn't visible before.
 
-When you're ready to get started on your next great idea - a new book, the next billion dollar web app, or just de-weeding and tending to your current challanges - having a knowledge garden allows your to start querying and questioning, building up research topics and reference content.
+When you're ready to get started on your next great idea - a new book, the next billion dollar web app, or just de-weeding and tending to your current challanges - having a knowledge garden allows you to start querying and questioning the data, building up outcomes from research topics and reference content and using it to discover more new great ideas.
 
-Each [[👨‍👧‍👦 People|person]]'s garden is different - some like order, everything in rows and well manicured, some prefer it to be more organic and messy with the occasional tidy-up. All of them require regular tending and curating to make sure you can harvest information.
+Each [[👨‍👧‍👦 People|person]]'s garden is different - some like order, everything in rows and well manicured, some prefer it to be more organic and messy with the occasional tidy-up. All of them require regular tending and curating to make sure you can harvest information 
 
 This set of tools is released under Creative Commons Zero v1.0 Universal [[LICENSE]]
 
@@ -61,17 +61,17 @@ Once a seed has been moved to the correct location you can update the [[👩‍�
 
 Once you're ready, feel free to change this readme and turn it into your home dashboard.
 
-## Home
-### Last 5 Files Edited
+## Last 5 Files Edited
 ```dataview
-table file.mtime as "Modified Time"
+table file.mtime as "Last tended to"
 where file.mtime < (date(today) + dur(1 day))
 sort file.mtime DESC
 limit 5
 ```
 
-### 🌱 Seed Box
+## 🌱 Seed Box
 ```dataview
-list from "🌱 Seed Box"
+table file.ctime as "Planted at" 
+from "🌱 Seed Box"
 sort file.ctime DESC
 ```
