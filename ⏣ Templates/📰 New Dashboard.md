@@ -3,14 +3,18 @@ type: dashboard
 description: A basic structure file that can be used to create dashboards
 ---
 %%
-Status:: #triage
-Tags:: #dashboard
-Links::
+Status:: #triage 
 %%
+
+---
+**Tags**:: #dashboard
+**Links**::
+
+---
 
 ## Dashboard Info
 
-You can [[👩‍🌾 Gardening Tips/🎯 Create Custom Dashboards|Create Custom Dashboards]] easily using the `dataview` plugin and SQL-like query language.
+You can [[👩‍🌾 Gardening Tips/🎯 Create Custom Dashboards|🎯 Create Custom Dashboards]] easily using the `dataview` plugin and SQL-like query language.
 
 ---
 

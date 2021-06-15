@@ -1,11 +1,16 @@
 ---
-status: triage
 type: research
-description: A basic structure for carrying out a research topic with hypothesis, goals and conculsion
+description: A basic structure for carrying out a research topic with hypothesis, goals and conclusions
 ---
+%%
 Status:: #triage 
-Tags:: #research
-Links:: [[🔬 Research]]
+%%
+
+---
+**Tags**:: #research
+**Links**:: [[🔬 Research]]
+
+---
 
 ## Hypothesis
 

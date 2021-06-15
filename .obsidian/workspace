@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "👩‍🌾 Your Knowledge Garden.md",
+            "file": "📇 Terms/Obsidian.md",
             "mode": "preview"
           }
         }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "👩‍🌾 Your Knowledge Garden.md",
+                "file": "📇 Terms/Obsidian.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "👩‍🌾 Your Knowledge Garden.md"
+                "file": "📇 Terms/Obsidian.md"
               }
             }
           },
@@ -136,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "👩‍🌾 Your Knowledge Garden.md",
+                "file": "📇 Terms/Obsidian.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -159,7 +159,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "👩‍🌾 Your Knowledge Garden.md",
+                "file": "📇 Terms/Obsidian.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -189,7 +189,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 3
       },
       {
         "id": "b4318a8a1906d79c",
@@ -212,15 +212,15 @@
   },
   "active": "8b3f784f18038499",
   "lastOpenFiles": [
+    "📇 Terms/Obsidian.md",
     "👩‍🌾 Your Knowledge Garden.md",
-    "🪴 Grow Room.md",
     "README.md",
-    "🗓 Daily Notes/2021-06-15.md",
-    "🪵 Backlog/Obsidian Quality of Life Requests.md",
-    "🪵 Backlog/Shopping List.md",
+    "👩‍🌾 Gardening Tips/🪨 Obsidian/🗂 Obsidian File Struture.md",
+    "⏣ Templates/🔬 New Research.md",
+    "⏣ Templates/🗒 Basic Note.md",
     "⏣ Templates/🗓 Daily Note.md",
-    "📇 Glossary.md",
-    "🌱 Seed Box/Untitled.md",
-    "📇 Terms/Untitled.md"
+    "⏣ Templates/🪛 Todo List.md",
+    "⏣ Templates/🔗 New Link.md",
+    "⏣ Templates/🔖 New Term.md"
   ]
 }

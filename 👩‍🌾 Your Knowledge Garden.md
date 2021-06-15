@@ -5,11 +5,13 @@
 
 ## Welcome to your Knowledge Garden
 
-New ideas are all around us, all the time. In the busy modern world, we're bombarded with so much information and too many distractions that sometimes we just can't see the [[📇 Terms/Connection|connections]]
+New ideas are all around us, all the time. In the busy modern world we're bombarded with so much new information and too many distractions that sometimes we just can't see the [[📇 Terms/Connection|connections]] between things.
 
-By collecting knowledge in a **Knowledge Garden** we can start to form [[📇 Terms/Link|links]] between ideas, concepts, people, and actions - and add a rich taxonomy through `#tags`.
+Sometimes it feels like need a *"second brain"* or at least a hard drive to store all the contents of thoughts and ideas we have, things we've read, links we want to collect.
 
-Combining these creates a [[📇 Terms/Knowledge Management|Knowledge Management]] system that allows you to form an entire collection of information to harvest.
+By collecting our information - ideas, references, research and other notes into a **Knowledge Garden** we can start to form [[📇 Terms/Link|links]] between ideas, concepts, people, and actions - and add a rich taxonomy through `#tags` that allows us to search for deeper meaning.
+
+Combining these creates a [[📇 Terms/Knowledge Management|Knowledge Management]] system that allows you to form an entire collection of information to harvest, [[📇 Terms/Obsidian|Obsidian]] also builds a [[📇 Terms/Knowledge Graph|Knowledge Graph]] that is a visual representation of what's connected.
 
 ![[🖇 Attachments/the-knowledge-garden.png]]
 
@@ -29,7 +31,7 @@ By using this guide, you can easily extend and remix it, or create your own new 
 
 The garden is somewhere to [[👩‍🌾 Gardening Tips/🌱 Creating Seeds|plant seeds]] (your ideas) and let them grow. You don't need to be there all there time to tend to it, but when you do - you see new insights and information that wasn't visible before.
 
-When you're ready to get started on your next great idea - a new book, the next billion dollar web app, or just de-weeding and tending to your current challanges - having a knowledge garden allows you to start querying and questioning the data, building up outcomes from research topics and reference content and using it to discover more new great ideas.
+When you're ready to get started on your next great idea - a new book, the next billion dollar web app, or just de-weeding and tending to your current challenges -  having a knowledge garden allows you to start querying and questioning the data, building up outcomes from research topics and reference content and using it to discover more new great ideas.
 
 Each [[👨‍👧‍👦 People|person]]'s garden is different - some like order, everything in rows and well manicured, some prefer it to be more organic and messy with the occasional tidy-up. All of them require regular tending and curating to make sure you can harvest information .
 

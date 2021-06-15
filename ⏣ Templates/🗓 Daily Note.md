@@ -2,9 +2,15 @@
 type: daily
 description: A basic structure for a daily note that evolves over the day
 ---
+%%
 Status:: #in-progress
-Tags:: #daily-note
-Links: <!-- Add any additional links here -->
+%%
+
+---
+**Tags**:: #daily-note
+**Links**:: <!-- Add any additional links here -->
+
+---
 
 # Today's Plan
 <!-- What is the plan for today? Is there anything left over from yesterday? -->
