@@ -5,13 +5,13 @@ description: Dashboard for the seed box
 
 ## Welcome to the 🪴 Grow Room
 
-The 🪴 Grow Room is your inbox on current 🪵 Backlog and [[👩‍🌾 Gardening Tips/🌱 Creating Seeds|🌱 Seeds]] you have created but not yet currated.
+The 🪴 Grow Room is your inbox on current 🪵 Backlog and [[👩‍🌾 Gardening Tips/🌱 Creating Seeds|🌱 Seeds]] you have created but not yet curated.
 
-> ⚠️ Don't let your 🪵 Backlog or 🌱 Seed Box get too full!  Try and currate them daily so that there is room for more ideas to be planted
+> ⚠️ Don't let your 🪵 Backlog or 🌱 Seed Box get too full!  Try and curate them daily so that there is room for more ideas to be planted
 
 When you are in a creative flow, use [[📇 Terms/Link|links]] and `#tags` in all the new files you create - clicking on links will create more seeds! This will create the [[📇 Terms/Connection|connections]] across your [[📇 Terms/Knowledge Management|Knowledge Management]] system.
 
-Using the [Templater](https://github.com/SilentVoid13/Templater) plugin you can use the command pallete to change from a [[⏣ Templates/🗒 Basic Note]] to any other type - such as [[⏣ Templates/📙 New Reading Item]].
+Using the [Templater](https://github.com/SilentVoid13/Templater) plugin you can use the command palette to change from a [[⏣ Templates/🗒 Basic Note]] to any other type - such as [[⏣ Templates/📙 New Reading Item]].
 
 If you are not ready to place the file, or have a file that can be deleted after use (like a shopping list) you can place it in the 🪵 Backlog - this is another inbox for files that are ready to be dealt with.
 

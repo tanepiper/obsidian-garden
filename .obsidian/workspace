@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "🪵 Backlog/Obsidian Quality of Life Requests.md",
+            "file": "README.md",
             "mode": "source"
           }
         }
@@ -85,6 +85,7 @@
       {
         "id": "5da860a61f1c73f3",
         "type": "tabs",
+        "dimension": 78.38939857288482,
         "children": [
           {
             "id": "8559220fe2d2af04",
@@ -92,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🪵 Backlog/Obsidian Quality of Life Requests.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🪵 Backlog/Obsidian Quality of Life Requests.md"
+                "file": "README.md"
               }
             }
           },
@@ -135,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🪵 Backlog/Obsidian Quality of Life Requests.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -158,7 +159,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "🪵 Backlog/Obsidian Quality of Life Requests.md",
+                "file": "README.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -188,7 +189,22 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 6
+      },
+      {
+        "id": "b4318a8a1906d79c",
+        "type": "tabs",
+        "dimension": 21.61060142711519,
+        "children": [
+          {
+            "id": "24df15cd13b16542",
+            "type": "leaf",
+            "state": {
+              "type": "dictionary-view",
+              "state": {}
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
@@ -196,15 +212,15 @@
   },
   "active": "8b3f784f18038499",
   "lastOpenFiles": [
-    "🌱 Seed Box/Untitled.md",
+    "README.md",
     "🪴 Grow Room.md",
+    "🗓 Daily Notes/2021-06-15.md",
+    "⏣ Templates/🗓 Daily Note.md",
+    "📇 Glossary.md",
+    "🌱 Seed Box/Untitled.md",
+    "📇 Terms/Untitled.md",
     "👩‍🌾 Your Knowledge Garden.md",
     "⏰ ToDo List.md",
-    "README.md",
-    "⏣ Templates/📰 New Dashboard.md",
-    "⏣ Templates/📙 New Reading Item.md",
-    "⏣ Templates/👤 New Person.md",
-    "👩‍🌾 Gardening Tips/🪨 Obsidian/🗂 Obsidian File Struture.md",
-    "👩‍🌾 Gardening Tips/⚠️ Statuses.md"
+    "⏣ Templates/📰 New Dashboard.md"
   ]
 }
