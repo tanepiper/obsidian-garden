@@ -1,13 +1,21 @@
 # 🪨🌱 The Obsidian Garden
 
-> Please note that this is currently in active development and evolving - and riddled with spelling and grammer mistakes.
-
-> If you are viewing this on [obsidian.garden](https://obsidian.garden) please be aware that [Obsidian Publish](https://help.obsidian.md/Plugins/Publish) does not yet support community plugins so not all featured are rendered - the project is best viewed in [Obsidian](https://obsidian.md) desktop.
+> ⚠️ The Obsidian Garden is currently in active development and evolving - it's being developed in the open but is subject to changes, and may contain broken links and errors
+> ⚠️ If you are viewing this on [obsidian.garden](https://obsidian.garden) please be aware that [Obsidian Publish](https://help.obsidian.md/Plugins/Publish) does not yet support community plugins so not all featured are rendered - the project is best viewed in [Obsidian](https://obsidian.md) desktop.
 
 ## Welcome to your Knowledge Garden
+
+New ideas are all around us, all the time. In the busy modern world, we're bombarded with so much information and too many distractions that sometimes we just can't see the [[📇 Terms/Connection|connections]]
+
+By collecting knowledge in a **Knowledge Garden** we can start to form [[📇 Terms/Link|links]] between ideas, concepts, people, and actions - and add a rich taxonomy through `#tags`.
+
+Combining these creates a [[📇 Terms/Knowledge Management|Knowledge Management]] system that allows you to form an entire collection of information to harvest.
+
 ![[🖇 Attachments/the-knowledge-garden.png]]
 
-The [[👩‍🌾 Gardening Tips/🪨🌱 Obsidian Garden|Obsidian Garden]] is an opinionated [[📇 Terms/Knowledge Management|Knowledge Management]] guide based on [Obsidian](https://obsidian.md) with a set of community [[👩‍🌾 Gardening Tips/🪨 Obsidian/🔌 Plugins & 🌈 Theme|🔌 Plugins]] using [[📇 Terms/Obsidian|it]] to build the guide.
+### How to use the guide
+
+[[👩‍🌾 Gardening Tips/🪨🌱 Obsidian Garden|🪨🌱 The Obsidian Garden]] is an opinionated [[📇 Terms/Knowledge Management|Knowledge Management]] guide based on [Obsidian](https://obsidian.md) with a set of community [[👩‍🌾 Gardening Tips/🪨 Obsidian/🔌 Plugins & 🌈 Theme|🔌 Plugins]] using [[📇 Terms/Obsidian|it]] to build the guide.
 
 Built into the guide is it's own system - with a sensible default layout and guides on how to [[👩‍🌾 Gardening Tips/🌱 Creating Seeds|🌱 Creating Seeds]] and [[👩‍🌾 Gardening Tips/🎯 Create Custom Dashboards|🎯 Create Custom Dashboards]].
 

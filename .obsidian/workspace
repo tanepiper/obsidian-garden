@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "README.md",
-            "mode": "source"
+            "file": "👩‍🌾 Your Knowledge Garden.md",
+            "mode": "preview"
           }
         }
       }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "👩‍🌾 Your Knowledge Garden.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "👩‍🌾 Your Knowledge Garden.md"
               }
             }
           },
@@ -136,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "👩‍🌾 Your Knowledge Garden.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -159,7 +159,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "README.md",
+                "file": "👩‍🌾 Your Knowledge Garden.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -212,15 +212,15 @@
   },
   "active": "8b3f784f18038499",
   "lastOpenFiles": [
-    "README.md",
+    "👩‍🌾 Your Knowledge Garden.md",
     "🪴 Grow Room.md",
+    "README.md",
     "🗓 Daily Notes/2021-06-15.md",
+    "🪵 Backlog/Obsidian Quality of Life Requests.md",
+    "🪵 Backlog/Shopping List.md",
     "⏣ Templates/🗓 Daily Note.md",
     "📇 Glossary.md",
     "🌱 Seed Box/Untitled.md",
-    "📇 Terms/Untitled.md",
-    "👩‍🌾 Your Knowledge Garden.md",
-    "⏰ ToDo List.md",
-    "⏣ Templates/📰 New Dashboard.md"
+    "📇 Terms/Untitled.md"
   ]
 }
