@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "👩‍🌾 Your Knowledge Garden.md",
+            "file": "⏣ Templates/🗓 Daily Note.md",
             "mode": "source"
           }
         }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "👩‍🌾 Your Knowledge Garden.md",
+                "file": "⏣ Templates/🗓 Daily Note.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "👩‍🌾 Your Knowledge Garden.md"
+                "file": "⏣ Templates/🗓 Daily Note.md"
               }
             }
           },
@@ -136,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "👩‍🌾 Your Knowledge Garden.md",
+                "file": "⏣ Templates/🗓 Daily Note.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -159,7 +159,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "👩‍🌾 Your Knowledge Garden.md",
+                "file": "⏣ Templates/🗓 Daily Note.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -212,15 +212,15 @@
   },
   "active": "8b3f784f18038499",
   "lastOpenFiles": [
+    "⏣ Templates/🗓 Daily Note.md",
+    "🗓 Daily Notes/2021-06-15.md",
+    "📇 Terms/Knowledge Graph.md",
+    "📇 Glossary.md",
     "👩‍🌾 Your Knowledge Garden.md",
     "README.md",
-    "👩‍🌾 Gardening Tips/🪨 Obsidian/🔌 Plugins & 🌈 Theme.md",
-    "🪵 Backlog/Obsidian Quality of Life Requests.md",
+    "🌱 Seed Box/Untitled.md",
     "🪴 Grow Room.md",
-    "📇 Terms/Obsidian.md",
-    "👩‍🌾 Gardening Tips/🪨 Obsidian/🗂 Obsidian File Struture.md",
-    "⏣ Templates/🔬 New Research.md",
-    "⏣ Templates/🗒 Basic Note.md",
-    "⏣ Templates/🗓 Daily Note.md"
+    "CHANGELOG.md",
+    "📚 Reading.md"
   ]
 }

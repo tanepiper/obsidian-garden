@@ -19,6 +19,18 @@ Status:: #in-progress
 <!-- Put any new ideas or topics to found out today, can any of them be new links? -->
 
 # New Items Created
+
+```dataview
+table file.ctime as "Planted at",
+file.mtime as "Last tended to",
+length(file.inlinks) as "In Links", 
+length(file.outlinks) as "Out Links"
+where date(file.cday) <= (date(this.file.cday) + dur(1 day))
+and date(file.cday) >= date(this.file.cday)
+and this.file.name != "🗓 Daily Note"
+```
+---
+
 <!-- Put links to new items created here -->
 
 # Questions Raised
