@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "README.md",
+            "file": "🪵 Backlog/Obsidian Quality of Life Requests.md",
             "mode": "source"
           }
         }
@@ -22,14 +22,38 @@
     "type": "split",
     "children": [
       {
+        "id": "891a2e60e271b31f",
+        "type": "tabs",
+        "dimension": 20.38735983690112,
+        "children": [
+          {
+            "id": "322342a2c258bfbb",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
         "id": "7809a0592f8db2af",
         "type": "tabs",
+        "dimension": 79.61264016309887,
         "children": [
           {
             "id": "91f1dcc79c72e889",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "ea6f776614e699fd",
+            "type": "leaf",
+            "state": {
+              "type": "file-tree-view",
               "state": {}
             }
           },
@@ -46,22 +70,6 @@
                 "extraContext": false,
                 "sortOrder": "alphabetical"
               }
-            }
-          },
-          {
-            "id": "ea6f776614e699fd",
-            "type": "leaf",
-            "state": {
-              "type": "file-tree-view",
-              "state": {}
-            }
-          },
-          {
-            "id": "322342a2c258bfbb",
-            "type": "leaf",
-            "state": {
-              "type": "starred",
-              "state": {}
             }
           }
         ]
@@ -84,7 +92,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "🪵 Backlog/Obsidian Quality of Life Requests.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "🪵 Backlog/Obsidian Quality of Life Requests.md"
               }
             }
           },
@@ -127,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "🪵 Backlog/Obsidian Quality of Life Requests.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -150,7 +158,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "README.md",
+                "file": "🪵 Backlog/Obsidian Quality of Life Requests.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -180,7 +188,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -188,15 +196,15 @@
   },
   "active": "8b3f784f18038499",
   "lastOpenFiles": [
+    "🌱 Seed Box/Untitled.md",
+    "🪴 Grow Room.md",
+    "👩‍🌾 Your Knowledge Garden.md",
+    "⏰ ToDo List.md",
     "README.md",
     "⏣ Templates/📰 New Dashboard.md",
     "⏣ Templates/📙 New Reading Item.md",
     "⏣ Templates/👤 New Person.md",
     "👩‍🌾 Gardening Tips/🪨 Obsidian/🗂 Obsidian File Struture.md",
-    "👩‍🌾 Gardening Tips/⚠️ Statuses.md",
-    "👩‍🌾 Gardening Tips/🌱 Creating Seeds.md",
-    "👩‍🌾 Gardening Tips/🪨 Obsidian/🔌 Plugins & 🌈 Theme.md",
-    "👩‍🌾 Gardening Tips/🏭 Project Stucture.md",
-    "👩‍🌾 Gardening Tips/🔌 Plugins & 🌈 Theme.md"
+    "👩‍🌾 Gardening Tips/⚠️ Statuses.md"
   ]
 }

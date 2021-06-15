@@ -4,7 +4,7 @@ description: Using a todo list as a shopping list
 ---
 Status:: #ready 
 Tags: #todo-list #shopping #backlog
-Links: [[⏰ ToDo List]]
+Links: [[⏰ ToDo Lists]]
 
 ## Shopping
 - [ ] Eggs

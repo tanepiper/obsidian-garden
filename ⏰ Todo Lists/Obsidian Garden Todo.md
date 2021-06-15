@@ -6,7 +6,7 @@ Status:: #in-progress
 Started:: 2021-06-13
 Ended:: 
 Tags: #todo-list
-Links: [[⏰ ToDo List]]
+Links: [[⏰ ToDo Lists]]
 
 ## Towards Version 0.2.0
 - [x] Move some properties from frontmatter to `Value::` properties in docs (e.g. status, tags, etc)

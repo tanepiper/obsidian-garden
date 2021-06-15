@@ -6,7 +6,7 @@ Status:: #in-progress
 Started:: 2021-06-14
 Ended:: <!-- Enter a end date and time here -->
 Tags: #todo-list
-Links: [[⏰ ToDo List]]
+Links: [[⏰ ToDo Lists]]
 
 ## My New Garden Tasks
 - [ ] Set up my new garden

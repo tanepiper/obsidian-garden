@@ -6,7 +6,7 @@ Status:: #triage
 Started:: <!-- Enter a start date and time here -->
 Ended:: <!-- Enter a end date and time here -->
 Tags: #todo-list
-Links: [[⏰ ToDo List]]
+Links: [[⏰ ToDo Lists]]
 
 ## Tasks
 - [ ] Task 1
