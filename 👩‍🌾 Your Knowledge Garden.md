@@ -1,21 +1,21 @@
-# 🪨🌱 The Obsidian Garden
-
 > ⚠️ The Obsidian Garden is currently in active development and evolving - it's being developed in the open but is subject to changes, and may contain broken links and errors
 > ⚠️ If you are viewing this on [obsidian.garden](https://obsidian.garden) please be aware that [Obsidian Publish](https://help.obsidian.md/Plugins/Publish) does not yet support community plugins so not all featured are rendered - the project is best viewed in [Obsidian](https://obsidian.md) desktop.
 
-## Welcome to your Knowledge Garden
+# Welcome to your Knowledge Garden
 
-New ideas are all around us, all the time. In the busy modern world we're bombarded with so much new information and too many distractions that sometimes we just can't see the [[📇 Terms/Connection|connections]] between things.
+💡 Ideas happen at the intersection between knowledge and inspiration - these moments happen around us all the time, but we're at risk of missing them if we don't spot the [[📇 Terms/Connection|connections]].
 
-Sometimes it feels like need a *"second brain"* or at least a hard drive to store all the contents of thoughts and ideas we have, things we've read, links we want to collect.
+In the busy modern world - we're bombarded with so much new information and too many distractions. Information can be short lived and as the web gets larger, harder to find.
 
-By collecting our information - ideas, references, research and other notes into a **Knowledge Garden** we can start to form [[📇 Terms/Link|links]] between ideas, concepts, people, and actions - and add a rich taxonomy through `#tags` that allows us to search for deeper meaning.
+⏳ Good ideas take time to grow and nurture - sometimes it feels like need a *"second brain"* or at least a hard drive. What if we could plug into our brains to store all the contents of thoughts and ideas we have, things we've read, links we want to collect?
 
-Combining these creates a [[📇 Terms/Knowledge Management|Knowledge Management]] system that allows you to form an entire collection of information to harvest, [[📇 Terms/Obsidian|Obsidian]] also builds a [[📇 Terms/Knowledge Graph|Knowledge Graph]] that is a visual representation of what's connected.
+Using [[📇 Terms/Obsidian|Obsidian]] to collect our information - ideas, references, research and other notes we can create a  [[📇 Terms/Knowledge Management|Knowledge Management]].  Using [[Markdown]] documents we can start to form [[📇 Terms/Link|links]] between ideas, concepts, people, and actions - and add a rich taxonomy through `#tags` that allows us to search for deeper meaning.
+
+Forming your own **Knowledge Garden** it will allow you to form an entire collection of information to harvest ideas, and view a [[📇 Terms/Knowledge Graph|Knowledge Graph]] that is a visual representation of all [[📇 Terms/Connection|connections]].
 
 ![[🖇 Attachments/the-knowledge-garden.png]]
 
-### How to use the guide
+## How to use the guide
 
 [[👩‍🌾 Gardening Tips/🪨🌱 Obsidian Garden|🪨🌱 The Obsidian Garden]] is an opinionated [[📇 Terms/Knowledge Management|Knowledge Management]] guide based on [Obsidian](https://obsidian.md) with a set of community [[👩‍🌾 Gardening Tips/🪨 Obsidian/🔌 Plugins & 🌈 Theme|🔌 Plugins]] using [[📇 Terms/Obsidian|it]] to build the guide.
 

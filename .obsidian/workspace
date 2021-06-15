@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "📇 Terms/Obsidian.md",
+            "file": "👩‍🌾 Your Knowledge Garden.md",
             "mode": "preview"
           }
         }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "📇 Terms/Obsidian.md",
+                "file": "👩‍🌾 Your Knowledge Garden.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "📇 Terms/Obsidian.md"
+                "file": "👩‍🌾 Your Knowledge Garden.md"
               }
             }
           },
@@ -136,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "📇 Terms/Obsidian.md",
+                "file": "👩‍🌾 Your Knowledge Garden.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -159,7 +159,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "📇 Terms/Obsidian.md",
+                "file": "👩‍🌾 Your Knowledge Garden.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -212,15 +212,15 @@
   },
   "active": "8b3f784f18038499",
   "lastOpenFiles": [
-    "📇 Terms/Obsidian.md",
     "👩‍🌾 Your Knowledge Garden.md",
     "README.md",
+    "👩‍🌾 Gardening Tips/🪨 Obsidian/🔌 Plugins & 🌈 Theme.md",
+    "🪵 Backlog/Obsidian Quality of Life Requests.md",
+    "🪴 Grow Room.md",
+    "📇 Terms/Obsidian.md",
     "👩‍🌾 Gardening Tips/🪨 Obsidian/🗂 Obsidian File Struture.md",
     "⏣ Templates/🔬 New Research.md",
     "⏣ Templates/🗒 Basic Note.md",
-    "⏣ Templates/🗓 Daily Note.md",
-    "⏣ Templates/🪛 Todo List.md",
-    "⏣ Templates/🔗 New Link.md",
-    "⏣ Templates/🔖 New Term.md"
+    "⏣ Templates/🗓 Daily Note.md"
   ]
 }
