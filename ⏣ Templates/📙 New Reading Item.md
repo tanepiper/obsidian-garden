@@ -3,14 +3,18 @@ status: triage
 type: reading
 description: A basic structure for a reading source such as a book or article
 ---
+%%
 Status:: #triage 
-Format:: <% tp.system.suggester(["Book", "E-Book", "Article", "Blog Post", "PDF", "Custom"], ["Book", "E-Book", "Article", "Blog Post", "PDF", ""]) %>
-Author:: 
-Started::
-Finished::
-Rating::
 Tags: #reading
 Links: [[📚 Reading]]
+**Format::** <% tp.system.suggester(["Book", "E-Book", "Article", "Blog Post", "PDF", "Custom"], ["Book", "E-Book", "Article", "Blog Post", "PDF", ""]) %>
+%%
+
+**Author**:: 
+**ISBN**::
+**Started**::
+**Finished:**:
+**Rating**::
 
 ## Summary
 <!-- Enter a brief summary of the book here, this can be copied from a website or a picture from a book jacket -->

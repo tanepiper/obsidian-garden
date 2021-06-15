@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "👩‍🌾 Your Knowledge Garden.md",
+            "file": "👩‍🌾 Gardening Tips/Obsidian/Obsidian File Struture.md",
             "mode": "source"
           }
         }
@@ -84,7 +84,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "👩‍🌾 Your Knowledge Garden.md",
+                "file": "👩‍🌾 Gardening Tips/Obsidian/Obsidian File Struture.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "👩‍🌾 Your Knowledge Garden.md"
+                "file": "👩‍🌾 Gardening Tips/Obsidian/Obsidian File Struture.md"
               }
             }
           },
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "👩‍🌾 Your Knowledge Garden.md",
+                "file": "👩‍🌾 Gardening Tips/Obsidian/Obsidian File Struture.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "👩‍🌾 Your Knowledge Garden.md",
+                "file": "👩‍🌾 Gardening Tips/Obsidian/Obsidian File Struture.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -173,14 +173,14 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 1,
+                  "scale": 0.9966268260763764,
                   "close": true
                 }
               }
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -188,15 +188,15 @@
   },
   "active": "8b3f784f18038499",
   "lastOpenFiles": [
-    "👩‍🌾 Your Knowledge Garden.md",
-    "🪴 Grow Room.md",
-    "👩‍🌾 Gardening Tips/🔌 Plugins.md",
-    "README.md",
-    "🖇 Attachments/the-knowledge-garden.png",
-    "🖇 Attachments/tane-piper.jpg",
-    "🖇 Attachments/obsidian-logo.png",
-    "🌱 Seed Box/Untitled.md",
-    "LICENSE.md",
-    "📚 Reading.md"
+    "👩‍🌾 Gardening Tips/Obsidian/Obsidian File Struture.md",
+    "👨‍👧‍👦 People.md",
+    "📚 Reading.md",
+    "📇 Glossary.md",
+    "⏣ Templates/📙 New Reading Item.md",
+    "⏣ Templates/👤 New Person.md",
+    "📇 Terms/Front Matter.md",
+    "👩‍🌾 Gardening Tips/Obsidian/Obsidian Templates.md",
+    "👩‍🌾 Gardening Tips/🎯 Create Custom Dashboards.md",
+    "👩‍🌾 Gardening Tips/Untitled.md"
   ]
 }

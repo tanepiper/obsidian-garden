@@ -1,5 +1,5 @@
 ---
-aliases: [Create Custom Dashboards, dashboards]
+aliases: [🎯 Create Custom Dashboards, dashboards]
 type: tutorial
 ---
 

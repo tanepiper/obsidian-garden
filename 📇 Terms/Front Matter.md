@@ -1,5 +1,5 @@
 ---
-aliases: [frontmatter]
+aliases: [Front Matter, frontmatter]
 type: term
 ---
 Status:: #in-progress 
