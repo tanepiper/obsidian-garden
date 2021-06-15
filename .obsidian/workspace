@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "👩‍🌾 Gardening Tips/Obsidian/Obsidian File Struture.md",
+            "file": "README.md",
             "mode": "source"
           }
         }
@@ -84,7 +84,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "👩‍🌾 Gardening Tips/Obsidian/Obsidian File Struture.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "👩‍🌾 Gardening Tips/Obsidian/Obsidian File Struture.md"
+                "file": "README.md"
               }
             }
           },
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "👩‍🌾 Gardening Tips/Obsidian/Obsidian File Struture.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "👩‍🌾 Gardening Tips/Obsidian/Obsidian File Struture.md",
+                "file": "README.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -188,15 +188,15 @@
   },
   "active": "8b3f784f18038499",
   "lastOpenFiles": [
-    "👩‍🌾 Gardening Tips/Obsidian/Obsidian File Struture.md",
-    "👨‍👧‍👦 People.md",
-    "📚 Reading.md",
-    "📇 Glossary.md",
+    "README.md",
+    "⏣ Templates/📰 New Dashboard.md",
     "⏣ Templates/📙 New Reading Item.md",
     "⏣ Templates/👤 New Person.md",
-    "📇 Terms/Front Matter.md",
-    "👩‍🌾 Gardening Tips/Obsidian/Obsidian Templates.md",
-    "👩‍🌾 Gardening Tips/🎯 Create Custom Dashboards.md",
-    "👩‍🌾 Gardening Tips/Untitled.md"
+    "👩‍🌾 Gardening Tips/🪨 Obsidian/🗂 Obsidian File Struture.md",
+    "👩‍🌾 Gardening Tips/⚠️ Statuses.md",
+    "👩‍🌾 Gardening Tips/🌱 Creating Seeds.md",
+    "👩‍🌾 Gardening Tips/🪨 Obsidian/🔌 Plugins & 🌈 Theme.md",
+    "👩‍🌾 Gardening Tips/🏭 Project Stucture.md",
+    "👩‍🌾 Gardening Tips/🔌 Plugins & 🌈 Theme.md"
   ]
 }

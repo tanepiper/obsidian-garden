@@ -1,8 +1,8 @@
 ---
-aliases: [Creating Seeds, create seeds, create a seed, seeds, seed]
+aliases: [🌱 Creating Seeds, create seeds, create a seed, seeds, seed]
 type: tutorial
 ---
-Tags: #tutorials #seed #triage #tags #templates #statuses
+Tags:: #tutorials #seed #triage #tags #templates #statuses
 
 ## What is a 🌱 Seed?
 A seed is a document you create that goes into the 🌱 Seed Box, your inbox for new ideas.
