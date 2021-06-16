@@ -11,9 +11,9 @@ Like any person with ADHD, [[👨‍👧‍👦 People/🧑🏻‍💻 Tane Pipe
 
 Things change, and ideas grow - after discussing note taking apps I decided to give Obsidian a try again - I watched [[👨‍👧‍👦 People/👤 Alexis Rondeau]]'s video [How to use Obsidian to write a book](https://www.youtube.com/watch?v=pP4AeGY2mz4) - after this something just clicked.  
 
-Within hours I already had things close to how I liked it. This document I'm writing now is about 24 hours later - I didn't waste any time getting started on making a great template for myself to use, but also to share.
+Within hours I already had things close to how I liked it. Within 24 hours I was creating a working system. As I did this, I documented the changes I made - which I have turned in to this guide.
 
-Based on what I've learned in that short time, I've tried to come up with a simple idea that is reusable - a structure that contains a way to create connections, to set up goals and to capture knowledge.  The garden and seed idea are not new, but I've tried to crystalise it into a set of principles for [[📇 Terms/Knowledge Management]].
+Based on what I've learned in that short time, I've tried to come up with a simple idea that is reusable - a structure that contains a way to create connections, to set up goals and to capture knowledge.  The garden and seed idea are not new, but I've tried to crystalise it into a set of principles for [[📇 Terms/🧠 Knowledge Systems/Knowledge Management]].
 
 ## The Garden Analogy
 I myself enjoy gardening - both in my own back yard, and an allotment with greenhouse, raised beds and berry bushes.  As you learn the ways of gardening it helps see how nurturing and growing plants leads to a rewarding harvest.
@@ -24,10 +24,10 @@ This is the same with ideas - I'm constantly coming up with lots - but have them
 
 ## Principles
 
-### Consistant Frontmatter
+### Consistent Front Matter
 [[👩‍🌾 Gardening Tips/⚠️ Statuses]]
 
-Each template file contains a set of frontmatter properties, the most important being `status`.  The defaults for the field are sensible: `triage`, `ready`, `in progress` and `done`.  Using these allows queries to be generated that show a particular status.  The field is customisable, and there are more properties available in each template - so feel free to use your own to build more complex query sets.
+Each template file contains a set of [[📇 Terms/🪨 Obsidian/Front Matter|Front Matter]] properties, the most important being `status`.  The defaults for the field are sensible: `triage`, `ready`, `in progress` and `done`.  Using these allows queries to be generated that show a particular status.  The field is customisable, and there are more properties available in each template - so feel free to use your own to build more complex query sets.
 
 ### Sensible Templates
 [[👩‍🌾 Gardening Tips/🌱 Creating Seeds]]

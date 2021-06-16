@@ -1,18 +1,24 @@
 ---
 alias: [Link, link, links]
-status: done
 type: term
 description: Description of a Link
-category: obsidian
 ---
+%%
+Status:: #in-progress 
+%%
+
+---
+**Category**:: #obsidian 
 Tags: #term #link #obsidian #tutorials 
 Links: [[📇 Glossary]]
 
+---
+
 ## Definition
-A connection between pieces of information in [[Obsidian]]
+A connection between pieces of information in [[📇 Terms/🪨 Obsidian/Obsidian]]
 
 ## Sources
 - [Obsidian Documentation](https://help.obsidian.md/How+to/Internal+link)
 
 ## Uses
-To creation [[📇 Terms/Connection]] between pages
+To creation [[📇 Terms/💡 Concepts/Connection]] between pages

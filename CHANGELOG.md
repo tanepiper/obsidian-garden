@@ -6,7 +6,7 @@ description: A basic note file with no stucture
 ## [Unreleased]
 
 ### Changed
-- Moved important query variables to `Value::` properties instead of [[📇 Terms/Front Matter|frontmatter]].
+- Moved important query variables to `Value::` properties instead of [[📇 Terms/🪨 Obsidian/Front Matter|frontmatter]].
 
 ## [0.0.0] - 2021-06-13
 

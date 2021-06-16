@@ -3,7 +3,7 @@ type: person
 ---
 Status:: #done
 Tags:: #person #youtube #obsidian #tutorials
-Links:: [[👨‍👧‍👦 People]] [[📇 Terms/Knowledge Management]]
+Links:: [[👨‍👧‍👦 People]] [[📇 Terms/🧠 Knowledge Systems/Knowledge Management]]
 
 # Links
 - [Youtube](https://www.youtube.com/channel/UCPcIIq_EMs2U0QQzEF9qbtA)

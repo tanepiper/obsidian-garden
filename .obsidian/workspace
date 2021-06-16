@@ -4,13 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "8b3f784f18038499",
+        "id": "dd59ae0a101e6a3f",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "👩‍🌾 Your Knowledge Garden.md",
-            "mode": "preview"
+            "file": "👩‍🌾 Gardening Tips/🪨🌱 Obsidian Garden.md",
+            "mode": "source"
           }
         }
       }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "👩‍🌾 Your Knowledge Garden.md",
+                "file": "👩‍🌾 Gardening Tips/🪨🌱 Obsidian Garden.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "👩‍🌾 Your Knowledge Garden.md"
+                "file": "👩‍🌾 Gardening Tips/🪨🌱 Obsidian Garden.md"
               }
             }
           },
@@ -136,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "👩‍🌾 Your Knowledge Garden.md",
+                "file": "👩‍🌾 Gardening Tips/🪨🌱 Obsidian Garden.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -159,7 +159,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "👩‍🌾 Your Knowledge Garden.md",
+                "file": "👩‍🌾 Gardening Tips/🪨🌱 Obsidian Garden.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -210,17 +210,17 @@
     "direction": "horizontal",
     "width": 305.5
   },
-  "active": "8b3f784f18038499",
+  "active": "dd59ae0a101e6a3f",
   "lastOpenFiles": [
+    "👩‍🌾 Gardening Tips/🪨🌱 Obsidian Garden.md",
     "👩‍🌾 Your Knowledge Garden.md",
-    "🌱 Seed Box/Data Rot.md",
-    "🌱 Seed Box/I.md",
-    "🌱 Seed Box/loosing important historical information.md",
-    "README.md",
-    "🗓 Daily Notes/2021-06-16.md",
-    "🗓 Daily Notes/2021-06-15.md",
-    "🪴 Grow Room.md",
-    "Snippets/Good Day.md",
-    "⏣ Templates/🗓 Daily Note.md"
+    "📇 Terms/🪨 Obsidian/Obsidian.md",
+    "📇 Terms/🪨 Obsidian/Front Matter.md",
+    "📇 Terms/🪨 Obsidian/Link.md",
+    "📇 Terms/🧠 Knowledge Systems/Zettelkasten.md",
+    "📇 Terms/🧠 Knowledge Systems/Knowledge Management.md",
+    "📇 Terms/🧠 Knowledge Systems/Knowledge Graph.md",
+    "📇 Terms/🧠 Knowledge Systems/🏞 Digital Garden.md",
+    "📇 Terms/💡 Concepts/System.md"
   ]
 }

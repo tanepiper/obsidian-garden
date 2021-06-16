@@ -7,9 +7,9 @@ date updated: '2021-06-16T13:26:25+02:00'
 
 # 👋 Welcome to your Knowledge Garden
 
-[[👩‍🌾 Gardening Tips/🪨🌱 Obsidian Garden|🪨🌱 The Obsidian Garden]] is a open-source guide to creating your own [[📇 Terms/Knowledge Management|Knowledge Management System]] with [Obsidian](https://obsidian.md).
+[[👩‍🌾 Gardening Tips/🪨🌱 Obsidian Garden|🪨🌱 The Obsidian Garden]] is a open-source guide to creating your own [[📇 Terms/🧠 Knowledge Systems/Knowledge Management|Knowledge Management System]] with [Obsidian](https://obsidian.md).
 
-The garden is a system in itself - designed as a template for you to learn the basics of working with [[📇 Terms/Obsidian|Obsidian]]
+The garden is a system in itself - designed as a template for you to learn the basics of working with [[📇 Terms/🪨 Obsidian/Obsidian|Obsidian]]
 
 ![[🖇 Attachments/the-knowledge-garden.png]]
 
@@ -19,17 +19,17 @@ The easiest way to start is clone [this GitHub repository](https://github.com/ta
 
 > `git clone https://github.com/tanepiper/obsidian-garden.git`
 
-Then you can open in [[📇 Terms/Obsidian|Obsidian]] - make sure the [[👩‍🌾 Gardening Tips/🪨 Obsidian/🔌 Plugins & 🌈 Theme|🔌 Plugins & 🌈 Theme]] are also installed.
+Then you can open in [[📇 Terms/🪨 Obsidian/Obsidian|Obsidian]] - make sure the [[👩‍🌾 Gardening Tips/🪨 Obsidian/🔌 Plugins & 🌈 Theme|🔌 Plugins & 🌈 Theme]] are also installed.
 
 > ⚠️ The Obsidian Garden is currently in active development and evolving - it's being developed in the open but is subject to changes, and may contain broken links and errors
 
 ## 🔗 Creating Connections
 
-💡 Great ideas happen when there is an [[📇 Terms/Connection|connection]] between knowledge and inspiration.
+💡 Great ideas happen when there is an [[📇 Terms/💡 Concepts/Connection|connection]] between knowledge and inspiration.
 
-For thousands of years humans have tried to make sense of the world around them. Scientists, philosophers, writers, and even you and [[👨‍👧‍👦 People/🧑🏻‍💻 Tane Piper|I]] try to categorise it, understand how it works and create [[📇 Terms/System|systems]] that allow us to store and process this knowledge.
+For thousands of years humans have tried to make sense of the world around them. Scientists, philosophers, writers, and even you and [[👨‍👧‍👦 People/🧑🏻‍💻 Tane Piper|I]] try to categorise it, understand how it works and create [[📇 Terms/💡 Concepts/System|systems]] that allow us to store and process this knowledge.
 
-Each time this has allowed new ideas to form, adding to the collective [[📇 Terms/Knowledge Graph|Knowledge Graph]] from which more build on - but in our modern world there are so many distractions and so much new information to process that it can be really hard to see the [[📇 Terms/Link|links]] between things.
+Each time this has allowed new ideas to form, adding to the collective [[📇 Terms/🧠 Knowledge Systems/Knowledge Graph|Knowledge Graph]] from which more build on - but in our modern world there are so many distractions and so much new information to process that it can be really hard to see the [[📇 Terms/🪨 Obsidian/Link|links]] between things.
 
 From our own minds, to a collection of half-filled notebooks in a drawer and from a bookshelf of unread books to your nearest library - all contain the inspiration we need to think of our next great idea.
 
@@ -39,29 +39,29 @@ From our own minds, to a collection of half-filled notebooks in a drawer and fro
 
 When we do this, an idea can only exist within the boundaries of our own imagination. No one else yet knows about your idea (unless there is a [Multiple Discovery](https://en.wikipedia.org/wiki/Multiple_discovery) - but this also means you're losing out).
 
-Without communicating this idea the first real risk in [[🌱 Seed Box/Information Rot|Information Rot]] is you!
+Without communicating this idea the first real risk in [[📇 Terms/💡 Concepts/Information Rot|Information Rot]] is you!
 
 In the west, oral tradition is unreliable - telling people about your idea is great, but passed on information tends to be unreliable and incomplete. Only the source is truly reliable, and even then at risk of forgetting details.
 
-The only way to truly capture an idea is to write it down, draw it, or record it. Even here there's a risk that without one single place to put it all - you will miss out on [[📇 Terms/Connection|connecting]] it all together.
+The only way to truly capture an idea is to write it down, draw it, or record it. Even here there's a risk that without one single place to put it all - you will miss out on [[📇 Terms/💡 Concepts/Connection|connecting]] it all together.
 
-In [[📇 Terms/Knowledge Management|Knowledge Management]] systems there is concept of the _"second brain"_ - a dynamic and visual hard drive that we can consciously put our stream of thoughts and ideas in to.
+In [[📇 Terms/🧠 Knowledge Systems/Knowledge Management|Knowledge Management]] systems there is concept of the _"second brain"_ - a dynamic and visual hard drive that we can consciously put our stream of thoughts and ideas in to.
 
-On top of this we build the [[🏞 Digital Garden]] idea - in this guide known as the **Knowledge Garden** - this is not a new idea, instead we build on this concept and use it as a base template to show a working system.
+On top of this we build the [[📇 Terms/🧠 Knowledge Systems/🏞 Digital Garden]] idea - in this guide known as the **Knowledge Garden** - this is not a new idea, instead we build on this concept and use it as a base template to show a working system.
 
 ## 🧠 Creating a second brain
 
-Using [[📇 Terms/Obsidian|Obsidian]] and this guide you can use it to create your own system - either by extending, or creating your own from scratch.
+Using [[📇 Terms/🪨 Obsidian/Obsidian|Obsidian]] and this guide you can use it to create your own system - either by extending, or creating your own from scratch.
 
 By extending Obsidian with [[👩‍🌾 Gardening Tips/🪨 Obsidian/🔌 Plugins & 🌈 Theme|🔌 Plugins and a 🌈 Theme]] we can start to build with more functionality for creating and querying the underlying data.
 
-This guide is designed to get you starting in understanding why a [[📇 Terms/Knowledge Management|Knowledge Garden]] is useful and to help reduce the learning curve.
+This guide is designed to get you starting in understanding why a [[📇 Terms/🧠 Knowledge Systems/Knowledge Management|Knowledge Garden]] is useful and to help reduce the learning curve.
 
 ## 🌺 Letting Ideas Flourish
 
 ⏳ Like a real garden, good ideas need nurtured and take time to grow - but can reap rewards when cared for correctly.
 
-To escape the distractions of life we can visit our [[👩‍🌾 Gardening Tips/🪨🌱 Obsidian Garden|Obsidian Garden|Knowledge Garden]] to reconnect with [[👩‍🌾 Gardening Tips/🌱 Creating Seeds|🌱 new]] and [[🪴 Grow Room|🪴 old]] knowledge and create [[📇 Terms/Link|links]] between them so we can see the [[📇 Terms/Knowledge Graph|Knowledge Graph]] that connects them.
+To escape the distractions of life we can visit our [[👩‍🌾 Gardening Tips/🪨🌱 Obsidian Garden|Obsidian Garden|Knowledge Garden]] to reconnect with [[👩‍🌾 Gardening Tips/🌱 Creating Seeds|🌱 new]] and [[🪴 Grow Room|🪴 old]] knowledge and create [[📇 Terms/🪨 Obsidian/Link|links]] between them so we can see the [[📇 Terms/🧠 Knowledge Systems/Knowledge Graph|Knowledge Graph]] that connects them.
 
 Adding enhanced richness with `#tags` and `Variables::` allows us to perform [[searches]] and [[build queries]] that allow us to [[👩‍🌾 Gardening Tips/🎯 Create Custom Dashboards|🎯 Create Custom Dashboards]] and code blocks that let us see through the overgrowth of all the data - display tables, and lists - both basic to do items.
 
@@ -98,7 +98,7 @@ graph LR
 
 > ✅ This set of tools is released under Creative Commons Zero v1.0 Universal [[LICENSE]]
 
-> If you are looking for a more fully featured [[📇 Terms/Knowledge Management|Knowledge Management]] system check out [LytKit](https://publish.obsidian.md/lyt-kit/_Start+Here)
+> If you are looking for a more fully featured [[📇 Terms/🧠 Knowledge Systems/Knowledge Management|Knowledge Management]] system check out [LytKit](https://publish.obsidian.md/lyt-kit/_Start+Here)
 
 ---
 
