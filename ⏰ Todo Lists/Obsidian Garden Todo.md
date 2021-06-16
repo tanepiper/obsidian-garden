@@ -2,11 +2,18 @@
 type: todoList
 description: The todo list for releasing Obsidian Garden
 ---
+%%
 Status:: #in-progress 
-Started:: 2021-06-13
-Ended:: 
-Tags: #todo-list
-Links: [[⏰ ToDo Lists]]
+
+%%
+
+---
+**Started**:: 2021-06-13
+**Ended**:: 
+**Tags**:: #todo-list #obsidian-garden #release
+**Links**:: [[⏰ ToDo Lists]] [[👩‍🌾 Gardening Tips/🪨🌱 Obsidian Garden|Obsidian Garden]]
+
+---
 
 ## Towards Version 0.2.0
 - [x] Move some properties from frontmatter to `Value::` properties in docs (e.g. status, tags, etc)

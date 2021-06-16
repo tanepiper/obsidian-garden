@@ -1,9 +1,15 @@
 ---
 type: person
 ---
+%%
 Status:: #done
-Tags:: #person #svelte #rxjs #open-source #youtube #talks
-Links:: [[👨‍👧‍👦 People]]
+%%
+
+---
+**Tags**:: #person #svelte #rxjs #open-source #youtube #talks
+**Links**:: [[👨‍👧‍👦 People]]
+
+---
 
 ## Biography
 Author of this guide, I'm an open source developer, creative technologist and software coach. I'm [[Neurodivergent]] with ADHD - for years I've strugged to find a good system to keep all my information together.  My desk drawers are littered with half-filled notebooks, I use Google Keep for random notes, LucidChart for others - but it all gets disconnected.

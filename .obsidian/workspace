@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "dd59ae0a101e6a3f",
+        "id": "16f692be4a319a73",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "👩‍🌾 Gardening Tips/🪨🌱 Obsidian Garden.md",
+            "file": "👩‍🌾 Gardening Tips/🪨 Obsidian/🔌 Plugins & 🌈 Theme.md",
             "mode": "source"
           }
         }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "👩‍🌾 Gardening Tips/🪨🌱 Obsidian Garden.md",
+                "file": "👩‍🌾 Gardening Tips/🪨 Obsidian/🔌 Plugins & 🌈 Theme.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "👩‍🌾 Gardening Tips/🪨🌱 Obsidian Garden.md"
+                "file": "👩‍🌾 Gardening Tips/🪨 Obsidian/🔌 Plugins & 🌈 Theme.md"
               }
             }
           },
@@ -136,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "👩‍🌾 Gardening Tips/🪨🌱 Obsidian Garden.md",
+                "file": "👩‍🌾 Gardening Tips/🪨 Obsidian/🔌 Plugins & 🌈 Theme.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -159,7 +159,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "👩‍🌾 Gardening Tips/🪨🌱 Obsidian Garden.md",
+                "file": "👩‍🌾 Gardening Tips/🪨 Obsidian/🔌 Plugins & 🌈 Theme.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -210,17 +210,17 @@
     "direction": "horizontal",
     "width": 305.5
   },
-  "active": "dd59ae0a101e6a3f",
+  "active": "16f692be4a319a73",
   "lastOpenFiles": [
-    "👩‍🌾 Gardening Tips/🪨🌱 Obsidian Garden.md",
-    "👩‍🌾 Your Knowledge Garden.md",
-    "📇 Terms/🪨 Obsidian/Obsidian.md",
-    "📇 Terms/🪨 Obsidian/Front Matter.md",
-    "📇 Terms/🪨 Obsidian/Link.md",
-    "📇 Terms/🧠 Knowledge Systems/Zettelkasten.md",
-    "📇 Terms/🧠 Knowledge Systems/Knowledge Management.md",
-    "📇 Terms/🧠 Knowledge Systems/Knowledge Graph.md",
-    "📇 Terms/🧠 Knowledge Systems/🏞 Digital Garden.md",
-    "📇 Terms/💡 Concepts/System.md"
+    "👩‍🌾 Gardening Tips/🪨 Obsidian/🔌 Plugins & 🌈 Theme.md",
+    "👨‍👧‍👦 People/🧑🏻‍💻 Tane Piper.md",
+    "👨‍👧‍👦 People/👤 Alexis Rondeau.md",
+    "🌱 Seed Box/🧠 Create My First Idea.md",
+    "⏰ Todo Lists/Obsidian Garden Todo.md",
+    "⏣ Templates/🪛 Todo List.md",
+    "⏣ Templates/🗓 Daily Note.md",
+    "⏣ Templates/🗒 Basic Note.md",
+    "⏣ Templates/🔬 New Research.md",
+    "⏣ Templates/🔗 New Link.md"
   ]
 }
