@@ -11,6 +11,9 @@ Status:: #in-progress
 **Links**:: <!-- Add any additional links here -->
 
 ---
+<% tp.user.generate_periodic_link_markdown(tp, "D") %>
+
+![[Snippets/Good Day]]
 
 # Today's Plan
 <!-- What is the plan for today? Is there anything left over from yesterday? -->
