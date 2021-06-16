@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "🗓 Daily Notes/2021-06-16.md",
-            "mode": "preview"
+            "file": "👩‍🌾 Your Knowledge Garden.md",
+            "mode": "source"
           }
         }
       }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🗓 Daily Notes/2021-06-16.md",
+                "file": "👩‍🌾 Your Knowledge Garden.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🗓 Daily Notes/2021-06-16.md"
+                "file": "👩‍🌾 Your Knowledge Garden.md"
               }
             }
           },
@@ -136,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🗓 Daily Notes/2021-06-16.md",
+                "file": "👩‍🌾 Your Knowledge Garden.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -159,7 +159,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "🗓 Daily Notes/2021-06-16.md",
+                "file": "👩‍🌾 Your Knowledge Garden.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -189,7 +189,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       },
       {
         "id": "b4318a8a1906d79c",
@@ -212,15 +212,15 @@
   },
   "active": "8b3f784f18038499",
   "lastOpenFiles": [
+    "👩‍🌾 Your Knowledge Garden.md",
+    "🌱 Seed Box/Data Rot.md",
+    "🌱 Seed Box/I.md",
+    "🌱 Seed Box/loosing important historical information.md",
+    "README.md",
     "🗓 Daily Notes/2021-06-16.md",
     "🗓 Daily Notes/2021-06-15.md",
-    "⏣ Templates/🗓 Daily Note.md",
-    "🌱 Seed Box/Untitled 2.md",
-    "🌱 Seed Box/Untitled.md",
-    "🌱 Seed Box/Untitled 1.md",
+    "🪴 Grow Room.md",
     "Snippets/Good Day.md",
-    "👩‍🌾 Your Knowledge Garden.md",
-    "Snippets/Untitled.md",
-    "📇 Terms/Knowledge Graph.md"
+    "⏣ Templates/🗓 Daily Note.md"
   ]
 }

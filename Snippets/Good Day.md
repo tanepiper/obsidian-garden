@@ -1,5 +1,6 @@
 ```dataviewjs
 const currentHour = moment().format('HH');
+console.log(currentHour)
 let greeting;
 if (currentHour >= 18 || currentHour < 5) {
  	greeting = '🌙 Good Evening'

@@ -3,9 +3,40 @@
 
 # 👋 Welcome to your Knowledge Garden
 
-💡 Ideas happen at the intersection between knowledge and inspiration - these moments happen around us all the time, but we're at risk of missing them if we don't spot the [[📇 Terms/Connection|connections]].
+[[👩‍🌾 Gardening Tips/🪨🌱 Obsidian Garden|🪨🌱 The Obsidian Garden]] is a open-source guide to 
 
-In the busy modern world - we're bombarded with so much new information and too many distractions. Information can be short lived and as the web gets larger it gets harder to find.
+💡 Great ideas happen when there is an [[📇 Terms/Connection|connection]] between knowledge and inspiration.
+
+For thousands of years humans have tried to make sense of the world around them. Scientists, philosophers, writers, and even you and [[👨‍👧‍👦 People/🧑🏻‍💻 Tane Piper|I]] try to categorise it, understand how it works and create [[📇 Terms/System|systems]] that allow us to store and process this knowledge. 
+
+From our own minds to a collection of half-filled notebooks in a drawer, from a bookshelf of unread books to your nearest library - all contain the inspiration we need to think of our next great idea
+
+## Avoiding Information Rot
+
+When it come to storing ideas - in the worst-case we use just our brain. When we do this, an idea can only exist within the boundaries of our own imagination. No one else yet knows about this idea (unless there is a [Multiple Discovery](https://en.wikipedia.org/wiki/Multiple_discovery) - but this also means you're losing out). 
+
+Without communicating this idea the first real risk in [[🌱 Seed Box/Information Rot|Information Rot]] if you! 
+
+
+- the concept that all information has a life span
+
+and unless we somehow store it we're liable to lose grasp of it as quickly as it came to us.  We can tell people, and hope that they share - but without any information to back this up it's just conjecture and hearsay.
+
+In some ways we need a *"second brain"* - a place that we can consciously put our stream of thoughts and ideas - a book we want to write, the next billion dollar app, or for just putting down all our random thoughts and timely notes.
+
+
+
+Ideas form around us all the time but we live in a busy world full of distractions, of so much new information, and of a real risk of [[🌱 Seed Box/Information Rot|loosing important historical information]] too.
+
+As humans, we tend to rely on our brains as a way to store and process everything: over thousands of years we've built systems to help categorise all our knowledge 
+
+but we're at risk of missing them if we don't spot the [[📇 Terms/Connection|connections]].
+
+Our world is a busy place full of distractions and we're bombarded with so much new information that everything we need to know grows exponentially - and as the web grows, older information becomes harder to find.
+
+
+
+To escape these distractions we can visit our [[👩‍🌾 Gardening Tips/🪨🌱 Obsidian Garden|Obsidian Garden|Knowledge Garden]] to reconnect 
 
 ⏳ Good ideas take time to grow and nurture - sometimes it feels like need a *"second brain"* or at least a hard drive. What if we could plug into our brains to store all the contents of thoughts and ideas we have, things we've read, links we want to collect?
 
