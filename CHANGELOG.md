@@ -1,8 +1,3 @@
----
-type: changelog
-description: A basic note file with no stucture
----
-
 ## [Unreleased]
 
 ### Changed

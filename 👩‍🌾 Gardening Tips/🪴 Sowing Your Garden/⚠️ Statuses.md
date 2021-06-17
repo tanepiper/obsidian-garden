@@ -8,7 +8,7 @@ Tags:: #statuses #tutorial #knowledge-management
 
 In every ⏣ Template file there is a `Status::` property after the [[📇 Terms/🪨 Obsidian/Front Matter|frontmatter]] block. 
 
-There is no hard-and-fast rules on how to use this - the way it's implemented in the [[👩‍🌾 Gardening Tips/🪨🌱 Obsidian Garden]] is just a suggestion to show how it can be used to [[👩‍🌾 Gardening Tips/🎯 Create Custom Dashboards|🎯 Create Custom Dashboards]].
+There is no hard-and-fast rules on how to use this - the way it's implemented in the [[👩‍🌾 Gardening Tips/🪨🌱 Obsidian Garden]] is just a suggestion to show how it can be used to [[👩‍🌾 Gardening Tips/🪴 Sowing Your Garden/🎯 Create Custom Dashboards|🎯 Create Custom Dashboards]].
 
 There are 4 default statuses provided:
 

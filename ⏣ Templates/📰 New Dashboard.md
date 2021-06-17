@@ -14,7 +14,7 @@ Status:: #triage
 
 ## Dashboard Info
 
-You can [[👩‍🌾 Gardening Tips/🎯 Create Custom Dashboards|🎯 Create Custom Dashboards]] easily using the `dataview` plugin and SQL-like query language.
+You can [[👩‍🌾 Gardening Tips/🪴 Sowing Your Garden/🎯 Create Custom Dashboards|🎯 Create Custom Dashboards]] easily using the `dataview` plugin and SQL-like query language.
 
 ---
 

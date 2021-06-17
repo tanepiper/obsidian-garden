@@ -9,7 +9,7 @@ Status:: #in-progress
 
 ---
 Tags:: #tutorial #obsidian #templates #markdown #front-matter #guide
-Links:: [[👩‍🌾 Gardening Tips/🌱 Creating Seeds]], [[👩‍🌾 Gardening Tips/🎯 Create Custom Dashboards|🎯 Create Custom Dashboards]]
+Links:: [[👩‍🌾 Gardening Tips/🪴 Sowing Your Garden/🌱 Creating Seeds]], [[👩‍🌾 Gardening Tips/🪴 Sowing Your Garden/🎯 Create Custom Dashboards|🎯 Create Custom Dashboards]]
 
 ---
 

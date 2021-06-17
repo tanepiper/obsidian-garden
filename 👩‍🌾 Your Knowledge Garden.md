@@ -61,9 +61,9 @@ This guide is designed to get you starting in understanding why a [[📇 Terms/�
 
 ⏳ Like a real garden, good ideas need nurtured and take time to grow - but can reap rewards when cared for correctly.
 
-To escape the distractions of life we can visit our [[👩‍🌾 Gardening Tips/🪨🌱 Obsidian Garden|Obsidian Garden|Knowledge Garden]] to reconnect with [[👩‍🌾 Gardening Tips/🌱 Creating Seeds|🌱 new]] and [[🪴 Grow Room|🪴 old]] knowledge and create [[📇 Terms/🪨 Obsidian/Link|links]] between them so we can see the [[📇 Terms/🧠 Knowledge Systems/Knowledge Graph|Knowledge Graph]] that connects them.
+To escape the distractions of life we can visit our [[👩‍🌾 Gardening Tips/🪨🌱 Obsidian Garden|Obsidian Garden|Knowledge Garden]] to reconnect with [[👩‍🌾 Gardening Tips/🪴 Sowing Your Garden/🌱 Creating Seeds|🌱 new]] and [[🪴 Grow Room|🪴 old]] knowledge and create [[📇 Terms/🪨 Obsidian/Link|links]] between them so we can see the [[📇 Terms/🧠 Knowledge Systems/Knowledge Graph|Knowledge Graph]] that connects them.
 
-Adding enhanced richness with `#tags` and `Variables::` allows us to perform [[searches]] and [[build queries]] that allow us to [[👩‍🌾 Gardening Tips/🎯 Create Custom Dashboards|🎯 Create Custom Dashboards]] and code blocks that let us see through the overgrowth of all the data - display tables, and lists - both basic to do items.
+Adding enhanced richness with `#tags` and `Variables::` allows us to perform [[searches]] and [[build queries]] that allow us to [[👩‍🌾 Gardening Tips/🪴 Sowing Your Garden/🎯 Create Custom Dashboards|🎯 Create Custom Dashboards]] and code blocks that let us see through the overgrowth of all the data - display tables, and lists - both basic to do items.
 
 Every [[👨‍👧‍👦 People|person's]] garden is different - some are neatly manecured and ordered, while some are more organic and wild - both need nurturing and tending too.
 
