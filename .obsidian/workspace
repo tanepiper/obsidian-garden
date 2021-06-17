@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "👩‍🌾 Gardening Tips/🪴 Sowing Your Garden/🏷 Using Tags.md",
-            "mode": "source"
+            "file": "👩‍🌾 Your Knowledge Garden.md",
+            "mode": "preview"
           }
         }
       }
@@ -50,14 +50,6 @@
             }
           },
           {
-            "id": "ea6f776614e699fd",
-            "type": "leaf",
-            "state": {
-              "type": "file-tree-view",
-              "state": {}
-            }
-          },
-          {
             "id": "d491b697ebe0bc64",
             "type": "leaf",
             "state": {
@@ -70,6 +62,14 @@
                 "extraContext": false,
                 "sortOrder": "alphabetical"
               }
+            }
+          },
+          {
+            "id": "7946bc4e7b29c4d4",
+            "type": "leaf",
+            "state": {
+              "type": "file-tree-view",
+              "state": {}
             }
           }
         ]
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "👩‍🌾 Gardening Tips/🪴 Sowing Your Garden/🏷 Using Tags.md",
+                "file": "👩‍🌾 Your Knowledge Garden.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "👩‍🌾 Gardening Tips/🪴 Sowing Your Garden/🏷 Using Tags.md"
+                "file": "👩‍🌾 Your Knowledge Garden.md"
               }
             }
           },
@@ -136,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "👩‍🌾 Gardening Tips/🪴 Sowing Your Garden/🏷 Using Tags.md",
+                "file": "👩‍🌾 Your Knowledge Garden.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -159,7 +159,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "👩‍🌾 Gardening Tips/🪴 Sowing Your Garden/🏷 Using Tags.md",
+                "file": "👩‍🌾 Your Knowledge Garden.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -212,15 +212,15 @@
   },
   "active": "ac5aa647f576f792",
   "lastOpenFiles": [
-    "🌱 Seed Box/tags.md",
+    "👩‍🌾 Your Knowledge Garden.md",
     "🪴 Grow Room.md",
-    "CHANGELOG.md",
-    "LICENSE.md",
-    "README.md",
-    "🗓 Daily Notes/2021-06-16.md",
-    "👩‍🌾 Gardening Tips/🪨 Obsidian/🔌 Plugins & 🌈 Theme.md",
-    "👨‍👧‍👦 People/🧑🏻‍💻 Tane Piper.md",
-    "👨‍👧‍👦 People/👤 Alexis Rondeau.md",
-    "🌱 Seed Box/🧠 Create My First Idea.md"
+    "📇 Terms/🪨 Obsidian/Obsidian.md",
+    "📇 Glossary.md",
+    "👩‍🌾 Gardening Tips/🪨🌱 Obsidian Garden.md",
+    "📇 Terms/🧠 Knowledge Systems/Knowledge Management.md",
+    "📇 Terms/🧠 Knowledge Systems/🏞 Digital Garden.md",
+    "🗂 Projects/My New Garden/🌽 My New Garden.md",
+    "🗂 Projects/My New Garden/Next Steps.md",
+    "🌱 Seed Box/tags.md"
   ]
 }

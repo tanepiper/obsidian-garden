@@ -7201,6 +7201,461 @@ var require_prop_types = __commonJS({
   }
 });
 
+// node_modules/file-selector/node_modules/tslib/tslib.js
+var require_tslib = __commonJS({
+  "node_modules/file-selector/node_modules/tslib/tslib.js"(exports, module2) {
+    var __extends2;
+    var __assign2;
+    var __rest2;
+    var __decorate2;
+    var __param2;
+    var __metadata2;
+    var __awaiter2;
+    var __generator2;
+    var __exportStar2;
+    var __values2;
+    var __read2;
+    var __spread2;
+    var __spreadArrays2;
+    var __spreadArray2;
+    var __await2;
+    var __asyncGenerator2;
+    var __asyncDelegator2;
+    var __asyncValues2;
+    var __makeTemplateObject2;
+    var __importStar2;
+    var __importDefault2;
+    var __classPrivateFieldGet2;
+    var __classPrivateFieldSet2;
+    var __createBinding2;
+    (function(factory) {
+      var root = typeof global === "object" ? global : typeof self === "object" ? self : typeof this === "object" ? this : {};
+      if (typeof define === "function" && define.amd) {
+        define("tslib", ["exports"], function(exports2) {
+          factory(createExporter(root, createExporter(exports2)));
+        });
+      } else if (typeof module2 === "object" && typeof module2.exports === "object") {
+        factory(createExporter(root, createExporter(module2.exports)));
+      } else {
+        factory(createExporter(root));
+      }
+      function createExporter(exports2, previous) {
+        if (exports2 !== root) {
+          if (typeof Object.create === "function") {
+            Object.defineProperty(exports2, "__esModule", { value: true });
+          } else {
+            exports2.__esModule = true;
+          }
+        }
+        return function(id, v2) {
+          return exports2[id] = previous ? previous(id, v2) : v2;
+        };
+      }
+    })(function(exporter) {
+      var extendStatics = Object.setPrototypeOf || { __proto__: [] } instanceof Array && function(d, b) {
+        d.__proto__ = b;
+      } || function(d, b) {
+        for (var p2 in b)
+          if (Object.prototype.hasOwnProperty.call(b, p2))
+            d[p2] = b[p2];
+      };
+      __extends2 = function(d, b) {
+        if (typeof b !== "function" && b !== null)
+          throw new TypeError("Class extends value " + String(b) + " is not a constructor or null");
+        extendStatics(d, b);
+        function __() {
+          this.constructor = d;
+        }
+        d.prototype = b === null ? Object.create(b) : (__.prototype = b.prototype, new __());
+      };
+      __assign2 = Object.assign || function(t) {
+        for (var s, i = 1, n = arguments.length; i < n; i++) {
+          s = arguments[i];
+          for (var p2 in s)
+            if (Object.prototype.hasOwnProperty.call(s, p2))
+              t[p2] = s[p2];
+        }
+        return t;
+      };
+      __rest2 = function(s, e) {
+        var t = {};
+        for (var p2 in s)
+          if (Object.prototype.hasOwnProperty.call(s, p2) && e.indexOf(p2) < 0)
+            t[p2] = s[p2];
+        if (s != null && typeof Object.getOwnPropertySymbols === "function")
+          for (var i = 0, p2 = Object.getOwnPropertySymbols(s); i < p2.length; i++) {
+            if (e.indexOf(p2[i]) < 0 && Object.prototype.propertyIsEnumerable.call(s, p2[i]))
+              t[p2[i]] = s[p2[i]];
+          }
+        return t;
+      };
+      __decorate2 = function(decorators, target, key, desc) {
+        var c = arguments.length, r = c < 3 ? target : desc === null ? desc = Object.getOwnPropertyDescriptor(target, key) : desc, d;
+        if (typeof Reflect === "object" && typeof Reflect.decorate === "function")
+          r = Reflect.decorate(decorators, target, key, desc);
+        else
+          for (var i = decorators.length - 1; i >= 0; i--)
+            if (d = decorators[i])
+              r = (c < 3 ? d(r) : c > 3 ? d(target, key, r) : d(target, key)) || r;
+        return c > 3 && r && Object.defineProperty(target, key, r), r;
+      };
+      __param2 = function(paramIndex, decorator) {
+        return function(target, key) {
+          decorator(target, key, paramIndex);
+        };
+      };
+      __metadata2 = function(metadataKey, metadataValue) {
+        if (typeof Reflect === "object" && typeof Reflect.metadata === "function")
+          return Reflect.metadata(metadataKey, metadataValue);
+      };
+      __awaiter2 = function(thisArg, _arguments, P2, generator) {
+        function adopt(value) {
+          return value instanceof P2 ? value : new P2(function(resolve2) {
+            resolve2(value);
+          });
+        }
+        return new (P2 || (P2 = Promise))(function(resolve2, reject2) {
+          function fulfilled(value) {
+            try {
+              step(generator.next(value));
+            } catch (e) {
+              reject2(e);
+            }
+          }
+          function rejected(value) {
+            try {
+              step(generator["throw"](value));
+            } catch (e) {
+              reject2(e);
+            }
+          }
+          function step(result) {
+            result.done ? resolve2(result.value) : adopt(result.value).then(fulfilled, rejected);
+          }
+          step((generator = generator.apply(thisArg, _arguments || [])).next());
+        });
+      };
+      __generator2 = function(thisArg, body) {
+        var _ = { label: 0, sent: function() {
+          if (t[0] & 1)
+            throw t[1];
+          return t[1];
+        }, trys: [], ops: [] }, f, y, t, g;
+        return g = { next: verb(0), "throw": verb(1), "return": verb(2) }, typeof Symbol === "function" && (g[Symbol.iterator] = function() {
+          return this;
+        }), g;
+        function verb(n) {
+          return function(v2) {
+            return step([n, v2]);
+          };
+        }
+        function step(op) {
+          if (f)
+            throw new TypeError("Generator is already executing.");
+          while (_)
+            try {
+              if (f = 1, y && (t = op[0] & 2 ? y["return"] : op[0] ? y["throw"] || ((t = y["return"]) && t.call(y), 0) : y.next) && !(t = t.call(y, op[1])).done)
+                return t;
+              if (y = 0, t)
+                op = [op[0] & 2, t.value];
+              switch (op[0]) {
+                case 0:
+                case 1:
+                  t = op;
+                  break;
+                case 4:
+                  _.label++;
+                  return { value: op[1], done: false };
+                case 5:
+                  _.label++;
+                  y = op[1];
+                  op = [0];
+                  continue;
+                case 7:
+                  op = _.ops.pop();
+                  _.trys.pop();
+                  continue;
+                default:
+                  if (!(t = _.trys, t = t.length > 0 && t[t.length - 1]) && (op[0] === 6 || op[0] === 2)) {
+                    _ = 0;
+                    continue;
+                  }
+                  if (op[0] === 3 && (!t || op[1] > t[0] && op[1] < t[3])) {
+                    _.label = op[1];
+                    break;
+                  }
+                  if (op[0] === 6 && _.label < t[1]) {
+                    _.label = t[1];
+                    t = op;
+                    break;
+                  }
+                  if (t && _.label < t[2]) {
+                    _.label = t[2];
+                    _.ops.push(op);
+                    break;
+                  }
+                  if (t[2])
+                    _.ops.pop();
+                  _.trys.pop();
+                  continue;
+              }
+              op = body.call(thisArg, _);
+            } catch (e) {
+              op = [6, e];
+              y = 0;
+            } finally {
+              f = t = 0;
+            }
+          if (op[0] & 5)
+            throw op[1];
+          return { value: op[0] ? op[1] : void 0, done: true };
+        }
+      };
+      __exportStar2 = function(m, o) {
+        for (var p2 in m)
+          if (p2 !== "default" && !Object.prototype.hasOwnProperty.call(o, p2))
+            __createBinding2(o, m, p2);
+      };
+      __createBinding2 = Object.create ? function(o, m, k, k2) {
+        if (k2 === void 0)
+          k2 = k;
+        Object.defineProperty(o, k2, { enumerable: true, get: function() {
+          return m[k];
+        } });
+      } : function(o, m, k, k2) {
+        if (k2 === void 0)
+          k2 = k;
+        o[k2] = m[k];
+      };
+      __values2 = function(o) {
+        var s = typeof Symbol === "function" && Symbol.iterator, m = s && o[s], i = 0;
+        if (m)
+          return m.call(o);
+        if (o && typeof o.length === "number")
+          return {
+            next: function() {
+              if (o && i >= o.length)
+                o = void 0;
+              return { value: o && o[i++], done: !o };
+            }
+          };
+        throw new TypeError(s ? "Object is not iterable." : "Symbol.iterator is not defined.");
+      };
+      __read2 = function(o, n) {
+        var m = typeof Symbol === "function" && o[Symbol.iterator];
+        if (!m)
+          return o;
+        var i = m.call(o), r, ar = [], e;
+        try {
+          while ((n === void 0 || n-- > 0) && !(r = i.next()).done)
+            ar.push(r.value);
+        } catch (error) {
+          e = { error };
+        } finally {
+          try {
+            if (r && !r.done && (m = i["return"]))
+              m.call(i);
+          } finally {
+            if (e)
+              throw e.error;
+          }
+        }
+        return ar;
+      };
+      __spread2 = function() {
+        for (var ar = [], i = 0; i < arguments.length; i++)
+          ar = ar.concat(__read2(arguments[i]));
+        return ar;
+      };
+      __spreadArrays2 = function() {
+        for (var s = 0, i = 0, il = arguments.length; i < il; i++)
+          s += arguments[i].length;
+        for (var r = Array(s), k = 0, i = 0; i < il; i++)
+          for (var a = arguments[i], j = 0, jl = a.length; j < jl; j++, k++)
+            r[k] = a[j];
+        return r;
+      };
+      __spreadArray2 = function(to, from, pack) {
+        if (pack || arguments.length === 2)
+          for (var i = 0, l = from.length, ar; i < l; i++) {
+            if (ar || !(i in from)) {
+              if (!ar)
+                ar = Array.prototype.slice.call(from, 0, i);
+              ar[i] = from[i];
+            }
+          }
+        return to.concat(ar || from);
+      };
+      __await2 = function(v2) {
+        return this instanceof __await2 ? (this.v = v2, this) : new __await2(v2);
+      };
+      __asyncGenerator2 = function(thisArg, _arguments, generator) {
+        if (!Symbol.asyncIterator)
+          throw new TypeError("Symbol.asyncIterator is not defined.");
+        var g = generator.apply(thisArg, _arguments || []), i, q = [];
+        return i = {}, verb("next"), verb("throw"), verb("return"), i[Symbol.asyncIterator] = function() {
+          return this;
+        }, i;
+        function verb(n) {
+          if (g[n])
+            i[n] = function(v2) {
+              return new Promise(function(a, b) {
+                q.push([n, v2, a, b]) > 1 || resume(n, v2);
+              });
+            };
+        }
+        function resume(n, v2) {
+          try {
+            step(g[n](v2));
+          } catch (e) {
+            settle(q[0][3], e);
+          }
+        }
+        function step(r) {
+          r.value instanceof __await2 ? Promise.resolve(r.value.v).then(fulfill2, reject2) : settle(q[0][2], r);
+        }
+        function fulfill2(value) {
+          resume("next", value);
+        }
+        function reject2(value) {
+          resume("throw", value);
+        }
+        function settle(f, v2) {
+          if (f(v2), q.shift(), q.length)
+            resume(q[0][0], q[0][1]);
+        }
+      };
+      __asyncDelegator2 = function(o) {
+        var i, p2;
+        return i = {}, verb("next"), verb("throw", function(e) {
+          throw e;
+        }), verb("return"), i[Symbol.iterator] = function() {
+          return this;
+        }, i;
+        function verb(n, f) {
+          i[n] = o[n] ? function(v2) {
+            return (p2 = !p2) ? { value: __await2(o[n](v2)), done: n === "return" } : f ? f(v2) : v2;
+          } : f;
+        }
+      };
+      __asyncValues2 = function(o) {
+        if (!Symbol.asyncIterator)
+          throw new TypeError("Symbol.asyncIterator is not defined.");
+        var m = o[Symbol.asyncIterator], i;
+        return m ? m.call(o) : (o = typeof __values2 === "function" ? __values2(o) : o[Symbol.iterator](), i = {}, verb("next"), verb("throw"), verb("return"), i[Symbol.asyncIterator] = function() {
+          return this;
+        }, i);
+        function verb(n) {
+          i[n] = o[n] && function(v2) {
+            return new Promise(function(resolve2, reject2) {
+              v2 = o[n](v2), settle(resolve2, reject2, v2.done, v2.value);
+            });
+          };
+        }
+        function settle(resolve2, reject2, d, v2) {
+          Promise.resolve(v2).then(function(v3) {
+            resolve2({ value: v3, done: d });
+          }, reject2);
+        }
+      };
+      __makeTemplateObject2 = function(cooked, raw) {
+        if (Object.defineProperty) {
+          Object.defineProperty(cooked, "raw", { value: raw });
+        } else {
+          cooked.raw = raw;
+        }
+        return cooked;
+      };
+      var __setModuleDefault = Object.create ? function(o, v2) {
+        Object.defineProperty(o, "default", { enumerable: true, value: v2 });
+      } : function(o, v2) {
+        o["default"] = v2;
+      };
+      __importStar2 = function(mod) {
+        if (mod && mod.__esModule)
+          return mod;
+        var result = {};
+        if (mod != null) {
+          for (var k in mod)
+            if (k !== "default" && Object.prototype.hasOwnProperty.call(mod, k))
+              __createBinding2(result, mod, k);
+        }
+        __setModuleDefault(result, mod);
+        return result;
+      };
+      __importDefault2 = function(mod) {
+        return mod && mod.__esModule ? mod : { "default": mod };
+      };
+      __classPrivateFieldGet2 = function(receiver, state, kind, f) {
+        if (kind === "a" && !f)
+          throw new TypeError("Private accessor was defined without a getter");
+        if (typeof state === "function" ? receiver !== state || !f : !state.has(receiver))
+          throw new TypeError("Cannot read private member from an object whose class did not declare it");
+        return kind === "m" ? f : kind === "a" ? f.call(receiver) : f ? f.value : state.get(receiver);
+      };
+      __classPrivateFieldSet2 = function(receiver, state, value, kind, f) {
+        if (kind === "m")
+          throw new TypeError("Private method is not writable");
+        if (kind === "a" && !f)
+          throw new TypeError("Private accessor was defined without a setter");
+        if (typeof state === "function" ? receiver !== state || !f : !state.has(receiver))
+          throw new TypeError("Cannot write private member to an object whose class did not declare it");
+        return kind === "a" ? f.call(receiver, value) : f ? f.value = value : state.set(receiver, value), value;
+      };
+      exporter("__extends", __extends2);
+      exporter("__assign", __assign2);
+      exporter("__rest", __rest2);
+      exporter("__decorate", __decorate2);
+      exporter("__param", __param2);
+      exporter("__metadata", __metadata2);
+      exporter("__awaiter", __awaiter2);
+      exporter("__generator", __generator2);
+      exporter("__exportStar", __exportStar2);
+      exporter("__createBinding", __createBinding2);
+      exporter("__values", __values2);
+      exporter("__read", __read2);
+      exporter("__spread", __spread2);
+      exporter("__spreadArrays", __spreadArrays2);
+      exporter("__spreadArray", __spreadArray2);
+      exporter("__await", __await2);
+      exporter("__asyncGenerator", __asyncGenerator2);
+      exporter("__asyncDelegator", __asyncDelegator2);
+      exporter("__asyncValues", __asyncValues2);
+      exporter("__makeTemplateObject", __makeTemplateObject2);
+      exporter("__importStar", __importStar2);
+      exporter("__importDefault", __importDefault2);
+      exporter("__classPrivateFieldGet", __classPrivateFieldGet2);
+      exporter("__classPrivateFieldSet", __classPrivateFieldSet2);
+    });
+  }
+});
+
+// node_modules/attr-accept/dist/es/index.js
+var require_es = __commonJS({
+  "node_modules/attr-accept/dist/es/index.js"(exports) {
+    "use strict";
+    exports.__esModule = true;
+    exports.default = function(file, acceptedFiles) {
+      if (file && acceptedFiles) {
+        var acceptedFilesArray = Array.isArray(acceptedFiles) ? acceptedFiles : acceptedFiles.split(",");
+        var fileName = file.name || "";
+        var mimeType = (file.type || "").toLowerCase();
+        var baseMimeType = mimeType.replace(/\/.*$/, "");
+        return acceptedFilesArray.some(function(type) {
+          var validType = type.trim().toLowerCase();
+          if (validType.charAt(0) === ".") {
+            return fileName.toLowerCase().endsWith(validType);
+          } else if (validType.endsWith("/*")) {
+            return baseMimeType === validType.replace(/\/.*$/, "");
+          }
+          return mimeType === validType;
+        });
+      }
+      return true;
+    };
+  }
+});
+
 // src/main.ts
 __export(exports, {
   default: () => FileTreeAlternativePlugin
@@ -7209,15 +7664,944 @@ var import_obsidian7 = __toModule(require("obsidian"));
 
 // src/FileTreeView.tsx
 var import_obsidian5 = __toModule(require("obsidian"));
-var import_react8 = __toModule(require_react());
+var import_react9 = __toModule(require_react());
 var import_react_dom2 = __toModule(require_react_dom());
 
 // src/components/MainComponent.tsx
 var import_obsidian4 = __toModule(require("obsidian"));
-var import_react7 = __toModule(require_react());
+var import_react8 = __toModule(require_react());
 
 // src/components/FileComponent.tsx
-var import_react2 = __toModule(require_react());
+var import_react3 = __toModule(require_react());
+
+// node_modules/react-dropzone/dist/es/index.js
+var import_react = __toModule(require_react());
+var import_prop_types = __toModule(require_prop_types());
+
+// node_modules/file-selector/node_modules/tslib/modules/index.js
+var import_tslib = __toModule(require_tslib());
+var {
+  __extends,
+  __assign,
+  __rest,
+  __decorate,
+  __param,
+  __metadata,
+  __awaiter,
+  __generator,
+  __exportStar,
+  __createBinding,
+  __values,
+  __read,
+  __spread,
+  __spreadArrays,
+  __spreadArray,
+  __await,
+  __asyncGenerator,
+  __asyncDelegator,
+  __asyncValues,
+  __makeTemplateObject,
+  __importStar,
+  __importDefault,
+  __classPrivateFieldGet,
+  __classPrivateFieldSet
+} = import_tslib.default;
+
+// node_modules/file-selector/dist/es5/file.js
+var COMMON_MIME_TYPES = new Map([
+  ["avi", "video/avi"],
+  ["gif", "image/gif"],
+  ["ico", "image/x-icon"],
+  ["jpeg", "image/jpeg"],
+  ["jpg", "image/jpeg"],
+  ["mkv", "video/x-matroska"],
+  ["mov", "video/quicktime"],
+  ["mp4", "video/mp4"],
+  ["pdf", "application/pdf"],
+  ["png", "image/png"],
+  ["zip", "application/zip"],
+  ["doc", "application/msword"],
+  ["docx", "application/vnd.openxmlformats-officedocument.wordprocessingml.document"]
+]);
+function toFileWithPath(file, path) {
+  var f = withMimeType(file);
+  if (typeof f.path !== "string") {
+    var webkitRelativePath = file.webkitRelativePath;
+    Object.defineProperty(f, "path", {
+      value: typeof path === "string" ? path : typeof webkitRelativePath === "string" && webkitRelativePath.length > 0 ? webkitRelativePath : file.name,
+      writable: false,
+      configurable: false,
+      enumerable: true
+    });
+  }
+  return f;
+}
+function withMimeType(file) {
+  var name = file.name;
+  var hasExtension = name && name.lastIndexOf(".") !== -1;
+  if (hasExtension && !file.type) {
+    var ext = name.split(".").pop().toLowerCase();
+    var type = COMMON_MIME_TYPES.get(ext);
+    if (type) {
+      Object.defineProperty(file, "type", {
+        value: type,
+        writable: false,
+        configurable: false,
+        enumerable: true
+      });
+    }
+  }
+  return file;
+}
+
+// node_modules/file-selector/dist/es5/file-selector.js
+var FILES_TO_IGNORE = [
+  ".DS_Store",
+  "Thumbs.db"
+];
+function fromEvent(evt) {
+  return __awaiter(this, void 0, void 0, function() {
+    return __generator(this, function(_a) {
+      return [2, isDragEvt(evt) && evt.dataTransfer ? getDataTransferFiles(evt.dataTransfer, evt.type) : getInputFiles(evt)];
+    });
+  });
+}
+function isDragEvt(value) {
+  return !!value.dataTransfer;
+}
+function getInputFiles(evt) {
+  var files = isInput(evt.target) ? evt.target.files ? fromList(evt.target.files) : [] : [];
+  return files.map(function(file) {
+    return toFileWithPath(file);
+  });
+}
+function isInput(value) {
+  return value !== null;
+}
+function getDataTransferFiles(dt, type) {
+  return __awaiter(this, void 0, void 0, function() {
+    var items, files;
+    return __generator(this, function(_a) {
+      switch (_a.label) {
+        case 0:
+          if (!dt.items)
+            return [3, 2];
+          items = fromList(dt.items).filter(function(item) {
+            return item.kind === "file";
+          });
+          if (type !== "drop") {
+            return [2, items];
+          }
+          return [4, Promise.all(items.map(toFilePromises))];
+        case 1:
+          files = _a.sent();
+          return [2, noIgnoredFiles(flatten(files))];
+        case 2:
+          return [2, noIgnoredFiles(fromList(dt.files).map(function(file) {
+            return toFileWithPath(file);
+          }))];
+      }
+    });
+  });
+}
+function noIgnoredFiles(files) {
+  return files.filter(function(file) {
+    return FILES_TO_IGNORE.indexOf(file.name) === -1;
+  });
+}
+function fromList(items) {
+  var files = [];
+  for (var i = 0; i < items.length; i++) {
+    var file = items[i];
+    files.push(file);
+  }
+  return files;
+}
+function toFilePromises(item) {
+  if (typeof item.webkitGetAsEntry !== "function") {
+    return fromDataTransferItem(item);
+  }
+  var entry = item.webkitGetAsEntry();
+  if (entry && entry.isDirectory) {
+    return fromDirEntry(entry);
+  }
+  return fromDataTransferItem(item);
+}
+function flatten(items) {
+  return items.reduce(function(acc, files) {
+    return __spread(acc, Array.isArray(files) ? flatten(files) : [files]);
+  }, []);
+}
+function fromDataTransferItem(item) {
+  var file = item.getAsFile();
+  if (!file) {
+    return Promise.reject(item + " is not a File");
+  }
+  var fwp = toFileWithPath(file);
+  return Promise.resolve(fwp);
+}
+function fromEntry(entry) {
+  return __awaiter(this, void 0, void 0, function() {
+    return __generator(this, function(_a) {
+      return [2, entry.isDirectory ? fromDirEntry(entry) : fromFileEntry(entry)];
+    });
+  });
+}
+function fromDirEntry(entry) {
+  var reader = entry.createReader();
+  return new Promise(function(resolve2, reject2) {
+    var entries = [];
+    function readEntries() {
+      var _this = this;
+      reader.readEntries(function(batch) {
+        return __awaiter(_this, void 0, void 0, function() {
+          var files, err_1, items;
+          return __generator(this, function(_a) {
+            switch (_a.label) {
+              case 0:
+                if (!!batch.length)
+                  return [3, 5];
+                _a.label = 1;
+              case 1:
+                _a.trys.push([1, 3, , 4]);
+                return [4, Promise.all(entries)];
+              case 2:
+                files = _a.sent();
+                resolve2(files);
+                return [3, 4];
+              case 3:
+                err_1 = _a.sent();
+                reject2(err_1);
+                return [3, 4];
+              case 4:
+                return [3, 6];
+              case 5:
+                items = Promise.all(batch.map(fromEntry));
+                entries.push(items);
+                readEntries();
+                _a.label = 6;
+              case 6:
+                return [2];
+            }
+          });
+        });
+      }, function(err) {
+        reject2(err);
+      });
+    }
+    readEntries();
+  });
+}
+function fromFileEntry(entry) {
+  return __awaiter(this, void 0, void 0, function() {
+    return __generator(this, function(_a) {
+      return [2, new Promise(function(resolve2, reject2) {
+        entry.file(function(file) {
+          var fwp = toFileWithPath(file, entry.fullPath);
+          resolve2(fwp);
+        }, function(err) {
+          reject2(err);
+        });
+      })];
+    });
+  });
+}
+
+// node_modules/react-dropzone/dist/es/utils/index.js
+var import_attr_accept = __toModule(require_es());
+function _slicedToArray(arr, i) {
+  return _arrayWithHoles(arr) || _iterableToArrayLimit(arr, i) || _unsupportedIterableToArray(arr, i) || _nonIterableRest();
+}
+function _nonIterableRest() {
+  throw new TypeError("Invalid attempt to destructure non-iterable instance.\nIn order to be iterable, non-array objects must have a [Symbol.iterator]() method.");
+}
+function _unsupportedIterableToArray(o, minLen) {
+  if (!o)
+    return;
+  if (typeof o === "string")
+    return _arrayLikeToArray(o, minLen);
+  var n = Object.prototype.toString.call(o).slice(8, -1);
+  if (n === "Object" && o.constructor)
+    n = o.constructor.name;
+  if (n === "Map" || n === "Set")
+    return Array.from(o);
+  if (n === "Arguments" || /^(?:Ui|I)nt(?:8|16|32)(?:Clamped)?Array$/.test(n))
+    return _arrayLikeToArray(o, minLen);
+}
+function _arrayLikeToArray(arr, len) {
+  if (len == null || len > arr.length)
+    len = arr.length;
+  for (var i = 0, arr2 = new Array(len); i < len; i++) {
+    arr2[i] = arr[i];
+  }
+  return arr2;
+}
+function _iterableToArrayLimit(arr, i) {
+  if (typeof Symbol === "undefined" || !(Symbol.iterator in Object(arr)))
+    return;
+  var _arr = [];
+  var _n = true;
+  var _d = false;
+  var _e = void 0;
+  try {
+    for (var _i = arr[Symbol.iterator](), _s; !(_n = (_s = _i.next()).done); _n = true) {
+      _arr.push(_s.value);
+      if (i && _arr.length === i)
+        break;
+    }
+  } catch (err) {
+    _d = true;
+    _e = err;
+  } finally {
+    try {
+      if (!_n && _i["return"] != null)
+        _i["return"]();
+    } finally {
+      if (_d)
+        throw _e;
+    }
+  }
+  return _arr;
+}
+function _arrayWithHoles(arr) {
+  if (Array.isArray(arr))
+    return arr;
+}
+var FILE_INVALID_TYPE = "file-invalid-type";
+var FILE_TOO_LARGE = "file-too-large";
+var FILE_TOO_SMALL = "file-too-small";
+var TOO_MANY_FILES = "too-many-files";
+var getInvalidTypeRejectionErr = function getInvalidTypeRejectionErr2(accept) {
+  accept = Array.isArray(accept) && accept.length === 1 ? accept[0] : accept;
+  var messageSuffix = Array.isArray(accept) ? "one of ".concat(accept.join(", ")) : accept;
+  return {
+    code: FILE_INVALID_TYPE,
+    message: "File type must be ".concat(messageSuffix)
+  };
+};
+var getTooLargeRejectionErr = function getTooLargeRejectionErr2(maxSize) {
+  return {
+    code: FILE_TOO_LARGE,
+    message: "File is larger than ".concat(maxSize, " bytes")
+  };
+};
+var getTooSmallRejectionErr = function getTooSmallRejectionErr2(minSize) {
+  return {
+    code: FILE_TOO_SMALL,
+    message: "File is smaller than ".concat(minSize, " bytes")
+  };
+};
+var TOO_MANY_FILES_REJECTION = {
+  code: TOO_MANY_FILES,
+  message: "Too many files"
+};
+function fileAccepted(file, accept) {
+  var isAcceptable = file.type === "application/x-moz-file" || (0, import_attr_accept.default)(file, accept);
+  return [isAcceptable, isAcceptable ? null : getInvalidTypeRejectionErr(accept)];
+}
+function fileMatchSize(file, minSize, maxSize) {
+  if (isDefined(file.size)) {
+    if (isDefined(minSize) && isDefined(maxSize)) {
+      if (file.size > maxSize)
+        return [false, getTooLargeRejectionErr(maxSize)];
+      if (file.size < minSize)
+        return [false, getTooSmallRejectionErr(minSize)];
+    } else if (isDefined(minSize) && file.size < minSize)
+      return [false, getTooSmallRejectionErr(minSize)];
+    else if (isDefined(maxSize) && file.size > maxSize)
+      return [false, getTooLargeRejectionErr(maxSize)];
+  }
+  return [true, null];
+}
+function isDefined(value) {
+  return value !== void 0 && value !== null;
+}
+function allFilesAccepted(_ref2) {
+  var files = _ref2.files, accept = _ref2.accept, minSize = _ref2.minSize, maxSize = _ref2.maxSize, multiple = _ref2.multiple, maxFiles = _ref2.maxFiles;
+  if (!multiple && files.length > 1 || multiple && maxFiles >= 1 && files.length > maxFiles) {
+    return false;
+  }
+  return files.every(function(file) {
+    var _fileAccepted = fileAccepted(file, accept), _fileAccepted2 = _slicedToArray(_fileAccepted, 1), accepted = _fileAccepted2[0];
+    var _fileMatchSize = fileMatchSize(file, minSize, maxSize), _fileMatchSize2 = _slicedToArray(_fileMatchSize, 1), sizeMatch = _fileMatchSize2[0];
+    return accepted && sizeMatch;
+  });
+}
+function isPropagationStopped(event) {
+  if (typeof event.isPropagationStopped === "function") {
+    return event.isPropagationStopped();
+  } else if (typeof event.cancelBubble !== "undefined") {
+    return event.cancelBubble;
+  }
+  return false;
+}
+function isEvtWithFiles(event) {
+  if (!event.dataTransfer) {
+    return !!event.target && !!event.target.files;
+  }
+  return Array.prototype.some.call(event.dataTransfer.types, function(type) {
+    return type === "Files" || type === "application/x-moz-file";
+  });
+}
+function onDocumentDragOver(event) {
+  event.preventDefault();
+}
+function isIe(userAgent2) {
+  return userAgent2.indexOf("MSIE") !== -1 || userAgent2.indexOf("Trident/") !== -1;
+}
+function isEdge(userAgent2) {
+  return userAgent2.indexOf("Edge/") !== -1;
+}
+function isIeOrEdge() {
+  var userAgent2 = arguments.length > 0 && arguments[0] !== void 0 ? arguments[0] : window.navigator.userAgent;
+  return isIe(userAgent2) || isEdge(userAgent2);
+}
+function composeEventHandlers() {
+  for (var _len = arguments.length, fns = new Array(_len), _key = 0; _key < _len; _key++) {
+    fns[_key] = arguments[_key];
+  }
+  return function(event) {
+    for (var _len2 = arguments.length, args = new Array(_len2 > 1 ? _len2 - 1 : 0), _key2 = 1; _key2 < _len2; _key2++) {
+      args[_key2 - 1] = arguments[_key2];
+    }
+    return fns.some(function(fn) {
+      if (!isPropagationStopped(event) && fn) {
+        fn.apply(void 0, [event].concat(args));
+      }
+      return isPropagationStopped(event);
+    });
+  };
+}
+
+// node_modules/react-dropzone/dist/es/index.js
+function _toConsumableArray(arr) {
+  return _arrayWithoutHoles(arr) || _iterableToArray(arr) || _unsupportedIterableToArray2(arr) || _nonIterableSpread();
+}
+function _nonIterableSpread() {
+  throw new TypeError("Invalid attempt to spread non-iterable instance.\nIn order to be iterable, non-array objects must have a [Symbol.iterator]() method.");
+}
+function _iterableToArray(iter) {
+  if (typeof Symbol !== "undefined" && Symbol.iterator in Object(iter))
+    return Array.from(iter);
+}
+function _arrayWithoutHoles(arr) {
+  if (Array.isArray(arr))
+    return _arrayLikeToArray2(arr);
+}
+function _slicedToArray2(arr, i) {
+  return _arrayWithHoles2(arr) || _iterableToArrayLimit2(arr, i) || _unsupportedIterableToArray2(arr, i) || _nonIterableRest2();
+}
+function _nonIterableRest2() {
+  throw new TypeError("Invalid attempt to destructure non-iterable instance.\nIn order to be iterable, non-array objects must have a [Symbol.iterator]() method.");
+}
+function _unsupportedIterableToArray2(o, minLen) {
+  if (!o)
+    return;
+  if (typeof o === "string")
+    return _arrayLikeToArray2(o, minLen);
+  var n = Object.prototype.toString.call(o).slice(8, -1);
+  if (n === "Object" && o.constructor)
+    n = o.constructor.name;
+  if (n === "Map" || n === "Set")
+    return Array.from(o);
+  if (n === "Arguments" || /^(?:Ui|I)nt(?:8|16|32)(?:Clamped)?Array$/.test(n))
+    return _arrayLikeToArray2(o, minLen);
+}
+function _arrayLikeToArray2(arr, len) {
+  if (len == null || len > arr.length)
+    len = arr.length;
+  for (var i = 0, arr2 = new Array(len); i < len; i++) {
+    arr2[i] = arr[i];
+  }
+  return arr2;
+}
+function _iterableToArrayLimit2(arr, i) {
+  if (typeof Symbol === "undefined" || !(Symbol.iterator in Object(arr)))
+    return;
+  var _arr = [];
+  var _n = true;
+  var _d = false;
+  var _e = void 0;
+  try {
+    for (var _i = arr[Symbol.iterator](), _s; !(_n = (_s = _i.next()).done); _n = true) {
+      _arr.push(_s.value);
+      if (i && _arr.length === i)
+        break;
+    }
+  } catch (err) {
+    _d = true;
+    _e = err;
+  } finally {
+    try {
+      if (!_n && _i["return"] != null)
+        _i["return"]();
+    } finally {
+      if (_d)
+        throw _e;
+    }
+  }
+  return _arr;
+}
+function _arrayWithHoles2(arr) {
+  if (Array.isArray(arr))
+    return arr;
+}
+function ownKeys(object, enumerableOnly) {
+  var keys = Object.keys(object);
+  if (Object.getOwnPropertySymbols) {
+    var symbols = Object.getOwnPropertySymbols(object);
+    if (enumerableOnly)
+      symbols = symbols.filter(function(sym) {
+        return Object.getOwnPropertyDescriptor(object, sym).enumerable;
+      });
+    keys.push.apply(keys, symbols);
+  }
+  return keys;
+}
+function _objectSpread(target) {
+  for (var i = 1; i < arguments.length; i++) {
+    var source = arguments[i] != null ? arguments[i] : {};
+    if (i % 2) {
+      ownKeys(Object(source), true).forEach(function(key) {
+        _defineProperty(target, key, source[key]);
+      });
+    } else if (Object.getOwnPropertyDescriptors) {
+      Object.defineProperties(target, Object.getOwnPropertyDescriptors(source));
+    } else {
+      ownKeys(Object(source)).forEach(function(key) {
+        Object.defineProperty(target, key, Object.getOwnPropertyDescriptor(source, key));
+      });
+    }
+  }
+  return target;
+}
+function _defineProperty(obj, key, value) {
+  if (key in obj) {
+    Object.defineProperty(obj, key, { value, enumerable: true, configurable: true, writable: true });
+  } else {
+    obj[key] = value;
+  }
+  return obj;
+}
+function _objectWithoutProperties(source, excluded) {
+  if (source == null)
+    return {};
+  var target = _objectWithoutPropertiesLoose(source, excluded);
+  var key, i;
+  if (Object.getOwnPropertySymbols) {
+    var sourceSymbolKeys = Object.getOwnPropertySymbols(source);
+    for (i = 0; i < sourceSymbolKeys.length; i++) {
+      key = sourceSymbolKeys[i];
+      if (excluded.indexOf(key) >= 0)
+        continue;
+      if (!Object.prototype.propertyIsEnumerable.call(source, key))
+        continue;
+      target[key] = source[key];
+    }
+  }
+  return target;
+}
+function _objectWithoutPropertiesLoose(source, excluded) {
+  if (source == null)
+    return {};
+  var target = {};
+  var sourceKeys = Object.keys(source);
+  var key, i;
+  for (i = 0; i < sourceKeys.length; i++) {
+    key = sourceKeys[i];
+    if (excluded.indexOf(key) >= 0)
+      continue;
+    target[key] = source[key];
+  }
+  return target;
+}
+var Dropzone = /* @__PURE__ */ (0, import_react.forwardRef)(function(_ref2, ref) {
+  var children = _ref2.children, params = _objectWithoutProperties(_ref2, ["children"]);
+  var _useDropzone = useDropzone(params), open = _useDropzone.open, props = _objectWithoutProperties(_useDropzone, ["open"]);
+  (0, import_react.useImperativeHandle)(ref, function() {
+    return {
+      open
+    };
+  }, [open]);
+  return /* @__PURE__ */ import_react.default.createElement(import_react.Fragment, null, children(_objectSpread(_objectSpread({}, props), {}, {
+    open
+  })));
+});
+Dropzone.displayName = "Dropzone";
+var defaultProps = {
+  disabled: false,
+  getFilesFromEvent: fromEvent,
+  maxSize: Infinity,
+  minSize: 0,
+  multiple: true,
+  maxFiles: 0,
+  preventDropOnDocument: true,
+  noClick: false,
+  noKeyboard: false,
+  noDrag: false,
+  noDragEventsBubbling: false,
+  validator: null
+};
+Dropzone.defaultProps = defaultProps;
+Dropzone.propTypes = {
+  children: import_prop_types.default.func,
+  accept: import_prop_types.default.oneOfType([import_prop_types.default.string, import_prop_types.default.arrayOf(import_prop_types.default.string)]),
+  multiple: import_prop_types.default.bool,
+  preventDropOnDocument: import_prop_types.default.bool,
+  noClick: import_prop_types.default.bool,
+  noKeyboard: import_prop_types.default.bool,
+  noDrag: import_prop_types.default.bool,
+  noDragEventsBubbling: import_prop_types.default.bool,
+  minSize: import_prop_types.default.number,
+  maxSize: import_prop_types.default.number,
+  maxFiles: import_prop_types.default.number,
+  disabled: import_prop_types.default.bool,
+  getFilesFromEvent: import_prop_types.default.func,
+  onFileDialogCancel: import_prop_types.default.func,
+  onDragEnter: import_prop_types.default.func,
+  onDragLeave: import_prop_types.default.func,
+  onDragOver: import_prop_types.default.func,
+  onDrop: import_prop_types.default.func,
+  onDropAccepted: import_prop_types.default.func,
+  onDropRejected: import_prop_types.default.func,
+  validator: import_prop_types.default.func
+};
+var es_default = Dropzone;
+var initialState = {
+  isFocused: false,
+  isFileDialogActive: false,
+  isDragActive: false,
+  isDragAccept: false,
+  isDragReject: false,
+  draggedFiles: [],
+  acceptedFiles: [],
+  fileRejections: []
+};
+function useDropzone() {
+  var options = arguments.length > 0 && arguments[0] !== void 0 ? arguments[0] : {};
+  var _defaultProps$options = _objectSpread(_objectSpread({}, defaultProps), options), accept = _defaultProps$options.accept, disabled = _defaultProps$options.disabled, getFilesFromEvent = _defaultProps$options.getFilesFromEvent, maxSize = _defaultProps$options.maxSize, minSize = _defaultProps$options.minSize, multiple = _defaultProps$options.multiple, maxFiles = _defaultProps$options.maxFiles, onDragEnter = _defaultProps$options.onDragEnter, onDragLeave = _defaultProps$options.onDragLeave, onDragOver = _defaultProps$options.onDragOver, onDrop = _defaultProps$options.onDrop, onDropAccepted = _defaultProps$options.onDropAccepted, onDropRejected = _defaultProps$options.onDropRejected, onFileDialogCancel = _defaultProps$options.onFileDialogCancel, preventDropOnDocument = _defaultProps$options.preventDropOnDocument, noClick = _defaultProps$options.noClick, noKeyboard = _defaultProps$options.noKeyboard, noDrag = _defaultProps$options.noDrag, noDragEventsBubbling = _defaultProps$options.noDragEventsBubbling, validator = _defaultProps$options.validator;
+  var rootRef = (0, import_react.useRef)(null);
+  var inputRef = (0, import_react.useRef)(null);
+  var _useReducer = (0, import_react.useReducer)(reducer, initialState), _useReducer2 = _slicedToArray2(_useReducer, 2), state = _useReducer2[0], dispatch = _useReducer2[1];
+  var isFocused = state.isFocused, isFileDialogActive = state.isFileDialogActive, draggedFiles = state.draggedFiles;
+  var openFileDialog = (0, import_react.useCallback)(function() {
+    if (inputRef.current) {
+      dispatch({
+        type: "openDialog"
+      });
+      inputRef.current.value = null;
+      inputRef.current.click();
+    }
+  }, [dispatch]);
+  var onWindowFocus = function onWindowFocus2() {
+    if (isFileDialogActive) {
+      setTimeout(function() {
+        if (inputRef.current) {
+          var files = inputRef.current.files;
+          if (!files.length) {
+            dispatch({
+              type: "closeDialog"
+            });
+            if (typeof onFileDialogCancel === "function") {
+              onFileDialogCancel();
+            }
+          }
+        }
+      }, 300);
+    }
+  };
+  (0, import_react.useEffect)(function() {
+    window.addEventListener("focus", onWindowFocus, false);
+    return function() {
+      window.removeEventListener("focus", onWindowFocus, false);
+    };
+  }, [inputRef, isFileDialogActive, onFileDialogCancel]);
+  var onKeyDownCb = (0, import_react.useCallback)(function(event) {
+    if (!rootRef.current || !rootRef.current.isEqualNode(event.target)) {
+      return;
+    }
+    if (event.keyCode === 32 || event.keyCode === 13) {
+      event.preventDefault();
+      openFileDialog();
+    }
+  }, [rootRef, inputRef]);
+  var onFocusCb = (0, import_react.useCallback)(function() {
+    dispatch({
+      type: "focus"
+    });
+  }, []);
+  var onBlurCb = (0, import_react.useCallback)(function() {
+    dispatch({
+      type: "blur"
+    });
+  }, []);
+  var onClickCb = (0, import_react.useCallback)(function() {
+    if (noClick) {
+      return;
+    }
+    if (isIeOrEdge()) {
+      setTimeout(openFileDialog, 0);
+    } else {
+      openFileDialog();
+    }
+  }, [inputRef, noClick]);
+  var dragTargetsRef = (0, import_react.useRef)([]);
+  var onDocumentDrop = function onDocumentDrop2(event) {
+    if (rootRef.current && rootRef.current.contains(event.target)) {
+      return;
+    }
+    event.preventDefault();
+    dragTargetsRef.current = [];
+  };
+  (0, import_react.useEffect)(function() {
+    if (preventDropOnDocument) {
+      document.addEventListener("dragover", onDocumentDragOver, false);
+      document.addEventListener("drop", onDocumentDrop, false);
+    }
+    return function() {
+      if (preventDropOnDocument) {
+        document.removeEventListener("dragover", onDocumentDragOver);
+        document.removeEventListener("drop", onDocumentDrop);
+      }
+    };
+  }, [rootRef, preventDropOnDocument]);
+  var onDragEnterCb = (0, import_react.useCallback)(function(event) {
+    event.preventDefault();
+    event.persist();
+    stopPropagation(event);
+    dragTargetsRef.current = [].concat(_toConsumableArray(dragTargetsRef.current), [event.target]);
+    if (isEvtWithFiles(event)) {
+      Promise.resolve(getFilesFromEvent(event)).then(function(draggedFiles2) {
+        if (isPropagationStopped(event) && !noDragEventsBubbling) {
+          return;
+        }
+        dispatch({
+          draggedFiles: draggedFiles2,
+          isDragActive: true,
+          type: "setDraggedFiles"
+        });
+        if (onDragEnter) {
+          onDragEnter(event);
+        }
+      });
+    }
+  }, [getFilesFromEvent, onDragEnter, noDragEventsBubbling]);
+  var onDragOverCb = (0, import_react.useCallback)(function(event) {
+    event.preventDefault();
+    event.persist();
+    stopPropagation(event);
+    var hasFiles = isEvtWithFiles(event);
+    if (hasFiles && event.dataTransfer) {
+      try {
+        event.dataTransfer.dropEffect = "copy";
+      } catch (_unused) {
+      }
+    }
+    if (hasFiles && onDragOver) {
+      onDragOver(event);
+    }
+    return false;
+  }, [onDragOver, noDragEventsBubbling]);
+  var onDragLeaveCb = (0, import_react.useCallback)(function(event) {
+    event.preventDefault();
+    event.persist();
+    stopPropagation(event);
+    var targets = dragTargetsRef.current.filter(function(target) {
+      return rootRef.current && rootRef.current.contains(target);
+    });
+    var targetIdx = targets.indexOf(event.target);
+    if (targetIdx !== -1) {
+      targets.splice(targetIdx, 1);
+    }
+    dragTargetsRef.current = targets;
+    if (targets.length > 0) {
+      return;
+    }
+    dispatch({
+      isDragActive: false,
+      type: "setDraggedFiles",
+      draggedFiles: []
+    });
+    if (isEvtWithFiles(event) && onDragLeave) {
+      onDragLeave(event);
+    }
+  }, [rootRef, onDragLeave, noDragEventsBubbling]);
+  var onDropCb = (0, import_react.useCallback)(function(event) {
+    event.preventDefault();
+    event.persist();
+    stopPropagation(event);
+    dragTargetsRef.current = [];
+    if (isEvtWithFiles(event)) {
+      Promise.resolve(getFilesFromEvent(event)).then(function(files) {
+        if (isPropagationStopped(event) && !noDragEventsBubbling) {
+          return;
+        }
+        var acceptedFiles = [];
+        var fileRejections = [];
+        files.forEach(function(file) {
+          var _fileAccepted = fileAccepted(file, accept), _fileAccepted2 = _slicedToArray2(_fileAccepted, 2), accepted = _fileAccepted2[0], acceptError = _fileAccepted2[1];
+          var _fileMatchSize = fileMatchSize(file, minSize, maxSize), _fileMatchSize2 = _slicedToArray2(_fileMatchSize, 2), sizeMatch = _fileMatchSize2[0], sizeError = _fileMatchSize2[1];
+          var customErrors = validator ? validator(file) : null;
+          if (accepted && sizeMatch && !customErrors) {
+            acceptedFiles.push(file);
+          } else {
+            var errors = [acceptError, sizeError];
+            if (customErrors) {
+              errors = errors.concat(customErrors);
+            }
+            fileRejections.push({
+              file,
+              errors: errors.filter(function(e) {
+                return e;
+              })
+            });
+          }
+        });
+        if (!multiple && acceptedFiles.length > 1 || multiple && maxFiles >= 1 && acceptedFiles.length > maxFiles) {
+          acceptedFiles.forEach(function(file) {
+            fileRejections.push({
+              file,
+              errors: [TOO_MANY_FILES_REJECTION]
+            });
+          });
+          acceptedFiles.splice(0);
+        }
+        dispatch({
+          acceptedFiles,
+          fileRejections,
+          type: "setFiles"
+        });
+        if (onDrop) {
+          onDrop(acceptedFiles, fileRejections, event);
+        }
+        if (fileRejections.length > 0 && onDropRejected) {
+          onDropRejected(fileRejections, event);
+        }
+        if (acceptedFiles.length > 0 && onDropAccepted) {
+          onDropAccepted(acceptedFiles, event);
+        }
+      });
+    }
+    dispatch({
+      type: "reset"
+    });
+  }, [multiple, accept, minSize, maxSize, maxFiles, getFilesFromEvent, onDrop, onDropAccepted, onDropRejected, noDragEventsBubbling]);
+  var composeHandler = function composeHandler2(fn) {
+    return disabled ? null : fn;
+  };
+  var composeKeyboardHandler = function composeKeyboardHandler2(fn) {
+    return noKeyboard ? null : composeHandler(fn);
+  };
+  var composeDragHandler = function composeDragHandler2(fn) {
+    return noDrag ? null : composeHandler(fn);
+  };
+  var stopPropagation = function stopPropagation2(event) {
+    if (noDragEventsBubbling) {
+      event.stopPropagation();
+    }
+  };
+  var getRootProps = (0, import_react.useMemo)(function() {
+    return function() {
+      var _ref2 = arguments.length > 0 && arguments[0] !== void 0 ? arguments[0] : {}, _ref2$refKey = _ref2.refKey, refKey = _ref2$refKey === void 0 ? "ref" : _ref2$refKey, onKeyDown = _ref2.onKeyDown, onFocus = _ref2.onFocus, onBlur = _ref2.onBlur, onClick = _ref2.onClick, onDragEnter2 = _ref2.onDragEnter, onDragOver2 = _ref2.onDragOver, onDragLeave2 = _ref2.onDragLeave, onDrop2 = _ref2.onDrop, rest = _objectWithoutProperties(_ref2, ["refKey", "onKeyDown", "onFocus", "onBlur", "onClick", "onDragEnter", "onDragOver", "onDragLeave", "onDrop"]);
+      return _objectSpread(_objectSpread(_defineProperty({
+        onKeyDown: composeKeyboardHandler(composeEventHandlers(onKeyDown, onKeyDownCb)),
+        onFocus: composeKeyboardHandler(composeEventHandlers(onFocus, onFocusCb)),
+        onBlur: composeKeyboardHandler(composeEventHandlers(onBlur, onBlurCb)),
+        onClick: composeHandler(composeEventHandlers(onClick, onClickCb)),
+        onDragEnter: composeDragHandler(composeEventHandlers(onDragEnter2, onDragEnterCb)),
+        onDragOver: composeDragHandler(composeEventHandlers(onDragOver2, onDragOverCb)),
+        onDragLeave: composeDragHandler(composeEventHandlers(onDragLeave2, onDragLeaveCb)),
+        onDrop: composeDragHandler(composeEventHandlers(onDrop2, onDropCb))
+      }, refKey, rootRef), !disabled && !noKeyboard ? {
+        tabIndex: 0
+      } : {}), rest);
+    };
+  }, [rootRef, onKeyDownCb, onFocusCb, onBlurCb, onClickCb, onDragEnterCb, onDragOverCb, onDragLeaveCb, onDropCb, noKeyboard, noDrag, disabled]);
+  var onInputElementClick = (0, import_react.useCallback)(function(event) {
+    event.stopPropagation();
+  }, []);
+  var getInputProps = (0, import_react.useMemo)(function() {
+    return function() {
+      var _ref3 = arguments.length > 0 && arguments[0] !== void 0 ? arguments[0] : {}, _ref3$refKey = _ref3.refKey, refKey = _ref3$refKey === void 0 ? "ref" : _ref3$refKey, onChange = _ref3.onChange, onClick = _ref3.onClick, rest = _objectWithoutProperties(_ref3, ["refKey", "onChange", "onClick"]);
+      var inputProps = _defineProperty({
+        accept,
+        multiple,
+        type: "file",
+        style: {
+          display: "none"
+        },
+        onChange: composeHandler(composeEventHandlers(onChange, onDropCb)),
+        onClick: composeHandler(composeEventHandlers(onClick, onInputElementClick)),
+        autoComplete: "off",
+        tabIndex: -1
+      }, refKey, inputRef);
+      return _objectSpread(_objectSpread({}, inputProps), rest);
+    };
+  }, [inputRef, accept, multiple, onDropCb, disabled]);
+  var fileCount = draggedFiles.length;
+  var isDragAccept = fileCount > 0 && allFilesAccepted({
+    files: draggedFiles,
+    accept,
+    minSize,
+    maxSize,
+    multiple,
+    maxFiles
+  });
+  var isDragReject = fileCount > 0 && !isDragAccept;
+  return _objectSpread(_objectSpread({}, state), {}, {
+    isDragAccept,
+    isDragReject,
+    isFocused: isFocused && !disabled,
+    getRootProps,
+    getInputProps,
+    rootRef,
+    inputRef,
+    open: composeHandler(openFileDialog)
+  });
+}
+function reducer(state, action) {
+  switch (action.type) {
+    case "focus":
+      return _objectSpread(_objectSpread({}, state), {}, {
+        isFocused: true
+      });
+    case "blur":
+      return _objectSpread(_objectSpread({}, state), {}, {
+        isFocused: false
+      });
+    case "openDialog":
+      return _objectSpread(_objectSpread({}, state), {}, {
+        isFileDialogActive: true
+      });
+    case "closeDialog":
+      return _objectSpread(_objectSpread({}, state), {}, {
+        isFileDialogActive: false
+      });
+    case "setDraggedFiles":
+      var isDragActive = action.isDragActive, draggedFiles = action.draggedFiles;
+      return _objectSpread(_objectSpread({}, state), {}, {
+        draggedFiles,
+        isDragActive
+      });
+    case "setFiles":
+      return _objectSpread(_objectSpread({}, state), {}, {
+        acceptedFiles: action.acceptedFiles,
+        fileRejections: action.fileRejections
+      });
+    case "reset":
+      return _objectSpread(_objectSpread({}, state), {}, {
+        isFileDialogActive: false,
+        isDragActive: false,
+        draggedFiles: [],
+        acceptedFiles: [],
+        fileRejections: []
+      });
+    default:
+      return state;
+  }
+}
+
+// src/components/FileComponent.tsx
 var import_obsidian2 = __toModule(require("obsidian"));
 
 // node_modules/@fortawesome/fontawesome-svg-core/index.es.js
@@ -7255,7 +8639,7 @@ function _createClass(Constructor, protoProps, staticProps) {
     _defineProperties(Constructor, staticProps);
   return Constructor;
 }
-function _defineProperty(obj, key, value) {
+function _defineProperty2(obj, key, value) {
   if (key in obj) {
     Object.defineProperty(obj, key, {
       value,
@@ -7268,29 +8652,29 @@ function _defineProperty(obj, key, value) {
   }
   return obj;
 }
-function _objectSpread(target) {
+function _objectSpread2(target) {
   for (var i = 1; i < arguments.length; i++) {
     var source = arguments[i] != null ? arguments[i] : {};
-    var ownKeys2 = Object.keys(source);
+    var ownKeys3 = Object.keys(source);
     if (typeof Object.getOwnPropertySymbols === "function") {
-      ownKeys2 = ownKeys2.concat(Object.getOwnPropertySymbols(source).filter(function(sym) {
+      ownKeys3 = ownKeys3.concat(Object.getOwnPropertySymbols(source).filter(function(sym) {
         return Object.getOwnPropertyDescriptor(source, sym).enumerable;
       }));
     }
-    ownKeys2.forEach(function(key) {
-      _defineProperty(target, key, source[key]);
+    ownKeys3.forEach(function(key) {
+      _defineProperty2(target, key, source[key]);
     });
   }
   return target;
 }
-function _slicedToArray(arr, i) {
-  return _arrayWithHoles(arr) || _iterableToArrayLimit(arr, i) || _nonIterableRest();
+function _slicedToArray3(arr, i) {
+  return _arrayWithHoles3(arr) || _iterableToArrayLimit3(arr, i) || _nonIterableRest3();
 }
-function _arrayWithHoles(arr) {
+function _arrayWithHoles3(arr) {
   if (Array.isArray(arr))
     return arr;
 }
-function _iterableToArrayLimit(arr, i) {
+function _iterableToArrayLimit3(arr, i) {
   var _arr = [];
   var _n = true;
   var _d = false;
@@ -7315,7 +8699,7 @@ function _iterableToArrayLimit(arr, i) {
   }
   return _arr;
 }
-function _nonIterableRest() {
+function _nonIterableRest3() {
   throw new TypeError("Invalid attempt to destructure non-iterable instance");
 }
 var noop = function noop2() {
@@ -7390,7 +8774,7 @@ function coerce(val) {
 if (DOCUMENT && typeof DOCUMENT.querySelector === "function") {
   attrs = [["data-family-prefix", "familyPrefix"], ["data-replacement-class", "replacementClass"], ["data-auto-replace-svg", "autoReplaceSvg"], ["data-auto-add-css", "autoAddCss"], ["data-auto-a11y", "autoA11y"], ["data-search-pseudo-elements", "searchPseudoElements"], ["data-observe-mutations", "observeMutations"], ["data-mutate-approach", "mutateApproach"], ["data-keep-original-source", "keepOriginalSource"], ["data-measure-performance", "measurePerformance"], ["data-show-missing-icons", "showMissingIcons"]];
   attrs.forEach(function(_ref2) {
-    var _ref22 = _slicedToArray(_ref2, 2), attr = _ref22[0], key = _ref22[1];
+    var _ref22 = _slicedToArray3(_ref2, 2), attr = _ref22[0], key = _ref22[1];
     var val = coerce(getAttrConfig(attr));
     if (val !== void 0 && val !== null) {
       initial[key] = val;
@@ -7411,10 +8795,10 @@ var _default = {
   measurePerformance: false,
   showMissingIcons: true
 };
-var _config = _objectSpread({}, _default, initial);
+var _config = _objectSpread2({}, _default, initial);
 if (!_config.autoReplaceSvg)
   _config.observeMutations = false;
-var config = _objectSpread({}, _config);
+var config = _objectSpread2({}, _config);
 WINDOW.FontAwesomeConfig = config;
 var w = WINDOW || {};
 if (!w[NAMESPACE_IDENTIFIER])
@@ -7771,7 +9155,7 @@ function makeIconMasking(_ref2) {
   });
   var maskRect = {
     tag: "rect",
-    attributes: _objectSpread({}, ALL_SPACE, {
+    attributes: _objectSpread2({}, ALL_SPACE, {
       fill: "white"
     })
   };
@@ -7780,22 +9164,22 @@ function makeIconMasking(_ref2) {
   } : {};
   var maskInnerGroup = {
     tag: "g",
-    attributes: _objectSpread({}, trans.inner),
-    children: [fillBlack(_objectSpread({
+    attributes: _objectSpread2({}, trans.inner),
+    children: [fillBlack(_objectSpread2({
       tag: mainPath.tag,
-      attributes: _objectSpread({}, mainPath.attributes, trans.path)
+      attributes: _objectSpread2({}, mainPath.attributes, trans.path)
     }, maskInnerGroupChildrenMixin))]
   };
   var maskOuterGroup = {
     tag: "g",
-    attributes: _objectSpread({}, trans.outer),
+    attributes: _objectSpread2({}, trans.outer),
     children: [maskInnerGroup]
   };
   var maskId = "mask-".concat(explicitMaskId || nextUniqueId());
   var clipId = "clip-".concat(explicitMaskId || nextUniqueId());
   var maskTag = {
     tag: "mask",
-    attributes: _objectSpread({}, ALL_SPACE, {
+    attributes: _objectSpread2({}, ALL_SPACE, {
       id: maskId,
       maskUnits: "userSpaceOnUse",
       maskContentUnits: "userSpaceOnUse"
@@ -7814,7 +9198,7 @@ function makeIconMasking(_ref2) {
   };
   children.push(defs, {
     tag: "rect",
-    attributes: _objectSpread({
+    attributes: _objectSpread2({
       fill: "currentColor",
       "clip-path": "url(#".concat(clipId, ")"),
       mask: "url(#".concat(maskId, ")")
@@ -7839,14 +9223,14 @@ function makeIconStandard(_ref2) {
     });
     children.push({
       tag: "g",
-      attributes: _objectSpread({}, trans.outer),
+      attributes: _objectSpread2({}, trans.outer),
       children: [{
         tag: "g",
-        attributes: _objectSpread({}, trans.inner),
+        attributes: _objectSpread2({}, trans.inner),
         children: [{
           tag: main.icon.tag,
           children: main.icon.children,
-          attributes: _objectSpread({}, main.icon.attributes, trans.path)
+          attributes: _objectSpread2({}, main.icon.attributes, trans.path)
         }]
       }]
     });
@@ -7866,7 +9250,7 @@ function asIcon(_ref2) {
       x: width / height / 2,
       y: 0.5
     };
-    attributes["style"] = joinStyles(_objectSpread({}, styles3, {
+    attributes["style"] = joinStyles(_objectSpread2({}, styles3, {
       "transform-origin": "".concat(offset.x + transform2.x / 16, "em ").concat(offset.y + transform2.y / 16, "em")
     }));
   }
@@ -7886,7 +9270,7 @@ function asSymbol(_ref2) {
     },
     children: [{
       tag: "symbol",
-      attributes: _objectSpread({}, attributes, {
+      attributes: _objectSpread2({}, attributes, {
         id
       }),
       children
@@ -7905,7 +9289,7 @@ function makeInlineSvgAbstract(params) {
   }).concat(extra.classes).join(" ");
   var content = {
     children: [],
-    attributes: _objectSpread({}, extra.attributes, {
+    attributes: _objectSpread2({}, extra.attributes, {
       "data-prefix": prefix,
       "data-icon": iconName,
       "class": attrClass,
@@ -7928,7 +9312,7 @@ function makeInlineSvgAbstract(params) {
       },
       children: [title]
     });
-  var args = _objectSpread({}, content, {
+  var args = _objectSpread2({}, content, {
     prefix,
     iconName,
     main,
@@ -7936,7 +9320,7 @@ function makeInlineSvgAbstract(params) {
     maskId,
     transform: transform2,
     symbol,
-    styles: _objectSpread({}, uploadedIconWidthStyle, extra.styles)
+    styles: _objectSpread2({}, uploadedIconWidthStyle, extra.styles)
   });
   var _ref22 = mask.found && main.found ? makeIconMasking(args) : makeIconStandard(args), children = _ref22.children, attributes = _ref22.attributes;
   args.children = children;
@@ -7989,7 +9373,7 @@ function defineIcons(prefix, icons) {
   if (typeof namespace.hooks.addPack === "function" && !skipHooks) {
     namespace.hooks.addPack(prefix, normalized);
   } else {
-    namespace.styles[prefix] = _objectSpread({}, namespace.styles[prefix] || {}, normalized);
+    namespace.styles[prefix] = _objectSpread2({}, namespace.styles[prefix] || {}, normalized);
   }
   if (prefix === "fas") {
     defineIcons("fa", icons);
@@ -8001,9 +9385,9 @@ var _byUnicode = {};
 var _byLigature = {};
 var _byOldName = {};
 var build = function build2() {
-  var lookup = function lookup2(reducer) {
+  var lookup = function lookup2(reducer2) {
     return reduce(styles, function(o, style, prefix) {
-      o[prefix] = reduce(style, reducer, {});
+      o[prefix] = reduce(style, reducer2, {});
       return o;
     }, {});
   };
@@ -8127,55 +9511,55 @@ var ANIMATION_BASE = {
 };
 var RING = {
   tag: "path",
-  attributes: _objectSpread({}, FILL, {
+  attributes: _objectSpread2({}, FILL, {
     d: "M156.5,447.7l-12.6,29.5c-18.7-9.5-35.9-21.2-51.5-34.9l22.7-22.7C127.6,430.5,141.5,440,156.5,447.7z M40.6,272H8.5 c1.4,21.2,5.4,41.7,11.7,61.1L50,321.2C45.1,305.5,41.8,289,40.6,272z M40.6,240c1.4-18.8,5.2-37,11.1-54.1l-29.5-12.6 C14.7,194.3,10,216.7,8.5,240H40.6z M64.3,156.5c7.8-14.9,17.2-28.8,28.1-41.5L69.7,92.3c-13.7,15.6-25.5,32.8-34.9,51.5 L64.3,156.5z M397,419.6c-13.9,12-29.4,22.3-46.1,30.4l11.9,29.8c20.7-9.9,39.8-22.6,56.9-37.6L397,419.6z M115,92.4 c13.9-12,29.4-22.3,46.1-30.4l-11.9-29.8c-20.7,9.9-39.8,22.6-56.8,37.6L115,92.4z M447.7,355.5c-7.8,14.9-17.2,28.8-28.1,41.5 l22.7,22.7c13.7-15.6,25.5-32.9,34.9-51.5L447.7,355.5z M471.4,272c-1.4,18.8-5.2,37-11.1,54.1l29.5,12.6 c7.5-21.1,12.2-43.5,13.6-66.8H471.4z M321.2,462c-15.7,5-32.2,8.2-49.2,9.4v32.1c21.2-1.4,41.7-5.4,61.1-11.7L321.2,462z M240,471.4c-18.8-1.4-37-5.2-54.1-11.1l-12.6,29.5c21.1,7.5,43.5,12.2,66.8,13.6V471.4z M462,190.8c5,15.7,8.2,32.2,9.4,49.2h32.1 c-1.4-21.2-5.4-41.7-11.7-61.1L462,190.8z M92.4,397c-12-13.9-22.3-29.4-30.4-46.1l-29.8,11.9c9.9,20.7,22.6,39.8,37.6,56.9 L92.4,397z M272,40.6c18.8,1.4,36.9,5.2,54.1,11.1l12.6-29.5C317.7,14.7,295.3,10,272,8.5V40.6z M190.8,50 c15.7-5,32.2-8.2,49.2-9.4V8.5c-21.2,1.4-41.7,5.4-61.1,11.7L190.8,50z M442.3,92.3L419.6,115c12,13.9,22.3,29.4,30.5,46.1 l29.8-11.9C470,128.5,457.3,109.4,442.3,92.3z M397,92.4l22.7-22.7c-15.6-13.7-32.8-25.5-51.5-34.9l-12.6,29.5 C370.4,72.1,384.4,81.5,397,92.4z"
   })
 };
-var OPACITY_ANIMATE = _objectSpread({}, ANIMATION_BASE, {
+var OPACITY_ANIMATE = _objectSpread2({}, ANIMATION_BASE, {
   attributeName: "opacity"
 });
 var DOT = {
   tag: "circle",
-  attributes: _objectSpread({}, FILL, {
+  attributes: _objectSpread2({}, FILL, {
     cx: "256",
     cy: "364",
     r: "28"
   }),
   children: [{
     tag: "animate",
-    attributes: _objectSpread({}, ANIMATION_BASE, {
+    attributes: _objectSpread2({}, ANIMATION_BASE, {
       attributeName: "r",
       values: "28;14;28;28;14;28;"
     })
   }, {
     tag: "animate",
-    attributes: _objectSpread({}, OPACITY_ANIMATE, {
+    attributes: _objectSpread2({}, OPACITY_ANIMATE, {
       values: "1;0;1;1;0;1;"
     })
   }]
 };
 var QUESTION = {
   tag: "path",
-  attributes: _objectSpread({}, FILL, {
+  attributes: _objectSpread2({}, FILL, {
     opacity: "1",
     d: "M263.7,312h-16c-6.6,0-12-5.4-12-12c0-71,77.4-63.9,77.4-107.8c0-20-17.8-40.2-57.4-40.2c-29.1,0-44.3,9.6-59.2,28.7 c-3.9,5-11.1,6-16.2,2.4l-13.1-9.2c-5.6-3.9-6.9-11.8-2.6-17.2c21.2-27.2,46.4-44.7,91.2-44.7c52.3,0,97.4,29.8,97.4,80.2 c0,67.6-77.4,63.5-77.4,107.8C275.7,306.6,270.3,312,263.7,312z"
   }),
   children: [{
     tag: "animate",
-    attributes: _objectSpread({}, OPACITY_ANIMATE, {
+    attributes: _objectSpread2({}, OPACITY_ANIMATE, {
       values: "1;0;0;0;0;1;"
     })
   }]
 };
 var EXCLAMATION = {
   tag: "path",
-  attributes: _objectSpread({}, FILL, {
+  attributes: _objectSpread2({}, FILL, {
     opacity: "0",
     d: "M232.5,134.5l7,168c0.3,6.4,5.6,11.5,12,11.5h9c6.4,0,11.7-5.1,12-11.5l7-168c0.3-6.8-5.2-12.5-12-12.5h-23 C237.7,122,232.2,127.7,232.5,134.5z"
   }),
   children: [{
     tag: "animate",
-    attributes: _objectSpread({}, OPACITY_ANIMATE, {
+    attributes: _objectSpread2({}, OPACITY_ANIMATE, {
       values: "0;0;1;1;0;0;"
     })
   }]
@@ -8184,7 +9568,7 @@ var styles$2 = namespace.styles;
 function asFoundIcon(icon2) {
   var width = icon2[0];
   var height = icon2[1];
-  var _icon$slice = icon2.slice(4), _icon$slice2 = _slicedToArray(_icon$slice, 1), vectorData = _icon$slice2[0];
+  var _icon$slice = icon2.slice(4), _icon$slice2 = _slicedToArray3(_icon$slice, 1), vectorData = _icon$slice2[0];
   var element = null;
   if (Array.isArray(vectorData)) {
     element = {
@@ -8254,7 +9638,7 @@ var Library = /* @__PURE__ */ function() {
       }
       var additions = definitions.reduce(this._pullDefinitions, {});
       Object.keys(additions).forEach(function(key) {
-        _this.definitions[key] = _objectSpread({}, _this.definitions[key] || {}, additions[key]);
+        _this.definitions[key] = _objectSpread2({}, _this.definitions[key] || {}, additions[key]);
         defineIcons(key, additions[key]);
         build();
       });
@@ -8323,7 +9707,7 @@ function resolveIcons(next) {
     if (mask) {
       mask = (mask || {}).icon ? mask : findIconDefinition(mask || {});
     }
-    return next(iconDefinition, _objectSpread({}, params, {
+    return next(iconDefinition, _objectSpread2({}, params, {
       mask
     }));
   };
@@ -8341,7 +9725,7 @@ var icon = resolveIcons(function(iconDefinition) {
   if (!iconDefinition)
     return;
   var prefix = iconDefinition.prefix, iconName = iconDefinition.iconName, icon2 = iconDefinition.icon;
-  return apiObject(_objectSpread({
+  return apiObject(_objectSpread2({
     type: "icon"
   }, iconDefinition), function() {
     ensureCss();
@@ -8365,7 +9749,7 @@ var icon = resolveIcons(function(iconDefinition) {
       },
       prefix,
       iconName,
-      transform: _objectSpread({}, meaninglessTransform, transform2),
+      transform: _objectSpread2({}, meaninglessTransform, transform2),
       symbol,
       title,
       maskId,
@@ -8380,8 +9764,8 @@ var icon = resolveIcons(function(iconDefinition) {
 });
 
 // node_modules/@fortawesome/react-fontawesome/index.es.js
-var import_prop_types = __toModule(require_prop_types());
-var import_react = __toModule(require_react());
+var import_prop_types2 = __toModule(require_prop_types());
+var import_react2 = __toModule(require_react());
 function _typeof2(obj) {
   if (typeof Symbol === "function" && typeof Symbol.iterator === "symbol") {
     _typeof2 = function(obj2) {
@@ -8394,7 +9778,7 @@ function _typeof2(obj) {
   }
   return _typeof2(obj);
 }
-function _defineProperty2(obj, key, value) {
+function _defineProperty3(obj, key, value) {
   if (key in obj) {
     Object.defineProperty(obj, key, {
       value,
@@ -8407,7 +9791,7 @@ function _defineProperty2(obj, key, value) {
   }
   return obj;
 }
-function ownKeys(object, enumerableOnly) {
+function ownKeys2(object, enumerableOnly) {
   var keys = Object.keys(object);
   if (Object.getOwnPropertySymbols) {
     var symbols = Object.getOwnPropertySymbols(object);
@@ -8419,24 +9803,24 @@ function ownKeys(object, enumerableOnly) {
   }
   return keys;
 }
-function _objectSpread2(target) {
+function _objectSpread22(target) {
   for (var i = 1; i < arguments.length; i++) {
     var source = arguments[i] != null ? arguments[i] : {};
     if (i % 2) {
-      ownKeys(Object(source), true).forEach(function(key) {
-        _defineProperty2(target, key, source[key]);
+      ownKeys2(Object(source), true).forEach(function(key) {
+        _defineProperty3(target, key, source[key]);
       });
     } else if (Object.getOwnPropertyDescriptors) {
       Object.defineProperties(target, Object.getOwnPropertyDescriptors(source));
     } else {
-      ownKeys(Object(source)).forEach(function(key) {
+      ownKeys2(Object(source)).forEach(function(key) {
         Object.defineProperty(target, key, Object.getOwnPropertyDescriptor(source, key));
       });
     }
   }
   return target;
 }
-function _objectWithoutPropertiesLoose(source, excluded) {
+function _objectWithoutPropertiesLoose2(source, excluded) {
   if (source == null)
     return {};
   var target = {};
@@ -8450,10 +9834,10 @@ function _objectWithoutPropertiesLoose(source, excluded) {
   }
   return target;
 }
-function _objectWithoutProperties(source, excluded) {
+function _objectWithoutProperties2(source, excluded) {
   if (source == null)
     return {};
-  var target = _objectWithoutPropertiesLoose(source, excluded);
+  var target = _objectWithoutPropertiesLoose2(source, excluded);
   var key, i;
   if (Object.getOwnPropertySymbols) {
     var sourceSymbolKeys = Object.getOwnPropertySymbols(source);
@@ -8468,21 +9852,21 @@ function _objectWithoutProperties(source, excluded) {
   }
   return target;
 }
-function _toConsumableArray(arr) {
-  return _arrayWithoutHoles(arr) || _iterableToArray(arr) || _nonIterableSpread();
+function _toConsumableArray2(arr) {
+  return _arrayWithoutHoles2(arr) || _iterableToArray2(arr) || _nonIterableSpread2();
 }
-function _arrayWithoutHoles(arr) {
+function _arrayWithoutHoles2(arr) {
   if (Array.isArray(arr)) {
     for (var i = 0, arr2 = new Array(arr.length); i < arr.length; i++)
       arr2[i] = arr[i];
     return arr2;
   }
 }
-function _iterableToArray(iter) {
+function _iterableToArray2(iter) {
   if (Symbol.iterator in Object(iter) || Object.prototype.toString.call(iter) === "[object Arguments]")
     return Array.from(iter);
 }
-function _nonIterableSpread() {
+function _nonIterableSpread2() {
   throw new TypeError("Invalid attempt to spread non-iterable instance");
 }
 function classList(props) {
@@ -8497,7 +9881,7 @@ function classList(props) {
     "fa-li": listItem,
     "fa-flip-horizontal": flip === "horizontal" || flip === "both",
     "fa-flip-vertical": flip === "vertical" || flip === "both"
-  }, _defineProperty2(_classes, "fa-".concat(size), typeof size !== "undefined" && size !== null), _defineProperty2(_classes, "fa-rotate-".concat(rotation), typeof rotation !== "undefined" && rotation !== null && rotation !== 0), _defineProperty2(_classes, "fa-pull-".concat(pull), typeof pull !== "undefined" && pull !== null), _defineProperty2(_classes, "fa-swap-opacity", props.swapOpacity), _classes);
+  }, _defineProperty3(_classes, "fa-".concat(size), typeof size !== "undefined" && size !== null), _defineProperty3(_classes, "fa-rotate-".concat(rotation), typeof rotation !== "undefined" && rotation !== null && rotation !== 0), _defineProperty3(_classes, "fa-pull-".concat(pull), typeof pull !== "undefined" && pull !== null), _defineProperty3(_classes, "fa-swap-opacity", props.swapOpacity), _classes);
   return Object.keys(classes).map(function(key) {
     return classes[key] ? key : null;
   }).filter(function(key) {
@@ -8562,9 +9946,9 @@ function convert(createElement, element) {
   }, {
     attrs: {}
   });
-  var _extraProps$style = extraProps.style, existingStyle = _extraProps$style === void 0 ? {} : _extraProps$style, remaining = _objectWithoutProperties(extraProps, ["style"]);
-  mixins.attrs["style"] = _objectSpread2({}, mixins.attrs["style"], {}, existingStyle);
-  return createElement.apply(void 0, [element.tag, _objectSpread2({}, mixins.attrs, {}, remaining)].concat(_toConsumableArray(children)));
+  var _extraProps$style = extraProps.style, existingStyle = _extraProps$style === void 0 ? {} : _extraProps$style, remaining = _objectWithoutProperties2(extraProps, ["style"]);
+  mixins.attrs["style"] = _objectSpread22({}, mixins.attrs["style"], {}, existingStyle);
+  return createElement.apply(void 0, [element.tag, _objectSpread22({}, mixins.attrs, {}, remaining)].concat(_toConsumableArray2(children)));
 }
 var PRODUCTION2 = false;
 try {
@@ -8601,16 +9985,16 @@ function normalizeIconArgs(icon2) {
   }
 }
 function objectWithKey(key, value) {
-  return Array.isArray(value) && value.length > 0 || !Array.isArray(value) && value ? _defineProperty2({}, key, value) : {};
+  return Array.isArray(value) && value.length > 0 || !Array.isArray(value) && value ? _defineProperty3({}, key, value) : {};
 }
 function FontAwesomeIcon(_ref2) {
-  var forwardedRef = _ref2.forwardedRef, props = _objectWithoutProperties(_ref2, ["forwardedRef"]);
+  var forwardedRef = _ref2.forwardedRef, props = _objectWithoutProperties2(_ref2, ["forwardedRef"]);
   var iconArgs = props.icon, maskArgs = props.mask, symbol = props.symbol, className = props.className, title = props.title, titleId = props.titleId;
   var iconLookup = normalizeIconArgs(iconArgs);
-  var classes = objectWithKey("classes", [].concat(_toConsumableArray(classList(props)), _toConsumableArray(className.split(" "))));
+  var classes = objectWithKey("classes", [].concat(_toConsumableArray2(classList(props)), _toConsumableArray2(className.split(" "))));
   var transform2 = objectWithKey("transform", typeof props.transform === "string" ? parse.transform(props.transform) : props.transform);
   var mask = objectWithKey("mask", normalizeIconArgs(maskArgs));
-  var renderedIcon = icon(iconLookup, _objectSpread2({}, classes, {}, transform2, {}, mask, {
+  var renderedIcon = icon(iconLookup, _objectSpread22({}, classes, {}, transform2, {}, mask, {
     symbol,
     title,
     titleId
@@ -8632,23 +10016,23 @@ function FontAwesomeIcon(_ref2) {
 }
 FontAwesomeIcon.displayName = "FontAwesomeIcon";
 FontAwesomeIcon.propTypes = {
-  border: import_prop_types.default.bool,
-  className: import_prop_types.default.string,
-  mask: import_prop_types.default.oneOfType([import_prop_types.default.object, import_prop_types.default.array, import_prop_types.default.string]),
-  fixedWidth: import_prop_types.default.bool,
-  inverse: import_prop_types.default.bool,
-  flip: import_prop_types.default.oneOf(["horizontal", "vertical", "both"]),
-  icon: import_prop_types.default.oneOfType([import_prop_types.default.object, import_prop_types.default.array, import_prop_types.default.string]),
-  listItem: import_prop_types.default.bool,
-  pull: import_prop_types.default.oneOf(["right", "left"]),
-  pulse: import_prop_types.default.bool,
-  rotation: import_prop_types.default.oneOf([0, 90, 180, 270]),
-  size: import_prop_types.default.oneOf(["lg", "xs", "sm", "1x", "2x", "3x", "4x", "5x", "6x", "7x", "8x", "9x", "10x"]),
-  spin: import_prop_types.default.bool,
-  symbol: import_prop_types.default.oneOfType([import_prop_types.default.bool, import_prop_types.default.string]),
-  title: import_prop_types.default.string,
-  transform: import_prop_types.default.oneOfType([import_prop_types.default.string, import_prop_types.default.object]),
-  swapOpacity: import_prop_types.default.bool
+  border: import_prop_types2.default.bool,
+  className: import_prop_types2.default.string,
+  mask: import_prop_types2.default.oneOfType([import_prop_types2.default.object, import_prop_types2.default.array, import_prop_types2.default.string]),
+  fixedWidth: import_prop_types2.default.bool,
+  inverse: import_prop_types2.default.bool,
+  flip: import_prop_types2.default.oneOf(["horizontal", "vertical", "both"]),
+  icon: import_prop_types2.default.oneOfType([import_prop_types2.default.object, import_prop_types2.default.array, import_prop_types2.default.string]),
+  listItem: import_prop_types2.default.bool,
+  pull: import_prop_types2.default.oneOf(["right", "left"]),
+  pulse: import_prop_types2.default.bool,
+  rotation: import_prop_types2.default.oneOf([0, 90, 180, 270]),
+  size: import_prop_types2.default.oneOf(["lg", "xs", "sm", "1x", "2x", "3x", "4x", "5x", "6x", "7x", "8x", "9x", "10x"]),
+  spin: import_prop_types2.default.bool,
+  symbol: import_prop_types2.default.oneOfType([import_prop_types2.default.bool, import_prop_types2.default.string]),
+  title: import_prop_types2.default.string,
+  transform: import_prop_types2.default.oneOfType([import_prop_types2.default.string, import_prop_types2.default.object]),
+  swapOpacity: import_prop_types2.default.bool
 };
 FontAwesomeIcon.defaultProps = {
   border: false,
@@ -8669,7 +10053,7 @@ FontAwesomeIcon.defaultProps = {
   transform: null,
   swapOpacity: false
 };
-var convertCurry = convert.bind(null, import_react.default.createElement);
+var convertCurry = convert.bind(null, import_react2.default.createElement);
 
 // node_modules/@fortawesome/free-solid-svg-icons/index.es.js
 var faArrowCircleLeft = {
@@ -8756,135 +10140,165 @@ var VaultChangeModal = class extends import_obsidian.Modal {
 };
 
 // src/components/FileComponent.tsx
-function FileComponent({ plugin, fileList, activeFolderPath, fileTreeView, setView, pinnedFiles, setPinnedFiles, excludedExtensions }) {
-  const [activeFile, setActiveFile] = (0, import_react2.useState)(null);
-  const openFile = (file, e) => {
-    plugin.app.workspace.openLinkText(file.path, "/", import_obsidian2.Keymap.isModifier(e, "Mod") || e.button === 1);
-    setActiveFile(file);
-  };
-  const triggerContextMenu = (file, e) => {
-    const fileMenu = new import_obsidian2.Menu(plugin.app);
-    fileMenu.addItem((menuItem) => {
-      menuItem.setIcon("pin");
-      if (pinnedFiles.contains(file)) {
-        menuItem.setTitle("Unpin");
-      } else {
-        menuItem.setTitle("Pin to Top");
-      }
-      menuItem.onClick((ev) => {
-        if (pinnedFiles.contains(file)) {
-          let newPinnedFiles = pinnedFiles.filter((pinnedFile) => pinnedFile !== file);
-          setPinnedFiles(newPinnedFiles);
-        } else {
-          setPinnedFiles([...pinnedFiles, file]);
-        }
-      });
-    });
-    fileMenu.addItem((menuItem) => {
-      menuItem.setTitle("Rename");
-      menuItem.setIcon("pencil");
-      menuItem.onClick((ev) => {
-        let vaultChangeModal = new VaultChangeModal(plugin.app, file, "rename");
-        vaultChangeModal.open();
-      });
-    });
-    fileMenu.addItem((menuItem) => {
-      menuItem.setTitle("Delete");
-      menuItem.setIcon("trash");
-      menuItem.onClick((ev) => {
-        plugin.app.vault.delete(file, true);
-      });
-    });
-    plugin.app.workspace.trigger("file-menu", fileMenu, file, "file-explorer");
-    fileMenu.showAtPosition({ x: e.pageX, y: e.pageY });
-    return false;
-  };
-  const getFileNameAndExtension = (fullName) => {
-    var index = fullName.lastIndexOf(".");
-    return {
-      fileName: fullName.substring(0, index),
-      extension: fullName.substring(index + 1)
+var FileComponent = class extends import_react3.default.Component {
+  constructor() {
+    super(...arguments);
+    this.state = {
+      activeFile: null,
+      highlight: false
     };
-  };
-  const getFolderName = (folderPath) => {
-    if (folderPath === "/")
-      return plugin.app.vault.getName();
-    let index = folderPath.lastIndexOf("/");
-    if (index !== -1)
-      return folderPath.substring(index + 1);
-    return folderPath;
-  };
-  const customSort = (fileList2) => {
-    let sortedfileList;
-    if (excludedExtensions.length > 0)
-      sortedfileList = fileList2.filter((file) => !excludedExtensions.contains(file.extension));
-    sortedfileList = sortedfileList.sort((a, b) => a.name.localeCompare(b.name));
-    if (pinnedFiles.length > 0) {
-      sortedfileList = sortedfileList.reduce((acc, element) => {
-        if (pinnedFiles.contains(element))
-          return [element, ...acc];
-        return [...acc, element];
-      }, []);
-    }
-    return sortedfileList;
-  };
-  const createNewFile = (e, folderPath) => __async(this, null, function* () {
-    let targetFolder = plugin.app.vault.getAbstractFileByPath(folderPath);
-    if (!targetFolder)
-      return;
-    let modal = new VaultChangeModal(plugin.app, targetFolder, "create note");
-    modal.open();
-  });
-  const handleGoBack = (e) => {
-    setView("folder");
-  };
-  return /* @__PURE__ */ import_react2.default.createElement(import_react2.default.Fragment, null, /* @__PURE__ */ import_react2.default.createElement("div", {
-    className: "oz-explorer-container"
-  }, /* @__PURE__ */ import_react2.default.createElement("div", {
-    className: "oz-flex-container"
-  }, /* @__PURE__ */ import_react2.default.createElement("div", {
-    className: "nav-action-button oz-nav-action-button"
-  }, /* @__PURE__ */ import_react2.default.createElement(FontAwesomeIcon, {
-    icon: faArrowCircleLeft,
-    onClick: (e) => handleGoBack(e),
-    size: "lg"
-  })), /* @__PURE__ */ import_react2.default.createElement("div", {
-    className: "nav-action-button oz-nav-action-button"
-  }, /* @__PURE__ */ import_react2.default.createElement(FontAwesomeIcon, {
-    icon: faPlusCircle,
-    onClick: (e) => createNewFile(e, activeFolderPath),
-    size: "lg"
-  }))), /* @__PURE__ */ import_react2.default.createElement("div", {
-    className: "oz-file-tree-header"
-  }, getFolderName(activeFolderPath)), /* @__PURE__ */ import_react2.default.createElement("div", {
-    className: "oz-file-tree-files"
-  }, customSort(fileList).map((file) => {
-    return /* @__PURE__ */ import_react2.default.createElement("div", {
-      className: "nav-file oz-nav-file",
-      key: file.path,
-      onClick: (e) => openFile(file, e),
-      onContextMenu: (e) => triggerContextMenu(file, e)
-    }, /* @__PURE__ */ import_react2.default.createElement("div", {
-      className: "nav-file-title oz-nav-file-title" + (activeFile === file ? " is-active" : ""),
-      "data-path": file.path
-    }, getFileNameAndExtension(file.name).extension !== "md" && /* @__PURE__ */ import_react2.default.createElement("span", {
-      className: "nav-file-tag"
-    }, getFileNameAndExtension(file.name).extension), /* @__PURE__ */ import_react2.default.createElement("div", {
-      className: "nav-file-title-content"
-    }, getFileNameAndExtension(file.name).fileName, pinnedFiles.contains(file) && /* @__PURE__ */ import_react2.default.createElement(FontAwesomeIcon, {
-      icon: faThumbtack,
-      style: { marginLeft: "3px", float: "right" },
-      size: "xs"
-    }))));
-  }))));
-}
+    this.onDrop = (files) => {
+      files.map((file) => __async(this, null, function* () {
+        file.arrayBuffer().then((arrayBuffer) => {
+          this.props.plugin.app.vault.adapter.writeBinary(this.props.activeFolderPath + "/" + file.name, arrayBuffer);
+        });
+      }));
+    };
+    this.fullHeightStyle = { width: "100%", height: "100%" };
+    this.openFile = (file, e) => {
+      this.props.plugin.app.workspace.openLinkText(file.path, "/", import_obsidian2.Keymap.isModifier(e, "Mod") || e.button === 1);
+      this.setState({ activeFile: file });
+    };
+    this.triggerContextMenu = (file, e) => {
+      const fileMenu = new import_obsidian2.Menu(this.props.plugin.app);
+      fileMenu.addItem((menuItem) => {
+        menuItem.setIcon("pin");
+        if (this.props.pinnedFiles.contains(file))
+          menuItem.setTitle("Unpin");
+        else
+          menuItem.setTitle("Pin to Top");
+        menuItem.onClick((ev) => {
+          if (this.props.pinnedFiles.contains(file)) {
+            let newPinnedFiles = this.props.pinnedFiles.filter((pinnedFile) => pinnedFile !== file);
+            this.props.setPinnedFiles(newPinnedFiles);
+          } else {
+            this.props.setPinnedFiles([...this.props.pinnedFiles, file]);
+          }
+        });
+      });
+      fileMenu.addItem((menuItem) => {
+        menuItem.setTitle("Rename");
+        menuItem.setIcon("pencil");
+        menuItem.onClick((ev) => {
+          let vaultChangeModal = new VaultChangeModal(this.props.plugin.app, file, "rename");
+          vaultChangeModal.open();
+        });
+      });
+      fileMenu.addItem((menuItem) => {
+        menuItem.setTitle("Delete");
+        menuItem.setIcon("trash");
+        menuItem.onClick((ev) => {
+          this.props.plugin.app.vault.delete(file, true);
+        });
+      });
+      this.props.plugin.app.workspace.trigger("file-menu", fileMenu, file, "file-explorer");
+      fileMenu.showAtPosition({ x: e.pageX, y: e.pageY });
+      return false;
+    };
+    this.getFileNameAndExtension = (fullName) => {
+      var index = fullName.lastIndexOf(".");
+      return {
+        fileName: fullName.substring(0, index),
+        extension: fullName.substring(index + 1)
+      };
+    };
+    this.getFolderName = (folderPath) => {
+      if (folderPath === "/")
+        return this.props.plugin.app.vault.getName();
+      let index = folderPath.lastIndexOf("/");
+      if (index !== -1)
+        return folderPath.substring(index + 1);
+      return folderPath;
+    };
+    this.customFiles = (fileList) => {
+      let sortedfileList;
+      if (this.props.excludedExtensions.length > 0) {
+        sortedfileList = fileList.filter((file) => !this.props.excludedExtensions.contains(file.extension));
+      }
+      sortedfileList = sortedfileList.sort((a, b) => a.name.localeCompare(b.name, "en", { numeric: true }));
+      if (this.props.pinnedFiles.length > 0) {
+        sortedfileList = sortedfileList.reduce((acc, element) => {
+          if (this.props.pinnedFiles.contains(element))
+            return [element, ...acc];
+          return [...acc, element];
+        }, []);
+      }
+      return sortedfileList;
+    };
+    this.createNewFile = (e, folderPath) => __async(this, null, function* () {
+      let targetFolder = this.props.plugin.app.vault.getAbstractFileByPath(folderPath);
+      if (!targetFolder)
+        return;
+      let modal = new VaultChangeModal(this.props.plugin.app, targetFolder, "create note");
+      modal.open();
+    });
+    this.handleGoBack = (e) => {
+      this.props.setView("folder");
+    };
+  }
+  componentDidMount() {
+    document.querySelector('div.workspace-leaf-content[data-type="file-tree-view"] > div.view-content').scrollTo(0, 0);
+  }
+  render() {
+    return /* @__PURE__ */ import_react3.default.createElement(import_react3.default.Fragment, null, /* @__PURE__ */ import_react3.default.createElement("div", {
+      className: "oz-explorer-container",
+      style: this.fullHeightStyle
+    }, /* @__PURE__ */ import_react3.default.createElement("div", {
+      className: "oz-flex-container"
+    }, /* @__PURE__ */ import_react3.default.createElement("div", {
+      className: "nav-action-button oz-nav-action-button"
+    }, /* @__PURE__ */ import_react3.default.createElement(FontAwesomeIcon, {
+      icon: faArrowCircleLeft,
+      onClick: (e) => this.handleGoBack(e),
+      size: "lg"
+    })), /* @__PURE__ */ import_react3.default.createElement("div", {
+      className: "nav-action-button oz-nav-action-button"
+    }, /* @__PURE__ */ import_react3.default.createElement(FontAwesomeIcon, {
+      icon: faPlusCircle,
+      onClick: (e) => this.createNewFile(e, this.props.activeFolderPath),
+      size: "lg"
+    }))), /* @__PURE__ */ import_react3.default.createElement("div", {
+      className: "oz-file-tree-header"
+    }, this.getFolderName(this.props.activeFolderPath)), /* @__PURE__ */ import_react3.default.createElement(es_default, {
+      onDrop: this.onDrop,
+      noClick: true,
+      onDragEnter: () => this.setState({ highlight: true }),
+      onDragLeave: () => this.setState({ highlight: false }),
+      onDropAccepted: () => this.setState({ highlight: false }),
+      onDropRejected: () => this.setState({ highlight: false })
+    }, ({ getRootProps, getInputProps }) => /* @__PURE__ */ import_react3.default.createElement("div", __spreadProps(__spreadValues({}, getRootProps()), {
+      className: this.state.highlight ? "drag-entered" : "",
+      style: this.fullHeightStyle
+    }), /* @__PURE__ */ import_react3.default.createElement("input", __spreadValues({}, getInputProps())), /* @__PURE__ */ import_react3.default.createElement("div", {
+      className: "oz-file-tree-files"
+    }, this.customFiles(this.props.fileList).map((file) => {
+      return /* @__PURE__ */ import_react3.default.createElement("div", {
+        className: "nav-file oz-nav-file",
+        key: file.path,
+        onClick: (e) => this.openFile(file, e),
+        onContextMenu: (e) => this.triggerContextMenu(file, e)
+      }, /* @__PURE__ */ import_react3.default.createElement("div", {
+        className: "nav-file-title oz-nav-file-title" + (this.state.activeFile === file ? " is-active" : ""),
+        "data-path": file.path
+      }, this.getFileNameAndExtension(file.name).extension !== "md" && /* @__PURE__ */ import_react3.default.createElement("span", {
+        className: "nav-file-tag"
+      }, this.getFileNameAndExtension(file.name).extension), /* @__PURE__ */ import_react3.default.createElement("div", {
+        className: "nav-file-title-content"
+      }, this.getFileNameAndExtension(file.name).fileName, this.props.pinnedFiles.contains(file) && /* @__PURE__ */ import_react3.default.createElement(FontAwesomeIcon, {
+        icon: faThumbtack,
+        style: { marginLeft: "3px", float: "right" },
+        size: "xs"
+      }))));
+    }))))));
+  }
+};
 
 // src/components/FolderComponent.tsx
-var import_react6 = __toModule(require_react());
+var import_react7 = __toModule(require_react());
 var import_obsidian3 = __toModule(require("obsidian"));
 
 // src/components/treeComponent/TreeComponent.tsx
-var import_react5 = __toModule(require_react());
+var import_react6 = __toModule(require_react());
 
 // node_modules/@babel/runtime/helpers/esm/extends.js
 function _extends() {
@@ -8919,7 +10333,7 @@ function _inheritsLoose(subClass, superClass) {
 }
 
 // node_modules/@babel/runtime/helpers/esm/objectWithoutPropertiesLoose.js
-function _objectWithoutPropertiesLoose2(source, excluded) {
+function _objectWithoutPropertiesLoose3(source, excluded) {
   if (source == null)
     return {};
   var target = {};
@@ -8935,7 +10349,7 @@ function _objectWithoutPropertiesLoose2(source, excluded) {
 }
 
 // node_modules/react-spring/dist/web.js
-var import_react3 = __toModule(require_react());
+var import_react4 = __toModule(require_react());
 var import_react_dom = __toModule(require_react_dom());
 var bugfixes = void 0;
 var applyAnimatedValues = void 0;
@@ -9592,7 +11006,7 @@ function getValues(object) {
   });
 }
 function getForwardProps(props) {
-  var to = props.to, from = props.from, config3 = props.config, native = props.native, onRest = props.onRest, onFrame = props.onFrame, children = props.children, render = props.render, reset = props.reset, reverse = props.reverse, force = props.force, immediate = props.immediate, impl = props.impl, inject = props.inject, delay = props.delay, attach = props.attach, destroyed = props.destroyed, forward = _objectWithoutPropertiesLoose2(props, ["to", "from", "config", "native", "onRest", "onFrame", "children", "render", "reset", "reverse", "force", "immediate", "impl", "inject", "delay", "attach", "destroyed"]);
+  var to = props.to, from = props.from, config3 = props.config, native = props.native, onRest = props.onRest, onFrame = props.onFrame, children = props.children, render = props.render, reset = props.reset, reverse = props.reverse, force = props.force, immediate = props.immediate, impl = props.impl, inject = props.inject, delay = props.delay, attach = props.attach, destroyed = props.destroyed, forward = _objectWithoutPropertiesLoose3(props, ["to", "from", "config", "native", "onRest", "onFrame", "children", "render", "reset", "reverse", "force", "immediate", "impl", "inject", "delay", "attach", "destroyed"]);
   return forward;
 }
 function renderChildren(props, componentProps) {
@@ -9629,7 +11043,7 @@ function fixAuto(props, callback) {
   if (!element)
     return;
   var elementStyles = element.props.style;
-  return import_react3.default.createElement(element.type, _extends({
+  return import_react4.default.createElement(element.type, _extends({
     key: element.key
   }, element.props, {
     style: _extends({}, elementStyles, {
@@ -9727,7 +11141,7 @@ injectColorNames(colors);
 injectBugfixes(fixAuto);
 injectApplyAnimatedValues(function(instance, props) {
   if (instance.nodeType && instance.setAttribute !== void 0) {
-    var style = props.style, children = props.children, scrollTop = props.scrollTop, scrollLeft = props.scrollLeft, attributes = _objectWithoutPropertiesLoose2(props, ["style", "children", "scrollTop", "scrollLeft"]);
+    var style = props.style, children = props.children, scrollTop = props.scrollTop, scrollLeft = props.scrollLeft, attributes = _objectWithoutPropertiesLoose3(props, ["style", "children", "scrollTop", "scrollLeft"]);
     if (scrollTop)
       instance.scrollTop = scrollTop;
     if (scrollLeft)
@@ -9954,7 +11368,7 @@ var AnimatedArray = /* @__PURE__ */ function(_AnimatedWithChildren) {
   return AnimatedArray2;
 }(AnimatedWithChildren);
 function maybeVectorAnim(array, _ref2, anim, impl) {
-  var to = _ref2.to, rest = _objectWithoutPropertiesLoose2(_ref2, ["to"]);
+  var to = _ref2.to, rest = _objectWithoutPropertiesLoose3(_ref2, ["to"]);
   if (array instanceof AnimatedArray)
     return parallel(array._values.map(function(v2, i) {
       return anim(v2, _extends({}, rest, {
@@ -10142,7 +11556,7 @@ function createAnimatedComponent(Component) {
     };
     _proto.attachProps = function attachProps(_ref2) {
       var _this = this;
-      var forwardRef = _ref2.forwardRef, nextProps = _objectWithoutPropertiesLoose2(_ref2, ["forwardRef"]);
+      var forwardRef2 = _ref2.forwardRef, nextProps = _objectWithoutPropertiesLoose3(_ref2, ["forwardRef"]);
       var oldPropsAnimated = this._propsAnimated;
       var callback = function callback2() {
         if (_this.node) {
@@ -10159,25 +11573,25 @@ function createAnimatedComponent(Component) {
     };
     _proto.render = function render() {
       var _this2 = this;
-      var forwardRef = this.props.forwardRef;
-      var _this$_propsAnimated$ = this._propsAnimated.__getValue(), scrollTop = _this$_propsAnimated$.scrollTop, scrollLeft = _this$_propsAnimated$.scrollLeft, animatedProps = _objectWithoutPropertiesLoose2(_this$_propsAnimated$, ["scrollTop", "scrollLeft"]);
-      return import_react3.default.createElement(Component, _extends({}, animatedProps, {
+      var forwardRef2 = this.props.forwardRef;
+      var _this$_propsAnimated$ = this._propsAnimated.__getValue(), scrollTop = _this$_propsAnimated$.scrollTop, scrollLeft = _this$_propsAnimated$.scrollLeft, animatedProps = _objectWithoutPropertiesLoose3(_this$_propsAnimated$, ["scrollTop", "scrollLeft"]);
+      return import_react4.default.createElement(Component, _extends({}, animatedProps, {
         ref: function ref(node) {
           _this2.node = node;
-          var forwardRef2 = _this2.props.forwardRef;
-          if (forwardRef2) {
-            if (typeof forwardRef2 === "function")
-              forwardRef2(node);
-            else if (typeof forwardRef2 === "object")
-              forwardRef2.current = node;
+          var forwardRef3 = _this2.props.forwardRef;
+          if (forwardRef3) {
+            if (typeof forwardRef3 === "function")
+              forwardRef3(node);
+            else if (typeof forwardRef3 === "object")
+              forwardRef3.current = node;
           }
         }
       }));
     };
     return AnimatedComponent2;
-  }(import_react3.default.Component);
-  return import_react3.default.forwardRef(function(props, ref) {
-    return import_react3.default.createElement(AnimatedComponent, _extends({}, props, {
+  }(import_react4.default.Component);
+  return import_react4.default.forwardRef(function(props, ref) {
+    return import_react4.default.createElement(AnimatedComponent, _extends({}, props, {
       forwardRef: ref
     }));
   });
@@ -10208,7 +11622,7 @@ var config2 = {
     friction: 120
   }
 };
-var v = import_react3.default.version.split(".");
+var v = import_react4.default.version.split(".");
 if (false) {
   console.warn("Please consider upgrading to react/react-dom 16.4.x or higher! Older React versions break getDerivedStateFromProps, see https://github.com/facebook/react/issues/12898");
 }
@@ -10421,7 +11835,7 @@ var Spring = /* @__PURE__ */ function(_React$Component) {
     return this.props.native ? this.interpolators : this.getValues();
   };
   return Spring2;
-}(import_react3.default.Component);
+}(import_react4.default.Component);
 Spring.defaultProps = {
   from: {},
   to: {},
@@ -10437,7 +11851,7 @@ var empty = function empty2() {
   return null;
 };
 var get = function get2(props) {
-  var keys = props.keys, children = props.children, render = props.render, items = props.items, rest = _objectWithoutPropertiesLoose2(props, ["keys", "children", "render", "items"]);
+  var keys = props.keys, children = props.children, render = props.render, items = props.items, rest = _objectWithoutPropertiesLoose3(props, ["keys", "children", "render", "items"]);
   children = render || children || empty;
   keys = typeof keys === "function" ? items.map(keys) : keys;
   if (!Array.isArray(children)) {
@@ -10498,7 +11912,7 @@ var Transition = /* @__PURE__ */ function(_React$PureComponent) {
     return _this;
   }
   Transition2.getDerivedStateFromProps = function getDerivedStateFromProps(props, _ref2) {
-    var first = _ref2.first, prevProps = _ref2.prevProps, state = _objectWithoutPropertiesLoose2(_ref2, ["first", "prevProps"]);
+    var first = _ref2.first, prevProps = _ref2.prevProps, state = _objectWithoutPropertiesLoose3(_ref2, ["first", "prevProps"]);
     var _get = get(props), keys = _get.keys, children = _get.children, items = _get.items, initial2 = _get.initial, from = _get.from, enter = _get.enter, leave = _get.leave, update = _get.update, _get$delay = _get.delay, delay = _get$delay === void 0 ? 0 : _get$delay, config$$1 = _get.config;
     var _get2 = get(prevProps), _keys = _get2.keys, _items = _get2.items;
     var current = _extends({}, state.current);
@@ -10556,7 +11970,7 @@ var Transition = /* @__PURE__ */ function(_React$PureComponent) {
       return current[key];
     });
     deleted.forEach(function(_ref3) {
-      var s = _ref3.lastSibling, t = _objectWithoutPropertiesLoose2(_ref3, ["lastSibling"]);
+      var s = _ref3.lastSibling, t = _objectWithoutPropertiesLoose3(_ref3, ["lastSibling"]);
       var i = Math.max(0, transitions.findIndex(function(t2) {
         return t2.originalKey === s;
       }) + 1);
@@ -10575,10 +11989,10 @@ var Transition = /* @__PURE__ */ function(_React$PureComponent) {
   };
   _proto.render = function render() {
     var _this2 = this;
-    var _this$props2 = this.props, render2 = _this$props2.render, initial2 = _this$props2.initial, _this$props2$from = _this$props2.from, _this$props2$enter = _this$props2.enter, _this$props2$leave = _this$props2.leave, onDestroyed = _this$props2.onDestroyed, keys = _this$props2.keys, items = _this$props2.items, onFrame = _this$props2.onFrame, onRest = _this$props2.onRest, delay = _this$props2.delay, config$$1 = _this$props2.config, extra = _objectWithoutPropertiesLoose2(_this$props2, ["render", "initial", "from", "enter", "leave", "onDestroyed", "keys", "items", "onFrame", "onRest", "delay", "config"]);
+    var _this$props2 = this.props, render2 = _this$props2.render, initial2 = _this$props2.initial, _this$props2$from = _this$props2.from, _this$props2$enter = _this$props2.enter, _this$props2$leave = _this$props2.leave, onDestroyed = _this$props2.onDestroyed, keys = _this$props2.keys, items = _this$props2.items, onFrame = _this$props2.onFrame, onRest = _this$props2.onRest, delay = _this$props2.delay, config$$1 = _this$props2.config, extra = _objectWithoutPropertiesLoose3(_this$props2, ["render", "initial", "from", "enter", "leave", "onDestroyed", "keys", "items", "onFrame", "onRest", "delay", "config"]);
     return this.state.transitions.map(function(_ref4, i) {
       var key = _ref4.key, item = _ref4.item, children = _ref4.children, from = _ref4.from, to = _ref4.to, delay2 = _ref4.delay, config$$12 = _ref4.config, destroyed = _ref4.destroyed;
-      return import_react3.default.createElement(Spring, _extends({
+      return import_react4.default.createElement(Spring, _extends({
         ref: function ref(r) {
           return r && (_this2.springs[key] = r.getValues());
         },
@@ -10600,7 +12014,7 @@ var Transition = /* @__PURE__ */ function(_React$PureComponent) {
     });
   };
   return Transition2;
-}(import_react3.default.PureComponent);
+}(import_react4.default.PureComponent);
 var Trail = /* @__PURE__ */ function(_React$PureComponent) {
   _inheritsLoose(Trail2, _React$PureComponent);
   function Trail2() {
@@ -10618,7 +12032,7 @@ var Trail = /* @__PURE__ */ function(_React$PureComponent) {
   };
   _proto.render = function render() {
     var _this = this;
-    var _this$props = this.props, children = _this$props.children, render2 = _this$props.render, _this$props$from = _this$props.from, from = _this$props$from === void 0 ? {} : _this$props$from, _this$props$to = _this$props.to, to = _this$props$to === void 0 ? {} : _this$props$to, _this$props$native = _this$props.native, native = _this$props$native === void 0 ? false : _this$props$native, keys = _this$props.keys, delay = _this$props.delay, onRest = _this$props.onRest, extra = _objectWithoutPropertiesLoose2(_this$props, ["children", "render", "from", "to", "native", "keys", "delay", "onRest"]);
+    var _this$props = this.props, children = _this$props.children, render2 = _this$props.render, _this$props$from = _this$props.from, from = _this$props$from === void 0 ? {} : _this$props$from, _this$props$to = _this$props.to, to = _this$props$to === void 0 ? {} : _this$props$to, _this$props$native = _this$props.native, native = _this$props$native === void 0 ? false : _this$props$native, keys = _this$props.keys, delay = _this$props.delay, onRest = _this$props.onRest, extra = _objectWithoutPropertiesLoose3(_this$props, ["children", "render", "from", "to", "native", "keys", "delay", "onRest"]);
     var animations = new Set();
     var hook = function hook2(index, animation) {
       animations.add(animation);
@@ -10638,7 +12052,7 @@ var Trail = /* @__PURE__ */ function(_React$PureComponent) {
         return hook(i, animation);
       };
       var firstDelay = i === 0 && delay;
-      return import_react3.default.createElement(Spring, _extends({
+      return import_react4.default.createElement(Spring, _extends({
         ref: function ref(_ref2) {
           return i === 0 && (_this.instance = _ref2);
         },
@@ -10653,7 +12067,7 @@ var Trail = /* @__PURE__ */ function(_React$PureComponent) {
     });
   };
   return Trail2;
-}(import_react3.default.PureComponent);
+}(import_react4.default.PureComponent);
 var DEFAULT = "__default";
 var Keyframes = /* @__PURE__ */ function(_React$PureComponent) {
   _inheritsLoose(Keyframes2, _React$PureComponent);
@@ -10747,10 +12161,10 @@ var Keyframes = /* @__PURE__ */ function(_React$PureComponent) {
     var _this$state = this.state, props = _this$state.props, oldProps = _this$state.oldProps, resolve2 = _this$state.resolve;
     if (!props || Object.keys(props).length === 0)
       return null;
-    var _this$props = this.props, state = _this$props.state, filter = _this$props.filter, states = _this$props.states, Component = _this$props.primitive, ownFrom = _this$props.from, _onRest = _this$props.onRest, rest = _objectWithoutPropertiesLoose2(_this$props, ["state", "filter", "states", "primitive", "from", "onRest"]);
+    var _this$props = this.props, state = _this$props.state, filter = _this$props.filter, states = _this$props.states, Component = _this$props.primitive, ownFrom = _this$props.from, _onRest = _this$props.onRest, rest = _objectWithoutPropertiesLoose3(_this$props, ["state", "filter", "states", "primitive", "from", "onRest"]);
     var current = this.instance && this.instance.getValues();
     var from = typeof props.from === "function" ? props.from : _extends({}, oldProps.from, current, props.from);
-    return import_react3.default.createElement(Component, _extends({
+    return import_react4.default.createElement(Component, _extends({
       ref: function ref(_ref2) {
         return _this3.instance = _ref2;
       }
@@ -10764,7 +12178,7 @@ var Keyframes = /* @__PURE__ */ function(_React$PureComponent) {
     }));
   };
   return Keyframes2;
-}(import_react3.default.PureComponent);
+}(import_react4.default.PureComponent);
 Keyframes.defaultProps = {
   state: DEFAULT
 };
@@ -10779,7 +12193,7 @@ Keyframes.create = function(primitive) {
     if (typeof states === "function" || Array.isArray(states))
       states = (_states = {}, _states[DEFAULT] = states, _states);
     return function(props) {
-      return import_react3.default.createElement(Keyframes, _extends({
+      return import_react4.default.createElement(Keyframes, _extends({
         primitive,
         states,
         filter
@@ -10807,7 +12221,7 @@ Keyframes.Trail.to = function(states) {
 };
 Keyframes.Transition = Keyframes.create(Transition);
 var AnimatedDiv = createAnimatedComponent("div");
-var _React$createContext = import_react3.default.createContext(null);
+var _React$createContext = import_react4.default.createContext(null);
 var Provider = _React$createContext.Provider;
 var Consumer = _React$createContext.Consumer;
 function getScrollType(horizontal) {
@@ -10877,13 +12291,13 @@ var ParallaxLayer = /* @__PURE__ */ function(_React$PureComponent) {
   };
   _proto.renderLayer = function renderLayer() {
     var _extends2;
-    var _this$props = this.props, style = _this$props.style, children = _this$props.children, offset = _this$props.offset, speed = _this$props.speed, factor = _this$props.factor, className = _this$props.className, props = _objectWithoutPropertiesLoose2(_this$props, ["style", "children", "offset", "speed", "factor", "className"]);
+    var _this$props = this.props, style = _this$props.style, children = _this$props.children, offset = _this$props.offset, speed = _this$props.speed, factor = _this$props.factor, className = _this$props.className, props = _objectWithoutPropertiesLoose3(_this$props, ["style", "children", "offset", "speed", "factor", "className"]);
     var horizontal = this.parent.props.horizontal;
     var translate3d = this.animatedTranslate.interpolate({
       range: [0, 1],
       output: horizontal ? [START_TRANSLATE_3D, "translate3d(1px,0,0)"] : [START_TRANSLATE_3D, "translate3d(0,1px,0)"]
     });
-    return import_react3.default.createElement(AnimatedDiv, _extends({}, props, {
+    return import_react4.default.createElement(AnimatedDiv, _extends({}, props, {
       className,
       style: _extends((_extends2 = {
         position: "absolute",
@@ -10895,7 +12309,7 @@ var ParallaxLayer = /* @__PURE__ */ function(_React$PureComponent) {
   };
   _proto.render = function render() {
     var _this2 = this;
-    return import_react3.default.createElement(Consumer, null, function(parent) {
+    return import_react4.default.createElement(Consumer, null, function(parent) {
       if (parent && !_this2.parent) {
         _this2.parent = parent;
         _this2.initialize();
@@ -10904,7 +12318,7 @@ var ParallaxLayer = /* @__PURE__ */ function(_React$PureComponent) {
     });
   };
   return ParallaxLayer2;
-}(import_react3.default.PureComponent);
+}(import_react4.default.PureComponent);
 ParallaxLayer.defaultProps = {
   factor: 1,
   offset: 0,
@@ -11002,7 +12416,7 @@ var Parallax = /* @__PURE__ */ function(_React$PureComponent2) {
     var _this4 = this, _extends3;
     var _this$props3 = this.props, style = _this$props3.style, innerStyle = _this$props3.innerStyle, pages = _this$props3.pages, className = _this$props3.className, scrolling = _this$props3.scrolling, children = _this$props3.children, horizontal = _this$props3.horizontal;
     var overflow = scrolling ? "scroll" : "hidden";
-    return import_react3.default.createElement("div", {
+    return import_react4.default.createElement("div", {
       ref: function ref(node) {
         return _this4.container = node;
       },
@@ -11022,19 +12436,19 @@ var Parallax = /* @__PURE__ */ function(_React$PureComponent2) {
         transform: START_TRANSLATE_3D
       }, style),
       className
-    }, this.state.ready && import_react3.default.createElement("div", {
+    }, this.state.ready && import_react4.default.createElement("div", {
       ref: function ref(node) {
         return _this4.content = node;
       },
       style: _extends((_extends3 = {
         position: "absolute"
       }, _extends3[horizontal ? "height" : "width"] = "100%", _extends3.WebkitTransform = START_TRANSLATE, _extends3.MsTransform = START_TRANSLATE, _extends3.transform = START_TRANSLATE_3D, _extends3.overflow = "hidden", _extends3[horizontal ? "width" : "height"] = this.space * pages, _extends3), innerStyle)
-    }, import_react3.default.createElement(Provider, {
+    }, import_react4.default.createElement(Provider, {
       value: this
     }, children)));
   };
   return Parallax2;
-}(import_react3.default.PureComponent);
+}(import_react4.default.PureComponent);
 Parallax.Layer = ParallaxLayer;
 Parallax.defaultProps = {
   config: config2.slow,
@@ -11184,29 +12598,33 @@ var extendedAnimated = domElements.reduce(function(acc, element) {
 }, createAnimatedComponent);
 
 // src/components/treeComponent/icons.tsx
-var import_react4 = __toModule(require_react());
-var MinusSquareO = (props) => /* @__PURE__ */ import_react4.default.createElement("svg", __spreadProps(__spreadValues({}, props), {
+var import_react5 = __toModule(require_react());
+var MinusSquareO = (props) => /* @__PURE__ */ import_react5.default.createElement("svg", __spreadProps(__spreadValues({}, props), {
   viewBox: "64 -65 897 897"
-}), /* @__PURE__ */ import_react4.default.createElement("g", null, /* @__PURE__ */ import_react4.default.createElement("path", {
-  d: "M888 760v0v0v-753v0h-752v0v753v0h752zM888 832h-752q-30 0 -51 -21t-21 -51v-753q0 -29 21 -50.5t51 -21.5h753q29 0 50.5 21.5t21.5 50.5v753q0 30 -21.5 51t-51.5 21v0zM732 347h-442q-14 0 -25 10.5t-11 25.5v0q0 15 11 25.5t25 10.5h442q14 0 25 -10.5t11 -25.5v0\n  q0 -15 -11 -25.5t-25 -10.5z"
+}), /* @__PURE__ */ import_react5.default.createElement("g", null, /* @__PURE__ */ import_react5.default.createElement("path", {
+  d: "M888 760v0v0v-753v0h-752v0v753v0h752zM888 832h-752q-30 0 -51 -21t-21 -51v-753q0 -29 21 -50.5t51 -21.5h753q29 0 50.5 21.5t21.5 50.5v753q0 30 -21.5 51t-51.5 21v0zM732 347h-442q-14 0 -25 10.5t-11 25.5v0q0 15 11 25.5t25 10.5h442q14 0 25 -10.5t11 -25.5v0\n  q0 -15 -11 -25.5t-25 -10.5z",
+  fill: "var(--interactive-accent)"
 })));
-var PlusSquareO = (props) => /* @__PURE__ */ import_react4.default.createElement("svg", __spreadProps(__spreadValues({}, props), {
+var PlusSquareO = (props) => /* @__PURE__ */ import_react5.default.createElement("svg", __spreadProps(__spreadValues({}, props), {
   viewBox: "64 -65 897 897"
-}), /* @__PURE__ */ import_react4.default.createElement("g", null, /* @__PURE__ */ import_react4.default.createElement("path", {
-  d: "M888 760v0v0v-753v0h-752v0v753v0h752zM888 832h-752q-30 0 -51 -21t-21 -51v-753q0 -29 21 -50.5t51 -21.5h753q29 0 50.5 21.5t21.5 50.5v753q0 30 -21.5 51t-51.5 21v0zM732 420h-184v183q0 15 -10.5 25.5t-25.5 10.5v0q-14 0 -25 -10.5t-11 -25.5v-183h-184\n  q-15 0 -25.5 -11t-10.5 -25v0q0 -15 10.5 -25.5t25.5 -10.5h184v-183q0 -15 11 -25.5t25 -10.5v0q15 0 25.5 10.5t10.5 25.5v183h184q15 0 25.5 10.5t10.5 25.5v0q0 14 -10.5 25t-25.5 11z"
+}), /* @__PURE__ */ import_react5.default.createElement("g", null, /* @__PURE__ */ import_react5.default.createElement("path", {
+  d: "M888 760v0v0v-753v0h-752v0v753v0h752zM888 832h-752q-30 0 -51 -21t-21 -51v-753q0 -29 21 -50.5t51 -21.5h753q29 0 50.5 21.5t21.5 50.5v753q0 30 -21.5 51t-51.5 21v0zM732 420h-184v183q0 15 -10.5 25.5t-25.5 10.5v0q-14 0 -25 -10.5t-11 -25.5v-183h-184\n  q-15 0 -25.5 -11t-10.5 -25v0q0 -15 10.5 -25.5t25.5 -10.5h184v-183q0 -15 11 -25.5t25 -10.5v0q15 0 25.5 10.5t10.5 25.5v183h184q15 0 25.5 10.5t10.5 25.5v0q0 14 -10.5 25t-25.5 11z",
+  fill: "var(--interactive-accent)"
 })));
-var CloseSquareO = (props) => /* @__PURE__ */ import_react4.default.createElement("svg", __spreadProps(__spreadValues({}, props), {
+var CloseSquareO = (props) => /* @__PURE__ */ import_react5.default.createElement("svg", __spreadProps(__spreadValues({}, props), {
   viewBox: "64 -65 897 897"
-}), /* @__PURE__ */ import_react4.default.createElement("g", null, /* @__PURE__ */ import_react4.default.createElement("path", {
-  d: "M717.5 589.5q-10.5 10.5 -25.5 10.5t-26 -10l-154 -155l-154 155q-11 10 -26 10t-25.5 -10.5t-10.5 -25.5t11 -25l154 -155l-154 -155q-11 -10 -11 -25t10.5 -25.5t25.5 -10.5t26 10l154 155l154 -155q11 -10 26 -10t25.5 10.5t10.5 25t-11 25.5l-154 155l154 155\n  q11 10 11 25t-10.5 25.5zM888 760v0v0v-753v0h-752v0v753v0h752zM888 832h-752q-30 0 -51 -21t-21 -51v-753q0 -29 21 -50.5t51 -21.5h753q29 0 50.5 21.5t21.5 50.5v753q0 30 -21.5 51t-51.5 21v0z"
+}), /* @__PURE__ */ import_react5.default.createElement("g", null, /* @__PURE__ */ import_react5.default.createElement("path", {
+  d: "M717.5 589.5q-10.5 10.5 -25.5 10.5t-26 -10l-154 -155l-154 155q-11 10 -26 10t-25.5 -10.5t-10.5 -25.5t11 -25l154 -155l-154 -155q-11 -10 -11 -25t10.5 -25.5t25.5 -10.5t26 10l154 155l154 -155q11 -10 26 -10t25.5 10.5t10.5 25t-11 25.5l-154 155l154 155\n  q11 10 11 25t-10.5 25.5zM888 760v0v0v-753v0h-752v0v753v0h752zM888 832h-752q-30 0 -51 -21t-21 -51v-753q0 -29 21 -50.5t51 -21.5h753q29 0 50.5 21.5t21.5 50.5v753q0 30 -21.5 51t-51.5 21v0z",
+  fill: "var(--interactive-accent)"
 })));
 
 // src/components/treeComponent/TreeComponent.tsx
-var Tree = class extends import_react5.default.Component {
+var Tree = class extends import_react6.default.Component {
   constructor() {
     super(...arguments);
     this.state = {
-      open: this.props.open
+      open: this.props.open,
+      highlight: false
     };
     this.toggle = () => {
       if (this.props.children) {
@@ -11223,29 +12641,51 @@ var Tree = class extends import_react5.default.Component {
         this.setState((state) => ({ open: !this.state.open }));
       }
     };
+    this.onDrop = (files) => {
+      files.map((file) => __async(this, null, function* () {
+        file.arrayBuffer().then((arrayBuffer) => {
+          this.props.plugin.app.vault.adapter.writeBinary(this.props.folder.path + "/" + file.name, arrayBuffer);
+        });
+      }));
+    };
     this.folderNameClickEvent = () => this.props.onClick();
     this.folderContextMenuEvent = () => this.props.onContextMenu();
   }
   render() {
-    const { open } = this.state;
-    const { children, content, type, style, springConfig } = this.props;
-    const Icon = children ? open ? MinusSquareO : PlusSquareO : CloseSquareO;
-    return /* @__PURE__ */ import_react5.default.createElement("div", {
-      style: __spreadValues(__spreadValues({}, styles2.tree), style),
+    const Icon = this.props.children ? this.state.open ? MinusSquareO : PlusSquareO : CloseSquareO;
+    return /* @__PURE__ */ import_react6.default.createElement(es_default, {
+      onDrop: this.onDrop,
+      noClick: true,
+      onDragEnter: () => this.setState({ highlight: true }),
+      onDragLeave: () => this.setState({ highlight: false })
+    }, ({ getRootProps, getInputProps }) => /* @__PURE__ */ import_react6.default.createElement("div", {
+      style: __spreadValues(__spreadValues({}, styles2.tree), this.props.style),
       className: "treeview"
-    }, /* @__PURE__ */ import_react5.default.createElement(Icon, {
+    }, /* @__PURE__ */ import_react6.default.createElement("div", __spreadProps(__spreadValues({}, getRootProps({ className: "dropzone" })), {
+      className: "oz-folder-element" + (this.state.highlight ? " drag-entered" : ""),
+      "data-path": this.props.folder.path
+    }), /* @__PURE__ */ import_react6.default.createElement("input", __spreadValues({}, getInputProps())), /* @__PURE__ */ import_react6.default.createElement("div", {
+      style: { width: "100%" }
+    }, /* @__PURE__ */ import_react6.default.createElement("div", {
+      style: { display: "inline-block" }
+    }, /* @__PURE__ */ import_react6.default.createElement(Icon, {
       className: "toggle",
-      style: __spreadProps(__spreadValues({}, styles2.toggle), { opacity: children ? 1 : 0.3 }),
+      style: __spreadProps(__spreadValues({}, styles2.toggle), { opacity: this.props.children ? 1 : 0.3 }),
       onClick: this.toggle
-    }), /* @__PURE__ */ import_react5.default.createElement("span", {
-      style: __spreadProps(__spreadValues({}, styles2.type), { marginRight: type ? 10 : 0 })
-    }, type), /* @__PURE__ */ import_react5.default.createElement("span", {
-      style: { verticalAlign: "middle" },
+    })), /* @__PURE__ */ import_react6.default.createElement("div", {
+      style: { display: "inline-block", width: "100%" },
       onClick: this.folderNameClickEvent,
       onContextMenu: this.folderContextMenuEvent
-    }, content), !open && this.props.folderFileCountMap[this.props.folder.path] && /* @__PURE__ */ import_react5.default.createElement("span", {
-      style: { float: "right", paddingRight: "12px" }
-    }, this.props.folderFileCountMap[this.props.folder.path]), /* @__PURE__ */ import_react5.default.createElement(Spring, __spreadProps(__spreadValues({
+    }, /* @__PURE__ */ import_react6.default.createElement("div", {
+      style: __spreadProps(__spreadValues({}, styles2.type), { marginRight: this.props.type ? 10 : 0 })
+    }, " ", this.props.type, " "), /* @__PURE__ */ import_react6.default.createElement("div", {
+      style: { verticalAlign: "middle", display: "inline-block" }
+    }, this.props.content), !this.state.open && this.props.folderFileCountMap[this.props.folder.path] && /* @__PURE__ */ import_react6.default.createElement("div", {
+      style: { float: "right", paddingRight: "34px", display: "inline-block" },
+      className: "oz-folder-count"
+    }, /* @__PURE__ */ import_react6.default.createElement("span", {
+      className: "nav-file-tag"
+    }, this.props.folderFileCountMap[this.props.folder.path]))))), /* @__PURE__ */ import_react6.default.createElement(Spring, {
       native: true,
       immediate: true,
       config: __spreadProps(__spreadValues({}, config2.default), {
@@ -11254,18 +12694,17 @@ var Tree = class extends import_react5.default.Component {
       }),
       from: { height: 0, opacity: 0, transform: "translate3d(20px,0,0)" },
       to: {
-        height: open ? "auto" : 0,
-        opacity: open ? 1 : 0,
-        transform: open ? "translate3d(0px,0,0)" : "translate3d(20px,0,0)"
-      }
-    }, springConfig && springConfig(open)), {
+        height: this.state.open ? "auto" : 0,
+        opacity: this.state.open ? 1 : 0,
+        transform: this.state.open ? "translate3d(0px,0,0)" : "translate3d(20px,0,0)"
+      },
       render: Contents
-    }), this.props.children));
+    }, this.props.children)));
   }
 };
 var Contents = (_a) => {
   var _b = _a, { children } = _b, style = __objRest(_b, ["children"]);
-  return /* @__PURE__ */ import_react5.default.createElement(extendedAnimated.div, {
+  return /* @__PURE__ */ import_react6.default.createElement(extendedAnimated.div, {
     style: __spreadValues(__spreadValues({}, style), styles2.contents)
   }, children);
 };
@@ -11302,113 +12741,136 @@ var styles2 = {
 };
 
 // src/components/FolderComponent.tsx
-function FolderComponent({ plugin, folderTree, activeFolderPath, setActiveFolderPath, setView, openFolders, setOpenFolders, excludedFolders, folderFileCountMap }) {
-  const treeStyles = { color: "--var(--text-muted)", fill: "#c16ff7", width: "100%", left: 10, top: 10 };
-  const handleFolderNameClick = (folderPath) => {
-    setActiveFolderPath(folderPath);
-  };
-  return /* @__PURE__ */ import_react6.default.createElement(import_react6.default.Fragment, null, /* @__PURE__ */ import_react6.default.createElement(Tree, {
-    content: plugin.app.vault.getName(),
-    open: true,
-    style: treeStyles,
-    onClick: () => handleFolderNameClick("/"),
-    setOpenFolders,
-    openFolders,
-    folder: plugin.app.vault.getRoot(),
-    folderFileCountMap
-  }, folderTree && /* @__PURE__ */ import_react6.default.createElement(NestedChildrenComponent, {
-    plugin,
-    folderTree,
-    activeFolderPath,
-    setActiveFolderPath,
-    setView,
-    openFolders,
-    setOpenFolders,
-    excludedFolders,
-    folderFileCountMap
-  })));
-}
-function NestedChildrenComponent({ plugin, folderTree, activeFolderPath, setActiveFolderPath, setView, openFolders, setOpenFolders, excludedFolders, folderFileCountMap }) {
-  if (!folderTree.children)
-    return null;
-  const handleFolderNameClick = (folderPath) => {
-    setActiveFolderPath(folderPath);
-  };
-  const handleContextMenu = (event, folder) => {
-    let e = event;
-    if (event === void 0)
-      e = window.event;
-    const fileMenu = new import_obsidian3.Menu(plugin.app);
-    fileMenu.addItem((menuItem) => {
-      menuItem.setTitle("New Folder");
-      menuItem.setIcon("folder");
-      menuItem.onClick((ev) => {
-        let vaultChangeModal = new VaultChangeModal(plugin.app, folder, "create folder");
-        vaultChangeModal.open();
+var FolderComponent = class extends import_react7.default.Component {
+  constructor() {
+    super(...arguments);
+    this.treeStyles = { color: "--var(--text-muted)", fill: "#c16ff7", width: "100%", left: 10, top: 10 };
+    this.handleFolderNameClick = (folderPath) => {
+      this.props.setActiveFolderPath(folderPath);
+    };
+  }
+  render() {
+    return /* @__PURE__ */ import_react7.default.createElement(import_react7.default.Fragment, null, /* @__PURE__ */ import_react7.default.createElement(Tree, {
+      plugin: this.props.plugin,
+      content: this.props.plugin.app.vault.getName(),
+      open: true,
+      style: this.treeStyles,
+      onClick: () => this.handleFolderNameClick("/"),
+      setOpenFolders: this.props.setOpenFolders,
+      openFolders: this.props.openFolders,
+      folder: this.props.plugin.app.vault.getRoot(),
+      folderFileCountMap: this.props.folderFileCountMap
+    }, this.props.folderTree && /* @__PURE__ */ import_react7.default.createElement(NestedChildrenComponent, {
+      plugin: this.props.plugin,
+      folderTree: this.props.folderTree,
+      activeFolderPath: this.props.activeFolderPath,
+      setActiveFolderPath: this.props.setActiveFolderPath,
+      setView: this.props.setView,
+      openFolders: this.props.openFolders,
+      setOpenFolders: this.props.setOpenFolders,
+      excludedFolders: this.props.excludedFolders,
+      setExcludedFolders: this.props.setExcludedFolders,
+      folderFileCountMap: this.props.folderFileCountMap
+    })));
+  }
+};
+var NestedChildrenComponent = class extends import_react7.default.Component {
+  constructor() {
+    super(...arguments);
+    this.handleFolderNameClick = (folderPath) => {
+      this.props.setActiveFolderPath(folderPath);
+    };
+    this.handleContextMenu = (event, folder) => {
+      let e = event;
+      if (event === void 0)
+        e = window.event;
+      const fileMenu = new import_obsidian3.Menu(this.props.plugin.app);
+      fileMenu.addItem((menuItem) => {
+        menuItem.setTitle("New Folder");
+        menuItem.setIcon("folder");
+        menuItem.onClick((ev) => {
+          let vaultChangeModal = new VaultChangeModal(this.props.plugin.app, folder, "create folder");
+          vaultChangeModal.open();
+        });
       });
-    });
-    fileMenu.addItem((menuItem) => {
-      menuItem.setTitle("Delete");
-      menuItem.setIcon("trash");
-      menuItem.onClick((ev) => {
-        plugin.app.vault.delete(folder, true);
+      fileMenu.addItem((menuItem) => {
+        menuItem.setTitle("Delete");
+        menuItem.setIcon("trash");
+        menuItem.onClick((ev) => {
+          this.props.plugin.app.vault.delete(folder, true);
+        });
       });
-    });
-    fileMenu.addItem((menuItem) => {
-      menuItem.setTitle("Rename");
-      menuItem.setIcon("pencil");
-      menuItem.onClick((ev) => {
-        let vaultChangeModal = new VaultChangeModal(plugin.app, folder, "rename");
-        vaultChangeModal.open();
+      fileMenu.addItem((menuItem) => {
+        menuItem.setTitle("Rename");
+        menuItem.setIcon("pencil");
+        menuItem.onClick((ev) => {
+          let vaultChangeModal = new VaultChangeModal(this.props.plugin.app, folder, "rename");
+          vaultChangeModal.open();
+        });
       });
-    });
-    plugin.app.workspace.trigger("file-menu", fileMenu, folder, "file-explorer");
-    fileMenu.showAtPosition({ x: e.pageX, y: e.pageY });
-    return false;
-  };
-  const customSort = (folderTree2) => {
-    let newTree;
-    if (excludedFolders.length > 0)
-      newTree = folderTree2.filter((tree) => !excludedFolders.contains(tree.folder.path));
-    newTree = newTree.sort((a, b) => a.folder.name.localeCompare(b.folder.name));
-    return newTree;
-  };
-  return /* @__PURE__ */ import_react6.default.createElement(import_react6.default.Fragment, null, Array.isArray(folderTree.children) && customSort(folderTree.children).map((child) => {
-    return /* @__PURE__ */ import_react6.default.createElement(import_react6.default.Fragment, {
-      key: child.folder.path
-    }, child.folder.children.some((child2) => child2 instanceof import_obsidian3.TFolder) ? /* @__PURE__ */ import_react6.default.createElement(Tree, {
-      content: child.folder.name,
-      open: openFolders.contains(child.folder) ? true : false,
-      onClick: () => handleFolderNameClick(child.folder.path),
-      onContextMenu: (e) => handleContextMenu(e, child.folder),
-      setOpenFolders,
-      openFolders,
-      folder: child.folder,
-      folderFileCountMap
-    }, /* @__PURE__ */ import_react6.default.createElement(NestedChildrenComponent, {
-      plugin,
-      folderTree: child,
-      activeFolderPath,
-      setActiveFolderPath,
-      setView,
-      openFolders,
-      setOpenFolders,
-      excludedFolders,
-      folderFileCountMap
-    })) : /* @__PURE__ */ import_react6.default.createElement(Tree, {
-      content: child.folder.name,
-      onClick: () => handleFolderNameClick(child.folder.path),
-      onContextMenu: (e) => handleContextMenu(e, child.folder),
-      setOpenFolders,
-      openFolders,
-      folder: child.folder,
-      folderFileCountMap
+      fileMenu.addItem((menuItem) => {
+        menuItem.setTitle("Add to Excluded Folders");
+        menuItem.setIcon("switch");
+        menuItem.onClick((ev) => {
+          this.props.setExcludedFolders([...this.props.excludedFolders, folder.path]);
+        });
+      });
+      this.props.plugin.app.workspace.trigger("file-menu", fileMenu, folder, "file-explorer");
+      fileMenu.showAtPosition({ x: e.pageX, y: e.pageY });
+      return false;
+    };
+    this.customSort = (folderTree) => {
+      let newTree;
+      if (this.props.excludedFolders.length > 0) {
+        newTree = folderTree.filter((tree) => !this.props.excludedFolders.contains(tree.folder.path));
+      }
+      newTree = newTree.sort((a, b) => a.folder.name.localeCompare(b.folder.name, "en", { numeric: true }));
+      return newTree;
+    };
+  }
+  render() {
+    if (!this.props.folderTree.children)
+      return null;
+    return /* @__PURE__ */ import_react7.default.createElement(import_react7.default.Fragment, null, Array.isArray(this.props.folderTree.children) && this.customSort(this.props.folderTree.children).map((child) => {
+      return /* @__PURE__ */ import_react7.default.createElement(import_react7.default.Fragment, {
+        key: child.folder.path
+      }, child.folder.children.some((child2) => child2 instanceof import_obsidian3.TFolder) ? /* @__PURE__ */ import_react7.default.createElement(Tree, {
+        plugin: this.props.plugin,
+        content: child.folder.name,
+        open: this.props.openFolders.contains(child.folder) ? true : false,
+        onClick: () => this.handleFolderNameClick(child.folder.path),
+        onContextMenu: (e) => this.handleContextMenu(e, child.folder),
+        setOpenFolders: this.props.setOpenFolders,
+        openFolders: this.props.openFolders,
+        folder: child.folder,
+        folderFileCountMap: this.props.folderFileCountMap
+      }, /* @__PURE__ */ import_react7.default.createElement(NestedChildrenComponent, {
+        plugin: this.props.plugin,
+        folderTree: child,
+        activeFolderPath: this.props.activeFolderPath,
+        setActiveFolderPath: this.props.setActiveFolderPath,
+        setView: this.props.setView,
+        openFolders: this.props.openFolders,
+        setOpenFolders: this.props.setOpenFolders,
+        excludedFolders: this.props.excludedFolders,
+        setExcludedFolders: this.props.setExcludedFolders,
+        folderFileCountMap: this.props.folderFileCountMap
+      })) : /* @__PURE__ */ import_react7.default.createElement(Tree, {
+        plugin: this.props.plugin,
+        content: child.folder.name,
+        onClick: () => this.handleFolderNameClick(child.folder.path),
+        onContextMenu: (e) => this.handleContextMenu(e, child.folder),
+        setOpenFolders: this.props.setOpenFolders,
+        openFolders: this.props.openFolders,
+        folder: child.folder,
+        folderFileCountMap: this.props.folderFileCountMap
+      }));
     }));
-  }));
-}
+  }
+};
 
 // src/components/MainComponent.tsx
-var MainTreeComponent = class extends import_react7.default.Component {
+var MainTreeComponent = class extends import_react8.default.Component {
   constructor() {
     super(...arguments);
     this.state = {
@@ -11426,7 +12888,7 @@ var MainTreeComponent = class extends import_react7.default.Component {
     this.setView = (view) => this.setState({ view });
     this.setPinnedFiles = (pinnedFiles) => {
       this.setState({ pinnedFiles });
-      this.setNewFileList(this.state.activeFolderPath);
+      this.savePinnedFilesToSettings();
     };
     this.setNewFileList = (folderPath) => {
       let filesPath = folderPath ? folderPath : this.state.activeFolderPath;
@@ -11456,6 +12918,10 @@ var MainTreeComponent = class extends import_react7.default.Component {
       }
       this.setState({ excludedFolders });
     };
+    this.setExcludedFolders = (excludedFolders) => {
+      this.setState({ excludedFolders });
+      this.saveExcludedFoldersToSettings();
+    };
     this.componentWillUnmount = () => {
       this.saveOpenFoldersToSettings();
       this.savePinnedFilesToSettings();
@@ -11476,7 +12942,8 @@ var MainTreeComponent = class extends import_react7.default.Component {
       } else if (file instanceof import_obsidian4.TFolder) {
         this.setState({ folderTree: createFolderTree(this.rootFolder) });
       }
-      this.setState({ folderFileCountMap: getFolderNoteCountMap(this.props.plugin) });
+      if (this.props.plugin.settings.folderCount)
+        this.setState({ folderFileCountMap: getFolderNoteCountMap(this.props.plugin) });
     };
   }
   loadOpenFoldersFromSettings() {
@@ -11513,12 +12980,15 @@ var MainTreeComponent = class extends import_react7.default.Component {
     this.props.plugin.settings.pinnedFiles = pinnedFiles;
     this.props.plugin.saveSettings();
   }
+  saveExcludedFoldersToSettings() {
+    this.props.plugin.settings.excludedFolders = this.state.excludedFolders.join(", ");
+    this.props.plugin.saveSettings();
+  }
   componentDidMount() {
     console.log("File Tree Component Mounted");
-    this.setState({
-      folderTree: createFolderTree(this.rootFolder),
-      folderFileCountMap: getFolderNoteCountMap(this.props.plugin)
-    });
+    this.setState({ folderTree: createFolderTree(this.rootFolder) });
+    if (this.props.plugin.settings.folderCount)
+      this.setState({ folderFileCountMap: getFolderNoteCountMap(this.props.plugin) });
     this.loadOpenFoldersFromSettings();
     this.loadPinnedFilesFromSettings();
     this.loadExcludedExtensions();
@@ -11532,7 +13002,7 @@ var MainTreeComponent = class extends import_react7.default.Component {
     }));
   }
   render() {
-    return /* @__PURE__ */ import_react7.default.createElement(import_react7.default.Fragment, null, this.state.view === "folder" ? /* @__PURE__ */ import_react7.default.createElement(FolderComponent, {
+    return /* @__PURE__ */ import_react8.default.createElement(import_react8.default.Fragment, null, this.state.view === "folder" ? /* @__PURE__ */ import_react8.default.createElement(FolderComponent, {
       plugin: this.props.plugin,
       folderTree: this.state.folderTree,
       activeFolderPath: this.state.activeFolderPath,
@@ -11541,12 +13011,12 @@ var MainTreeComponent = class extends import_react7.default.Component {
       openFolders: this.state.openFolders,
       setOpenFolders: this.setOpenFolders,
       excludedFolders: this.state.excludedFolders,
+      setExcludedFolders: this.setExcludedFolders,
       folderFileCountMap: this.state.folderFileCountMap
-    }) : /* @__PURE__ */ import_react7.default.createElement(FileComponent, {
+    }) : /* @__PURE__ */ import_react8.default.createElement(FileComponent, {
       plugin: this.props.plugin,
       fileList: this.state.fileList,
       activeFolderPath: this.state.activeFolderPath,
-      fileTreeView: this.props.fileTreeView,
       setView: this.setView,
       pinnedFiles: this.state.pinnedFiles,
       setPinnedFiles: this.setPinnedFiles,
@@ -11588,9 +13058,14 @@ var createFolderTree = (startFolder) => {
 };
 var getFolderNoteCountMap = (plugin) => {
   const counts = {};
-  var mdNotes = plugin.app.vault.getMarkdownFiles();
-  mdNotes.forEach((mdNote) => {
-    for (let folder = mdNote.parent; folder != null; folder = folder.parent) {
+  let files;
+  if (plugin.settings.folderCountOption === "notes") {
+    files = plugin.app.vault.getMarkdownFiles();
+  } else {
+    files = plugin.app.vault.getFiles();
+  }
+  files.forEach((file) => {
+    for (let folder = file.parent; folder != null; folder = folder.parent) {
       counts[folder.path] = 1 + (counts[folder.path] || 0);
     }
   });
@@ -11631,7 +13106,7 @@ var FileTreeView = class extends import_obsidian5.ItemView {
   }
   constructFileTree(folderPath, vaultChange) {
     import_react_dom2.default.unmountComponentAtNode(this.contentEl);
-    import_react_dom2.default.render(/* @__PURE__ */ import_react8.default.createElement(MainTreeComponent, {
+    import_react_dom2.default.render(/* @__PURE__ */ import_react9.default.createElement(MainTreeComponent, {
       fileTreeView: this,
       plugin: this.plugin
     }), this.contentEl);
@@ -11644,6 +13119,8 @@ var DEFAULT_SETTINGS = {
   ribbonIcon: true,
   excludedExtensions: "",
   excludedFolders: "",
+  folderCount: true,
+  folderCountOption: "notes",
   openFolders: [],
   pinnedFiles: []
 };
@@ -11655,12 +13132,31 @@ var FileTreeAlternativePluginSettingsTab = class extends import_obsidian6.Plugin
   display() {
     let { containerEl } = this;
     containerEl.empty();
-    containerEl.createEl("h2", { text: "File Tree Alternative Settings" });
+    containerEl.createEl("h2", { text: "General" });
     new import_obsidian6.Setting(containerEl).setName("Ribbon Icon").setDesc("Turn on if you want Ribbon Icon for clearing the images.").addToggle((toggle) => toggle.setValue(this.plugin.settings.ribbonIcon).onChange((value) => {
       this.plugin.settings.ribbonIcon = value;
       this.plugin.saveSettings();
       this.plugin.refreshIconRibbon();
     }));
+    containerEl.createEl("h2", { text: "Folder Count Settings" });
+    new import_obsidian6.Setting(containerEl).setName("Folder Count").setDesc("Turn on if you want see the number of notes/files under file tree.").addToggle((toggle) => toggle.setValue(this.plugin.settings.folderCount).onChange((value) => {
+      this.plugin.settings.folderCount = value;
+      this.plugin.saveSettings();
+      this.plugin.detachFileTreeLeafs();
+      this.plugin.openFileTreeLeaf();
+    }));
+    new import_obsidian6.Setting(containerEl).setName("Folder Count Details").setDesc("Select which files you want to be included into count").addDropdown((dropdown) => {
+      dropdown.addOption("notes", "Notes");
+      dropdown.addOption("files", "All Files");
+      dropdown.setValue(this.plugin.settings.folderCountOption);
+      dropdown.onChange((option) => {
+        this.plugin.settings.folderCountOption = option;
+        this.plugin.saveSettings();
+        this.plugin.detachFileTreeLeafs();
+        this.plugin.openFileTreeLeaf();
+      });
+    });
+    containerEl.createEl("h2", { text: "Exclude Settings" });
     new import_obsidian6.Setting(containerEl).setName("Excluded File Extensions").setDesc(`Provide extension of files, which you want to exclude from listing in file tree, divided by comma. i.e. 'png, pdf, jpeg'.
             You need to reload the vault to make changes effective.`).addTextArea((text) => text.setValue(this.plugin.settings.excludedExtensions).onChange((value) => {
       this.plugin.settings.excludedExtensions = value;
@@ -11751,6 +13247,20 @@ object-assign
  * Font Awesome Free 5.15.3 by @fontawesome - https://fontawesome.com
  * License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License)
  */
+/*! *****************************************************************************
+Copyright (c) Microsoft Corporation.
+
+Permission to use, copy, modify, and/or distribute this software for any
+purpose with or without fee is hereby granted.
+
+THE SOFTWARE IS PROVIDED "AS IS" AND THE AUTHOR DISCLAIMS ALL WARRANTIES WITH
+REGARD TO THIS SOFTWARE INCLUDING ALL IMPLIED WARRANTIES OF MERCHANTABILITY
+AND FITNESS. IN NO EVENT SHALL THE AUTHOR BE LIABLE FOR ANY SPECIAL, DIRECT,
+INDIRECT, OR CONSEQUENTIAL DAMAGES OR ANY DAMAGES WHATSOEVER RESULTING FROM
+LOSS OF USE, DATA OR PROFITS, WHETHER IN AN ACTION OF CONTRACT, NEGLIGENCE OR
+OTHER TORTIOUS ACTION, ARISING OUT OF OR IN CONNECTION WITH THE USE OR
+PERFORMANCE OF THIS SOFTWARE.
+***************************************************************************** */
 /** @license React v0.20.2
  * scheduler.production.min.js
  *

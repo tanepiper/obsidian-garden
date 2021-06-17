@@ -1,6 +1,7 @@
 ---
-date updated: '2021-06-16T13:26:25+02:00'
-
+aliases: [🧑‍🌾 Your Knowledge Garden, Home, homepage]
+type: tutorial
+description: The home page tutorial for Obsidian Garden
 ---
 
 > ⚠️ If you are viewing this on [obsidian.garden](https://obsidian.garden) please be aware that [Obsidian Publish](https://help.obsidian.md/Plugins/Publish) does not yet support community plugins so not all featured are rendered - the project is best viewed in [Obsidian](https://obsidian.md) desktop.
@@ -9,7 +10,7 @@ date updated: '2021-06-16T13:26:25+02:00'
 
 [[👩‍🌾 Gardening Tips/🪨🌱 Obsidian Garden|🪨🌱 The Obsidian Garden]] is a open-source guide to creating your own [[📇 Terms/🧠 Knowledge Systems/Knowledge Management|Knowledge Management System]] with [Obsidian](https://obsidian.md).
 
-The garden is a system in itself - designed as a template for you to learn the basics of working with [[📇 Terms/🪨 Obsidian/Obsidian|Obsidian]]
+The garden is contained within in it's own system - designed as a template for you to learn the basics of working with [[📇 Terms/🪨 Obsidian/🪨 Obsidian|🪨 Obsidian]]
 
 ![[🖇 Attachments/the-knowledge-garden.png]]
 
@@ -19,7 +20,7 @@ The easiest way to start is clone [this GitHub repository](https://github.com/ta
 
 > `git clone https://github.com/tanepiper/obsidian-garden.git`
 
-Then you can open in [[📇 Terms/🪨 Obsidian/Obsidian|Obsidian]] - make sure the [[👩‍🌾 Gardening Tips/🪨 Obsidian/🔌 Plugins & 🌈 Theme|🔌 Plugins & 🌈 Theme]] are also installed.
+Then you can open in [[📇 Terms/🪨 Obsidian/🪨 Obsidian|🪨 Obsidian]] - make sure the [[👩‍🌾 Gardening Tips/🪨 Obsidian/🔌 Plugins & 🌈 Theme|🔌 Plugins & 🌈 Theme]] are also installed.
 
 > ⚠️ The Obsidian Garden is currently in active development and evolving - it's being developed in the open but is subject to changes, and may contain broken links and errors
 
@@ -51,7 +52,7 @@ On top of this we build the [[📇 Terms/🧠 Knowledge Systems/🏞 Digital Gar
 
 ## 🧠 Creating a second brain
 
-Using [[📇 Terms/🪨 Obsidian/Obsidian|Obsidian]] and this guide you can use it to create your own system - either by extending, or creating your own from scratch.
+Using [[📇 Terms/🪨 Obsidian/🪨 Obsidian|Obsidian]] and this guide you can use it to create your own system - either by extending, or creating your own from scratch.
 
 By extending Obsidian with [[👩‍🌾 Gardening Tips/🪨 Obsidian/🔌 Plugins & 🌈 Theme|🔌 Plugins and a 🌈 Theme]] we can start to build with more functionality for creating and querying the underlying data.
 
@@ -67,7 +68,7 @@ Adding enhanced richness with `#tags` and `Variables::` allows us to perform [[s
 
 Every [[👨‍👧‍👦 People|person's]] garden is different - some are neatly manecured and ordered, while some are more organic and wild - both need nurturing and tending too.
 
-### Suggested flow
+### 🏄‍♂️ Suggested flow
 
 The suggested flow shows one way of thinking how items are handled - when you have an idea (or want to collect a link, a picture of a doodle, create a contact) you can start with a [[⏣ Templates/🗒 Basic Note]] - or select a more detailed ⏣ Template.
 
@@ -123,7 +124,7 @@ sort file.ctime DESC
 limit 5
 ```
 
-## Last 5 Files Edited
+## 5️⃣ Last 5 Files Edited
 
 ```dataview
 table file.mtime as "Last tended to"

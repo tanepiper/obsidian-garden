@@ -4,7 +4,7 @@ type: tutorial
 ---
 
 ## Custom dashboards with dataview
-The [Dataview](https://blacksmithgu.github.io/obsidian-dataview/) plugin for [[📇 Terms/🪨 Obsidian/Obsidian]] allows for the creation of 3 basic types of view using a SQL-like language, as well as JavaScript functions too.
+The [Dataview](https://blacksmithgu.github.io/obsidian-dataview/) plugin for [[📇 Terms/🪨 Obsidian/🪨 Obsidian]] allows for the creation of 3 basic types of view using a SQL-like language, as well as JavaScript functions too.
 
 Full documentation is available on the site, but to help you along here are some basic examples - if you see the `dataview` code, switch to preview mode.
 

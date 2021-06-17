@@ -20,3 +20,9 @@ where file.mtime < (date(today) + dur(1 day))
 sort file.mtime DESC
 limit 5
 ```
+
+## Todo Items From Project
+```dataview
+task
+from "🗂 Projects/My New Garden"
+```

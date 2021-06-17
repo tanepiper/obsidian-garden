@@ -16,7 +16,7 @@ Author of this guide, I'm an open source developer, creative technologist and so
 
 This is not the first system I'm approached - systems should be novel, one never sticks around for more than a few weeks before a new one comes along.
 
-I re-discovered [[📇 Terms/🪨 Obsidian/Obsidian|Obsidian]] after not finding it so user friendly - after watching a video from [[👨‍👧‍👦 People/👤 Alexis Rondeau]] it finally clicked.
+I re-discovered [[📇 Terms/🪨 Obsidian/🪨 Obsidian|Obsidian]] after not finding it so user friendly - after watching a video from [[👨‍👧‍👦 People/👤 Alexis Rondeau]] it finally clicked.
 
 Within 24 hours I had created the 🌱 [[👩‍🌾 Gardening Tips/🪴 Sowing Your Garden/🌱 Creating Seeds|seed]] of this idea - a [[📇 Terms/🧠 Knowledge Systems/Knowledge Management|Knowledge Management]] system that itself is a tutorial on how to build your own.  Each person, and each project, is different - so it needs to be organic.
 

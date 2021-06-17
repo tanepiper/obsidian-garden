@@ -8,7 +8,7 @@ Status:: #triage
 
 ---
 **Tags**:: #idea #obsidian #knowledge-management 
-**Links**:: [[📇 Terms/🧠 Knowledge Systems/Knowledge Management]] [[📇 Terms/🪨 Obsidian/Obsidian]] [[📇 Terms/💡 Concepts/Connection]]
+**Links**:: [[📇 Terms/🧠 Knowledge Systems/Knowledge Management]] [[📇 Terms/🪨 Obsidian/🪨 Obsidian]] [[📇 Terms/💡 Concepts/Connection]]
 
 ---
 

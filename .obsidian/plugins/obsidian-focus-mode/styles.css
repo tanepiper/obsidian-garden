@@ -1,14 +1,11 @@
 .focus-mode .cm-s-obsidian div:not(.CodeMirror-activeline) > .CodeMirror-line {
-    opacity: 0.8;
-    filter: saturate(0.8);
-}
-
-.focus-mode .cm-s-obsidian div.CodeMirror-activeline > .CodeMirror-line {
-    font-weight: calc(var(--editor-font-weight) + 100);
+    opacity: 0.85;
+    filter: saturate(0.85);
 }
 
 .focus-mode div.view-header,
 .focus-mode div.status-bar,
+.focus-mode div.workspace-ribbon:not(.mod-left),
 .focus-mode .workspace-split.maximised .workspace-leaf:not(.mod-active),
 .focus-mode
     .workspace-split.maximised
@@ -30,10 +27,6 @@
     visibility: hidden;
 }
 
-.focus-mode div.workspace-ribbon:not(.mod-left) {
-    display: none;
-}
-
 .focus-mode
     .side-dock-ribbon-action[aria-label="Toggle Focus Mode (Shift + Click to show active pane only)"] {
     visibility: visible;
@@ -41,12 +34,11 @@
 
 /* Thanks to @AidenLx! */
 /* Fixes for the Obsidian Tabs plugin: */
+.focus-mode.plugin-tabs div.view-actions,
 .focus-mode.plugin-tabs .stayopen div.view-header {
     display: none;
 }
+
 .focus-mode.plugin-tabs div.view-header {
     display: flex;
-}
-.focus-mode.plugin-tabs div.view-actions {
-    display: none;
 }

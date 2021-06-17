@@ -15,7 +15,7 @@ Links: [[📇 Glossary]]
 ---
 
 ## Definition
-A connection between pieces of information in [[📇 Terms/🪨 Obsidian/Obsidian]]
+A connection between pieces of information in [[📇 Terms/🪨 Obsidian/🪨 Obsidian]]
 
 ## Sources
 - [Obsidian Documentation](https://help.obsidian.md/How+to/Internal+link)

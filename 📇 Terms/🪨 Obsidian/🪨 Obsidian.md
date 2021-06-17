@@ -1,5 +1,5 @@
 ---
-aliases: [Obsidian]
+aliases: [🪨 Obsidian, Obsidian]
 type: term
 ---
 %%

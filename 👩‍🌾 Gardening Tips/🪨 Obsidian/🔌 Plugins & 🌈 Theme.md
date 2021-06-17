@@ -14,7 +14,7 @@ Status:: #done
 
 ## Theme
 
-Currently the [[👩‍🌾 Gardening Tips/🪨🌱 Obsidian Garden|Obsidian Garden]] uses an unmodified version of [Pisum](https://github.com/GuangluWu/obsidian-pisum) - a dark mode theme for [[📇 Terms/🪨 Obsidian/Obsidian|Obsidian]].
+Currently the [[👩‍🌾 Gardening Tips/🪨🌱 Obsidian Garden|Obsidian Garden]] uses an unmodified version of [Pisum](https://github.com/GuangluWu/obsidian-pisum) - a dark mode theme for [[📇 Terms/🪨 Obsidian/🪨 Obsidian|Obsidian]].
 
 ## Plugins
 
