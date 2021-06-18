@@ -4,23 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "ac5aa647f576f792",
+        "id": "9986fe8bafc70479",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "👩‍🌾 Your Knowledge Garden.md",
-            "mode": "preview"
-          }
-        }
-      },
-      {
-        "id": "3df7915310c8cdf8",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "👩‍🌾 Gardening Tips/🪨🌳 Obsidian Garden.md",
+            "file": "👩‍🌾 Gardening Tips/🪨 🌳 Obsidian Garden.md",
             "mode": "source"
           }
         }
@@ -104,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "👩‍🌾 Gardening Tips/🪨🌳 Obsidian Garden.md",
+                "file": "👩‍🌾 Gardening Tips/🪨 🌳 Obsidian Garden.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "👩‍🌾 Gardening Tips/🪨🌳 Obsidian Garden.md"
+                "file": "👩‍🌾 Gardening Tips/🪨 🌳 Obsidian Garden.md"
               }
             }
           },
@@ -147,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "👩‍🌾 Gardening Tips/🪨🌳 Obsidian Garden.md",
+                "file": "👩‍🌾 Gardening Tips/🪨 🌳 Obsidian Garden.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -170,7 +159,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "👩‍🌾 Gardening Tips/🪨🌳 Obsidian Garden.md",
+                "file": "👩‍🌾 Gardening Tips/🪨 🌳 Obsidian Garden.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -221,17 +210,17 @@
     "direction": "horizontal",
     "width": 305.5
   },
-  "active": "3df7915310c8cdf8",
+  "active": "9986fe8bafc70479",
   "lastOpenFiles": [
+    "👩‍🌾 Gardening Tips/🪨 🌳 Obsidian Garden.md",
+    "👩‍🌾 Your Knowledge Garden.md",
+    "🌱 Seed Box/👨🏻‍🌾 Bob.md",
     "👩‍🌾 Gardening Tips/🪨🌳 Obsidian Garden.md",
     "📇 Terms/🧠 Knowledge Systems/🏞 Digital Garden.md",
     "👩‍🌾 Gardening Tips/🪨🌱 Obsidian Garden.md",
-    "👩‍🌾 Your Knowledge Garden.md",
     "🪴 Grow Room.md",
     "📇 Terms/🪨 Obsidian/Obsidian.md",
     "📇 Glossary.md",
-    "📇 Terms/🧠 Knowledge Systems/Knowledge Management.md",
-    "🗂 Projects/My New Garden/🌽 My New Garden.md",
-    "🗂 Projects/My New Garden/Next Steps.md"
+    "📇 Terms/🧠 Knowledge Systems/Knowledge Management.md"
   ]
 }

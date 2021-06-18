@@ -8,9 +8,9 @@ description: The home page tutorial for Obsidian Garden
 
 # 👋 Welcome to your Knowledge Garden
 
-[[👩‍🌾 Gardening Tips/🪨🌳 Obsidian Garden|🪨🌱 The Obsidian Garden]] is a open-source guide to creating your own [[📇 Terms/🧠 Knowledge Systems/Knowledge Management|Knowledge Management System]] with [Obsidian](https://obsidian.md).
+[[👩‍🌾 Gardening Tips/🪨 🌳 Obsidian Garden|🪨 🌳 Obsidian Garden]] is a open-source guide to creating your own [[📇 Terms/🧠 Knowledge Systems/🌳 Digital Garden|🌳 Digital Garden]] with [Obsidian](https://obsidian.md).
 
-The garden is contained within in it's own system - designed as a template for you to learn the basics of working with [[📇 Terms/🪨 Obsidian/🪨 Obsidian|🪨 Obsidian]]
+The garden is contained within in it's own [[📇 Terms/🧠 Knowledge Systems/Knowledge Management|Knowledge Management System]] - designed as a template for you to learn the basics of working with [[📇 Terms/🪨 Obsidian/🪨 Obsidian|🪨 Obsidian]] and extend and remix in to your own.
 
 ![[🖇 Attachments/the-knowledge-garden.png]]
 
@@ -62,7 +62,7 @@ This guide is designed to get you starting in understanding why a [[📇 Terms/�
 
 ⏳ Like a real garden, good ideas need nurtured and take time to grow - but can reap rewards when cared for correctly.
 
-To escape the distractions of life we can visit our [[👩‍🌾 Gardening Tips/🪨🌳 Obsidian Garden|Obsidian Garden|Knowledge Garden]] to reconnect with [[👩‍🌾 Gardening Tips/🪴 Sowing Your Garden/🌱 Creating Seeds|🌱 new]] and [[🪴 Grow Room|🪴 old]] knowledge and create [[📇 Terms/🪨 Obsidian/Link|links]] between them so we can see the [[📇 Terms/🧠 Knowledge Systems/Knowledge Graph|Knowledge Graph]] that connects them.
+To escape the distractions of life we can visit our [[👩‍🌾 Gardening Tips/🪨 🌳 Obsidian Garden|Obsidian Garden|Knowledge Garden]] to reconnect with [[👩‍🌾 Gardening Tips/🪴 Sowing Your Garden/🌱 Creating Seeds|🌱 new]] and [[🪴 Grow Room|🪴 old]] knowledge and create [[📇 Terms/🪨 Obsidian/Link|links]] between them so we can see the [[📇 Terms/🧠 Knowledge Systems/Knowledge Graph|Knowledge Graph]] that connects them.
 
 Adding enhanced richness with `#tags` and `Variables::` allows us to perform [[searches]] and [[build queries]] that allow us to [[👩‍🌾 Gardening Tips/🪴 Sowing Your Garden/🎯 Create Custom Dashboards|🎯 Create Custom Dashboards]] and code blocks that let us see through the overgrowth of all the data - display tables, and lists - both basic to do items.
 
