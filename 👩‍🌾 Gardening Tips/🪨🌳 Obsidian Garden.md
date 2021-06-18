@@ -1,12 +1,15 @@
 ---
-aliases: [🪨🌱 Obsidian Garden, Obsidian Garden, garden, gardening]
+aliases: [🪨 🌳 Obsidian Garden, Obsidian Garden, garden, gardening]
 type: tutorial
 ---
 Tags: #obsidian #gardening #ideas #tutorials #principles
 
 > Plant a new 🌱 seed to grow into an 🌺 idea.
 
-## What is the 🪨🌱 Obsidian Garden?
+## What is the 🪨 🌳 Obsidian Garden?
+The 🪨 🌳 Obsidian Garden is a system and a guide to creating your own [[📇 Terms/🧠 Knowledge Systems/🌳 Digital Garden|🌳 Digital Garden]]. Through the guide you'll meet [[👨🏻‍🌾 Bob]] and [[👩‍🌾 Alice]] - our two *Knowledge Gardeners* - they will show you how you can [[👩‍🌾 Gardening Tips/🪴 Sowing Your Garden/🌱 Creating Seeds|🌱 plant seeds]] - your ideas, resources, contacts, and other notes - and use the to [[link]]
+
+### 🧑🏻‍💻 Building a guide for myself 
 Like any person with ADHD, [[👨‍👧‍👦 People/🧑🏻‍💻 Tane Piper|I've]] tried several systems and invented a few myself - for me nothing has ever stuck - I even tried [Obsidian](https://obsidian.md) before - but found it's UI difficult and not much help.
 
 Things change, and ideas grow - after discussing note taking apps I decided to give Obsidian a try again - I watched [[👨‍👧‍👦 People/👤 Alexis Rondeau]]'s video [How to use Obsidian to write a book](https://www.youtube.com/watch?v=pP4AeGY2mz4) - after this something just clicked.  

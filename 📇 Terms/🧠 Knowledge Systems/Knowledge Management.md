@@ -20,7 +20,7 @@ Knowledge Management (KM) is the field of creating processes and places that ind
 
 [[📇 Terms/🪨 Obsidian/🪨 Obsidian|Obsidian]] is an example of one tool that allows the creation of [[📇 Terms/💡 Concepts/System|systems]] to collect data.
 
-One concept is a [[📇 Terms/🧠 Knowledge Systems/🏞 Digital Garden|🏞 Digital Garden]]
+One concept is a [[📇 Terms/🧠 Knowledge Systems/🌳 Digital Garden|🏞 Digital Garden]]
 
 It refers to a multidisciplinary approach to achieve organisational objectives by making the best use of knowledge.
 
@@ -31,6 +31,6 @@ KM is an enabler of organisational learning.
 
 ## Uses
 
-- Creating a [[📇 Terms/🧠 Knowledge Systems/🏞 Digital Garden]]
+- Creating a [[📇 Terms/🧠 Knowledge Systems/🌳 Digital Garden]]
 
 Knowledge Management is used in the understanding of [[📇 Terms/💡 Concepts/Connection|connections]] and [[📇 Terms/🪨 Obsidian/Link|links]] between seemingly different things.

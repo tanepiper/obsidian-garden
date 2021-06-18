@@ -1,5 +1,5 @@
 ---
-aliases: [🏞 Digital Garden, 🏞 Knowledge Garden]
+aliases: [🌳 Digital Garden, 🌳 Knowledge Garden]
 type: term
 description: Description of a Knowledge Garden or Digital Garden
 ---

@@ -8,7 +8,7 @@ description: The home page tutorial for Obsidian Garden
 
 # 👋 Welcome to your Knowledge Garden
 
-[[👩‍🌾 Gardening Tips/🪨🌱 Obsidian Garden|🪨🌱 The Obsidian Garden]] is a open-source guide to creating your own [[📇 Terms/🧠 Knowledge Systems/Knowledge Management|Knowledge Management System]] with [Obsidian](https://obsidian.md).
+[[👩‍🌾 Gardening Tips/🪨🌳 Obsidian Garden|🪨🌱 The Obsidian Garden]] is a open-source guide to creating your own [[📇 Terms/🧠 Knowledge Systems/Knowledge Management|Knowledge Management System]] with [Obsidian](https://obsidian.md).
 
 The garden is contained within in it's own system - designed as a template for you to learn the basics of working with [[📇 Terms/🪨 Obsidian/🪨 Obsidian|🪨 Obsidian]]
 
@@ -48,7 +48,7 @@ The only way to truly capture an idea is to write it down, draw it, or record it
 
 In [[📇 Terms/🧠 Knowledge Systems/Knowledge Management|Knowledge Management]] systems there is concept of the _"second brain"_ - a dynamic and visual hard drive that we can consciously put our stream of thoughts and ideas in to.
 
-On top of this we build the [[📇 Terms/🧠 Knowledge Systems/🏞 Digital Garden]] idea - in this guide known as the **Knowledge Garden** - this is not a new idea, instead we build on this concept and use it as a base template to show a working system.
+On top of this we build the [[📇 Terms/🧠 Knowledge Systems/🌳 Digital Garden]] idea - in this guide known as the **Knowledge Garden** - this is not a new idea, instead we build on this concept and use it as a base template to show a working system.
 
 ## 🧠 Creating a second brain
 
@@ -62,7 +62,7 @@ This guide is designed to get you starting in understanding why a [[📇 Terms/�
 
 ⏳ Like a real garden, good ideas need nurtured and take time to grow - but can reap rewards when cared for correctly.
 
-To escape the distractions of life we can visit our [[👩‍🌾 Gardening Tips/🪨🌱 Obsidian Garden|Obsidian Garden|Knowledge Garden]] to reconnect with [[👩‍🌾 Gardening Tips/🪴 Sowing Your Garden/🌱 Creating Seeds|🌱 new]] and [[🪴 Grow Room|🪴 old]] knowledge and create [[📇 Terms/🪨 Obsidian/Link|links]] between them so we can see the [[📇 Terms/🧠 Knowledge Systems/Knowledge Graph|Knowledge Graph]] that connects them.
+To escape the distractions of life we can visit our [[👩‍🌾 Gardening Tips/🪨🌳 Obsidian Garden|Obsidian Garden|Knowledge Garden]] to reconnect with [[👩‍🌾 Gardening Tips/🪴 Sowing Your Garden/🌱 Creating Seeds|🌱 new]] and [[🪴 Grow Room|🪴 old]] knowledge and create [[📇 Terms/🪨 Obsidian/Link|links]] between them so we can see the [[📇 Terms/🧠 Knowledge Systems/Knowledge Graph|Knowledge Graph]] that connects them.
 
 Adding enhanced richness with `#tags` and `Variables::` allows us to perform [[searches]] and [[build queries]] that allow us to [[👩‍🌾 Gardening Tips/🪴 Sowing Your Garden/🎯 Create Custom Dashboards|🎯 Create Custom Dashboards]] and code blocks that let us see through the overgrowth of all the data - display tables, and lists - both basic to do items.
 
