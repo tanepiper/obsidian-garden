@@ -9,7 +9,7 @@ The 🪴 Grow Room is your inbox on current 🪵 Backlog items, and [[👩‍�
 
 ⚠️ Don't let your 🪵 Backlog or 🌱 Seed Box get too full!  Try and curate them daily so that there is room for more ideas to be planted
 
-When you are in a creative flow, use [[📇 Terms/🪨 Obsidian/Link|links]] and [[👩‍🌾 Gardening Tips/🪴 Sowing Your Garden/🏷 Using Tags]] in all the new files you create - clicking on links will create more seeds! This will create the [[📇 Terms/💡 Concepts/Connection|connections]] across your [[📇 Terms/🧠 Knowledge Systems/Knowledge Management|Knowledge Management]] system.
+When you are in a creative flow, use [[📇 Terms/🪨 Obsidian/Link|links]] and [[👩‍🌾 Gardening Tips/🪴 Sowing Your Garden/🏷 Using Tags]] in all the new files you create - clicking on links will create more seeds! This will create the [[📇 Terms/💡 Concepts/Connection|connections]] across your [[📇 Terms/🧠 Knowledge Systems/🗃 Knowledge Management|Knowledge Management]] system.
 
 Using the [Templater](https://github.com/SilentVoid13/Templater) plugin you can use the command palette to change from a [[⏣ Templates/🗒 Basic Note]] to any other type - such as [[⏣ Templates/📙 New Reading Item]].
 

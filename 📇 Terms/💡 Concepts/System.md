@@ -10,7 +10,7 @@ Status:: #in-progress
 ---
 Category:: Concepts
 Tags:: #term #system #systems-thinking
-Links:: [[📇 Glossary]] [[Systems Thinking]] [[📇 Terms/🧠 Knowledge Systems/Knowledge Management|Knowledge Management]]
+Links:: [[📇 Glossary]] [[Systems Thinking]] [[📇 Terms/🧠 Knowledge Systems/🗃 Knowledge Management|Knowledge Management]]
 
 ---
 
@@ -23,5 +23,5 @@ Links:: [[📇 Glossary]] [[Systems Thinking]] [[📇 Terms/🧠 Knowledge Syste
 - [Wikipedia](https://en.wikipedia.org/wiki/System)
 
 ## Uses
-- In [[📇 Terms/🧠 Knowledge Systems/Knowledge Management]] systems
+- In [[📇 Terms/🧠 Knowledge Systems/🗃 Knowledge Management]] systems
 - [[Systems Thinking]]

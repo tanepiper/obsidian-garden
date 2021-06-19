@@ -10,7 +10,7 @@ Status:: #triage
 ---
 **Tags**:: #term #zettelkasten #slip-box #tutorial #knowledge-management 
 **Category**:: #knowledge-systems
-**Links**:: [[📇 Glossary]] [[📇 Terms/🧠 Knowledge Systems/Knowledge Management|Knowledge Management]] [[📇 Terms/🧠 Knowledge Systems/🌳 Digital Garden|🏞 Knowledge Garden]] [[📇 Terms/💡 Concepts/System|System]]
+**Links**:: [[📇 Glossary]] [[📇 Terms/🧠 Knowledge Systems/🗃 Knowledge Management|Knowledge Management]] [[📇 Terms/🧠 Knowledge Systems/🌳 Digital Garden|🏞 Knowledge Garden]] [[📇 Terms/💡 Concepts/System|System]]
 
 ---
 

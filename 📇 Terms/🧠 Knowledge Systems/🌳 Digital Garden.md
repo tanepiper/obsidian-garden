@@ -15,7 +15,7 @@ Status:: #in-progress
 ---
 
 ## Definition
-A *Digital Garden* (or *Knowledge Garden*) is a combination of a program like [[📇 Terms/🪨 Obsidian/🪨 Obsidian|Obsidian]], the content within it ([[Markdown]], [[Attachments]] and [[Scripts]]) to create a [[📇 Terms/🧠 Knowledge Systems/Knowledge Management|Knowledge Management System]]. The content becomes searchable through the [[Search]] tab or [[📇 Terms/🧠 Knowledge Systems/Knowledge Graph]]
+A *Digital Garden* (or *Knowledge Garden*) is a combination of a program like [[📇 Terms/🪨 Obsidian/🪨 Obsidian|Obsidian]], the content within it ([[Markdown]], [[Attachments]] and [[Scripts]]) to create a [[📇 Terms/🧠 Knowledge Systems/🗃 Knowledge Management|Knowledge Management System]]. The content becomes searchable through the [[Search]] tab or [[📇 Terms/🧠 Knowledge Systems/Knowledge Graph]]
 
 It's a friendly and usable way to describe a system similar to [[📇 Terms/🧠 Knowledge Systems/Zettelkasten]]
 

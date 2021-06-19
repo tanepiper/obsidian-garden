@@ -85,7 +85,6 @@
       {
         "id": "5da860a61f1c73f3",
         "type": "tabs",
-        "dimension": 78.38939857288482,
         "children": [
           {
             "id": "8559220fe2d2af04",
@@ -190,21 +189,6 @@
           }
         ],
         "currentTab": 3
-      },
-      {
-        "id": "b4318a8a1906d79c",
-        "type": "tabs",
-        "dimension": 21.61060142711519,
-        "children": [
-          {
-            "id": "24df15cd13b16542",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          }
-        ]
       }
     ],
     "direction": "horizontal",
@@ -214,13 +198,13 @@
   "lastOpenFiles": [
     "👩‍🌾 Gardening Tips/🪨 🌳 Obsidian Garden.md",
     "👩‍🌾 Your Knowledge Garden.md",
+    "📇 Terms/🧠 Knowledge Systems/Knowledge Management.md",
     "🌱 Seed Box/👨🏻‍🌾 Bob.md",
     "👩‍🌾 Gardening Tips/🪨🌳 Obsidian Garden.md",
     "📇 Terms/🧠 Knowledge Systems/🏞 Digital Garden.md",
     "👩‍🌾 Gardening Tips/🪨🌱 Obsidian Garden.md",
     "🪴 Grow Room.md",
     "📇 Terms/🪨 Obsidian/Obsidian.md",
-    "📇 Glossary.md",
-    "📇 Terms/🧠 Knowledge Systems/Knowledge Management.md"
+    "📇 Glossary.md"
   ]
 }

@@ -1,5 +1,5 @@
 ---
-aliases: [Knowledge Management, Knowledge Management System, knowledge management, KM]
+aliases: [Knowledge Management, 🗃 Knowledge Management System, Knowledge Management System, knowledge management, KM]
 type: term
 description: Description for Knowledge Management
 ---

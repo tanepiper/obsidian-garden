@@ -18,7 +18,7 @@ This is not the first system I'm approached - systems should be novel, one never
 
 I re-discovered [[📇 Terms/🪨 Obsidian/🪨 Obsidian|Obsidian]] after not finding it so user friendly - after watching a video from [[👨‍👧‍👦 People/👤 Alexis Rondeau]] it finally clicked.
 
-Within 24 hours I had created the 🌱 [[👩‍🌾 Gardening Tips/🪴 Sowing Your Garden/🌱 Creating Seeds|seed]] of this idea - a [[📇 Terms/🧠 Knowledge Systems/Knowledge Management|Knowledge Management]] system that itself is a tutorial on how to build your own.  Each person, and each project, is different - so it needs to be organic.
+Within 24 hours I had created the 🌱 [[👩‍🌾 Gardening Tips/🪴 Sowing Your Garden/🌱 Creating Seeds|seed]] of this idea - a [[📇 Terms/🧠 Knowledge Systems/🗃 Knowledge Management|Knowledge Management]] system that itself is a tutorial on how to build your own.  Each person, and each project, is different - so it needs to be organic.
 
 Who know's if it'll stick - but with data portability and a great concept (once you get over the initial curve) I'm hoping it'll become one of my daily tools.
 

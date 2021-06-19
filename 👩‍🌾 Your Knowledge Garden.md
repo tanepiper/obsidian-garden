@@ -10,7 +10,7 @@ description: The home page tutorial for Obsidian Garden
 
 [[👩‍🌾 Gardening Tips/🪨 🌳 Obsidian Garden|🪨 🌳 Obsidian Garden]] is a open-source guide to creating your own [[📇 Terms/🧠 Knowledge Systems/🌳 Digital Garden|🌳 Digital Garden]] with [Obsidian](https://obsidian.md).
 
-The garden is contained within in it's own [[📇 Terms/🧠 Knowledge Systems/Knowledge Management|Knowledge Management System]] - designed as a template for you to learn the basics of working with [[📇 Terms/🪨 Obsidian/🪨 Obsidian|🪨 Obsidian]] and extend and remix in to your own.
+The garden is contained within in it's own [[📇 Terms/🧠 Knowledge Systems/🗃 Knowledge Management|🗃 Knowledge Management System]] - designed as a template for you to learn the basics of working with [[📇 Terms/🪨 Obsidian/🪨 Obsidian|🪨 Obsidian]] and extend and remix in to your own.
 
 ![[🖇 Attachments/the-knowledge-garden.png]]
 
@@ -46,7 +46,7 @@ In the west, oral tradition is unreliable - telling people about your idea is gr
 
 The only way to truly capture an idea is to write it down, draw it, or record it. Even here there's a risk that without one single place to put it all - you will miss out on [[📇 Terms/💡 Concepts/Connection|connecting]] it all together.
 
-In [[📇 Terms/🧠 Knowledge Systems/Knowledge Management|Knowledge Management]] systems there is concept of the _"second brain"_ - a dynamic and visual hard drive that we can consciously put our stream of thoughts and ideas in to.
+In [[📇 Terms/🧠 Knowledge Systems/🗃 Knowledge Management|Knowledge Management]] systems there is concept of the _"second brain"_ - a dynamic and visual hard drive that we can consciously put our stream of thoughts and ideas in to.
 
 On top of this we build the [[📇 Terms/🧠 Knowledge Systems/🌳 Digital Garden]] idea - in this guide known as the **Knowledge Garden** - this is not a new idea, instead we build on this concept and use it as a base template to show a working system.
 
@@ -56,7 +56,7 @@ Using [[📇 Terms/🪨 Obsidian/🪨 Obsidian|Obsidian]] and this guide you can
 
 By extending Obsidian with [[👩‍🌾 Gardening Tips/🪨 Obsidian/🔌 Plugins & 🌈 Theme|🔌 Plugins and a 🌈 Theme]] we can start to build with more functionality for creating and querying the underlying data.
 
-This guide is designed to get you starting in understanding why a [[📇 Terms/🧠 Knowledge Systems/Knowledge Management|Knowledge Garden]] is useful and to help reduce the learning curve.
+This guide is designed to get you starting in understanding why a [[📇 Terms/🧠 Knowledge Systems/🗃 Knowledge Management|Knowledge Garden]] is useful and to help reduce the learning curve.
 
 ## 🌺 Letting Ideas Flourish
 
@@ -99,7 +99,7 @@ graph LR
 
 > ✅ This set of tools is released under Creative Commons Zero v1.0 Universal [[LICENSE]]
 
-> If you are looking for a more fully featured [[📇 Terms/🧠 Knowledge Systems/Knowledge Management|Knowledge Management]] system check out [LytKit](https://publish.obsidian.md/lyt-kit/_Start+Here)
+> If you are looking for a more fully featured [[📇 Terms/🧠 Knowledge Systems/🗃 Knowledge Management|Knowledge Management]] system check out [LytKit](https://publish.obsidian.md/lyt-kit/_Start+Here)
 
 ---
 

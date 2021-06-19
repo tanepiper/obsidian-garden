@@ -10,7 +10,7 @@ Status:: #in-progress
 ---
 **Tags**:: #term #knowledge-management #information-rot
 **Category**:: #concepts
-**Links**:: [[📇 Glossary]] [[📇 Terms/🧠 Knowledge Systems/Knowledge Management|Knowledge Management]]
+**Links**:: [[📇 Glossary]] [[📇 Terms/🧠 Knowledge Systems/🗃 Knowledge Management|Knowledge Management]]
 
 ---
 
