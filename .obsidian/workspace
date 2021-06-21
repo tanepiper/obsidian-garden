@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "👩‍🌾 Gardening Tips/🪨 🌳 Obsidian Garden.md",
-            "mode": "source"
+            "file": "👩‍🌾 Your Knowledge Garden.md",
+            "mode": "preview"
           }
         }
       }
@@ -92,7 +92,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "👩‍🌾 Gardening Tips/🪨 🌳 Obsidian Garden.md",
+                "file": "👩‍🌾 Your Knowledge Garden.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "👩‍🌾 Gardening Tips/🪨 🌳 Obsidian Garden.md"
+                "file": "👩‍🌾 Your Knowledge Garden.md"
               }
             }
           },
@@ -135,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "👩‍🌾 Gardening Tips/🪨 🌳 Obsidian Garden.md",
+                "file": "👩‍🌾 Your Knowledge Garden.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -158,7 +158,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "👩‍🌾 Gardening Tips/🪨 🌳 Obsidian Garden.md",
+                "file": "👩‍🌾 Your Knowledge Garden.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -196,8 +196,8 @@
   },
   "active": "9986fe8bafc70479",
   "lastOpenFiles": [
-    "👩‍🌾 Gardening Tips/🪨 🌳 Obsidian Garden.md",
     "👩‍🌾 Your Knowledge Garden.md",
+    "👩‍🌾 Gardening Tips/🪨 🌳 Obsidian Garden.md",
     "📇 Terms/🧠 Knowledge Systems/Knowledge Management.md",
     "🌱 Seed Box/👨🏻‍🌾 Bob.md",
     "👩‍🌾 Gardening Tips/🪨🌳 Obsidian Garden.md",
