@@ -8,7 +8,7 @@ Tags:: #dashboard
 
 This is an example dashboard that you can create for your own project, below it shows the last 5 files edited.
 
-You can [[👩‍🌾 Gardening Tips/🪴 Sowing Your Garden/🎯 Create Custom Dashboards|Create Custom Dashboards]] easily using the `dataview` plugin and SQL-like query language.
+You can [[👩‍🌾 Gardening Tips/🪴 Sowing Your Garden/🎯  Create Custom Dashboards|Create Custom Dashboards]] easily using the `dataview` plugin and SQL-like query language.
 
 ---
 

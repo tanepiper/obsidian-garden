@@ -11,7 +11,7 @@ Status:: #in-progress
 **Started**:: 2021-06-13
 **Ended**:: 
 **Tags**:: #todo-list #obsidian-garden #release
-**Links**:: [[⏰ ToDo Lists]] [[👩‍🌾 Gardening Tips/🪨 🌳 Obsidian Garden|Obsidian Garden]]
+**Links**:: [[⏰ ToDo Lists]] [[👩‍🌾 Gardening Tips/🪨  🌳  Obsidian Garden|Obsidian Garden]]
 
 ---
 

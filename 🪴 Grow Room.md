@@ -5,7 +5,7 @@ description: Dashboard for the seed box
 
 ## Welcome to your 🪴 Grow Room
 
-The 🪴 Grow Room is your inbox on current 🪵 Backlog items, and [[👩‍🌾 Gardening Tips/🪴 Sowing Your Garden/🌱 Creating Seeds|🌱 Seeds]] you have created but not yet curated.
+The 🪴 Grow Room is your inbox on current 🪵 Backlog items, and [[👩‍🌾 Gardening Tips/🪴 Sowing Your Garden/🌱 Planting Seeds|🌱 Seeds]] you have created but not yet curated.
 
 ⚠️ Don't let your 🪵 Backlog or 🌱 Seed Box get too full!  Try and curate them daily so that there is room for more ideas to be planted
 

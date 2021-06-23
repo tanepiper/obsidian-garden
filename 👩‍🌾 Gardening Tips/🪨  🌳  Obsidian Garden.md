@@ -7,13 +7,13 @@ Tags: #obsidian #gardening #ideas #tutorials #principles
 > Plant a new 🌱 seed to grow into an 🌺 idea.
 
 # What is the 🪨 🌳 Obsidian Garden?
-The 🪨 🌳 Obsidian Garden is an open source resource that is both a [[📇 Terms/🧠 Knowledge Systems/🗃 Knowledge Management|Knowledge Management System]] system and a friendly guide to creating your own [[📇 Terms/🧠 Knowledge Systems/🌳 Digital Garden|🌳 Digital Garden]] in  [[📇 Terms/🪨 Obsidian/🪨 Obsidian|Obsidian]].
+The 🪨  🌳 Obsidian Garden is an open source resource that is both a [[📇 Terms/🧠 Knowledge Systems/🗃 Knowledge Management|🗃 Knowledge Management System]] system and a friendly guide to creating your own [[📇 Terms/🧠 Knowledge Systems/🌳 Digital Garden|🌳 Digital Garden]] in  [[📇 Terms/🪨 Obsidian/🪨 Obsidian|🪨 Obsidian]].
 
 ## 👨🏻‍🌾 👩‍🌾 Meet Our Gardeners
 
 Through the guide you'll meet [[👨‍👧‍👦 People/👨🏻‍🌾 Bob]] and [[👩‍🌾 Alice]] - our two *Knowledge Gardeners* - who will occasionally pop up to help you along with [[📇 Terms/🪨 Obsidian/🪨 Obsidian|🪨 Obsidian]].
 
-[[👨‍👧‍👦 People/👨🏻‍🌾 Bob]] will show you how to [[👩‍🌾 Gardening Tips/🪴 Sowing Your Garden/🌱 Creating Seeds|🌱 plant seeds]] (your thoughts, ideas, collected resources) and how to make them rich with content and data through [[📇 Terms/🪨 Obsidian/Link|links]], [[👩‍🌾 Gardening Tips/🪴 Sowing Your Garden/🏷 Using Tags|🏷 Tags]] and embedding content.
+[[👨‍👧‍👦 People/👨🏻‍🌾 Bob]] will show you how to [[👩‍🌾 Gardening Tips/🪴 Sowing Your Garden/🌱 Planting Seeds|🌱 plant seeds]] (your thoughts, ideas, collected resources) and how to make them rich with content and data through [[📇 Terms/🪨 Obsidian/Link|links]], [[👩‍🌾 Gardening Tips/🪴 Sowing Your Garden/🏷 Using Tags|🏷 Tags]] and embedding content.
 
 [[👩‍🌾 Alice]] will show you how to harvest your data - understanding the [[📇 Terms/🧠 Knowledge Systems/Knowledge Graph|Knowledge Graph]] and how to [[Search]] and use [[📇 Terms/🪨 Obsidian/Link#Backlinks|Backlinks]] and [[📇 Terms/🪨 Obsidian/Link#Outlinks|Outlinks]]
 
@@ -38,11 +38,11 @@ This guide is my collection of the discoveries I've made in doing this, with the
 ## Principles
 
 ### Rich Templates and Content
-[[👩‍🌾 Gardening Tips/🪴 Sowing Your Garden/⚠️ Statuses]]
+[[👩‍🌾 Gardening Tips/🪴 Sowing Your Garden/⚠️  Statuses]]
 
 Each template file contains a set of [[📇 Terms/🪨 Obsidian/Front Matter|Front Matter]] properties, the most important being `status`.  The defaults for the field are sensible: `triage`, `ready`, `in progress` and `done`.  Using these allows queries to be generated that show a particular status.  The field is customisable, and there are more properties available in each template - so feel free to use your own to build more complex query sets.
 
 ### Query-driven pages
-[[👩‍🌾 Gardening Tips/🪴 Sowing Your Garden/🎯 Create Custom Dashboards]]
+[[👩‍🌾 Gardening Tips/🪴 Sowing Your Garden/🎯  Create Custom Dashboards]]
 
 Query-driven pages live at the top level of the garden, for example [[📚 Reading]] and [[👨‍👧‍👦 People]], as well as the [[👩‍🌾 Your Knowledge Garden]] file. These allow quick access to pages that let you see the underlying data in your files.
