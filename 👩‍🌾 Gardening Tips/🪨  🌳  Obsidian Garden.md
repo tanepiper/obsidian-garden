@@ -38,7 +38,7 @@ This guide is my collection of the discoveries I've made in doing this, with the
 ## Principles
 
 ### Rich Templates and Content
-[[👩‍🌾 Gardening Tips/🪴 Sowing Your Garden/⚠️  Statuses]]
+[[👩‍🌾 Gardening Tips/🪴 Sowing Your Garden/⚠️ Statuses]]
 
 Each template file contains a set of [[📇 Terms/🪨 Obsidian/Front Matter|Front Matter]] properties, the most important being `status`.  The defaults for the field are sensible: `triage`, `ready`, `in progress` and `done`.  Using these allows queries to be generated that show a particular status.  The field is customisable, and there are more properties available in each template - so feel free to use your own to build more complex query sets.
 

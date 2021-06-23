@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "9986fe8bafc70479",
+        "id": "828e17397f6a51f2",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "👩‍🌾 Gardening Tips/🪴 Sowing Your Garden/🌱 Planting Seeds.md",
+            "file": "📇 Terms/🪨 Obsidian/Link.md",
             "mode": "source"
           }
         }
@@ -55,7 +55,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#tutorials",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -92,7 +92,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "👩‍🌾 Gardening Tips/🪴 Sowing Your Garden/🌱 Planting Seeds.md",
+                "file": "📇 Terms/🪨 Obsidian/Link.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "👩‍🌾 Gardening Tips/🪴 Sowing Your Garden/🌱 Planting Seeds.md"
+                "file": "📇 Terms/🪨 Obsidian/Link.md"
               }
             }
           },
@@ -135,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "👩‍🌾 Gardening Tips/🪴 Sowing Your Garden/🌱 Planting Seeds.md",
+                "file": "📇 Terms/🪨 Obsidian/Link.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -158,7 +158,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "👩‍🌾 Gardening Tips/🪴 Sowing Your Garden/🌱 Planting Seeds.md",
+                "file": "📇 Terms/🪨 Obsidian/Link.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -181,30 +181,30 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.9966268260763764,
+                  "scale": 0.7303470412861964,
                   "close": true
                 }
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
     "width": 305.5
   },
-  "active": "9986fe8bafc70479",
+  "active": "828e17397f6a51f2",
   "lastOpenFiles": [
+    "📇 Terms/🪨 Obsidian/Link.md",
     "👩‍🌾 Gardening Tips/🪴 Sowing Your Garden/🌱 Planting Seeds.md",
-    "👩‍🌾 Gardening Tips/🪴 Sowing Your Garden/🎯  Create Custom Dashboards.md",
-    "👩‍🌾 Gardening Tips/🪴 Sowing Your Garden/🏭  Project Stucture.md",
-    "👩‍🌾 Gardening Tips/🪴 Sowing Your Garden/🏷 Using Tags.md",
+    "👨‍👧‍👦 People/👨🏻‍🌾 Bob.md",
     "👩‍🌾 Gardening Tips/🪨 Obsidian/🗂 Obsidian File Struture.md",
-    "👩‍🌾 Gardening Tips/🪨 🌳 Obsidian Garden.md",
-    "🪴 Grow Room.md",
-    "👩‍🌾 Gardening Tips/🪴 Sowing Your Garden/🏭 Project Stucture.md",
-    "👩‍🌾 Gardening Tips/🪴 Sowing Your Garden/🎯 Create Custom Dashboards.md",
-    "👩‍🌾 Gardening Tips/🪴 Sowing Your Garden/⚠️ Statuses.md"
+    "👨‍👧‍👦 People.md",
+    "👩‍🌾 Gardening Tips/🪴 Sowing Your Garden/🏭  Project Stucture.md",
+    "⏰ ToDo Lists.md",
+    "⏣ Templates/🪛 Todo List.md",
+    "👩‍🌾 Your Knowledge Garden.md",
+    "👩‍🌾 Gardening Tips/🪴 Sowing Your Garden/🎯  Create Custom Dashboards.md"
   ]
 }

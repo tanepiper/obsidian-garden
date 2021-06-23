@@ -1,4 +1,5 @@
 ---
+aliases: [👨🏻‍🌾 Bob]
 type: person
 description: A person record for Bob, our friendly knowledge gardener
 ---
