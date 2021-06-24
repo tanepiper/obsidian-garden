@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "📇 Terms/🪨 Obsidian/Link.md",
+            "file": "👩‍🌾 Your Knowledge Garden.md",
             "mode": "source"
           }
         }
@@ -92,7 +92,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "📇 Terms/🪨 Obsidian/Link.md",
+                "file": "👩‍🌾 Your Knowledge Garden.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "📇 Terms/🪨 Obsidian/Link.md"
+                "file": "👩‍🌾 Your Knowledge Garden.md"
               }
             }
           },
@@ -135,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "📇 Terms/🪨 Obsidian/Link.md",
+                "file": "👩‍🌾 Your Knowledge Garden.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -158,7 +158,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "📇 Terms/🪨 Obsidian/Link.md",
+                "file": "👩‍🌾 Your Knowledge Garden.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -196,6 +196,7 @@
   },
   "active": "828e17397f6a51f2",
   "lastOpenFiles": [
+    "👩‍🌾 Your Knowledge Garden.md",
     "📇 Terms/🪨 Obsidian/Link.md",
     "👩‍🌾 Gardening Tips/🪴 Sowing Your Garden/🌱 Planting Seeds.md",
     "👨‍👧‍👦 People/👨🏻‍🌾 Bob.md",
@@ -204,7 +205,6 @@
     "👩‍🌾 Gardening Tips/🪴 Sowing Your Garden/🏭  Project Stucture.md",
     "⏰ ToDo Lists.md",
     "⏣ Templates/🪛 Todo List.md",
-    "👩‍🌾 Your Knowledge Garden.md",
     "👩‍🌾 Gardening Tips/🪴 Sowing Your Garden/🎯  Create Custom Dashboards.md"
   ]
 }
