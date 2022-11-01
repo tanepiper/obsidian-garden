@@ -1,10 +1,10 @@
-# 🪨🌱 The Obsidian Garden
+# 🌱 The Obsidian Garden
 
 ## Welcome to your Knowledge Garden
 
 ![The Knowledge Garden](.github/the-knowledge-garden.png)
 
-The [Obsidian Garden](https://obsidian.garden) is both guide in helping you create your own knowledge system, and a knowledge system itself.
+The Obsidian Garden is both guide in helping you create your own knowledge system, and a knowledge system itself.
 
 It's designed to be used with [Obsidian](https://obsidian.md) - a tool for creating knowledge bases and *"second brain"* using connected links and tags between documents to generate a knowledge graph.
 
