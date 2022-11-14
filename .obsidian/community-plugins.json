@@ -11,5 +11,11 @@
   "obsidian-gist",
   "obsidian-journey-plugin",
   "obsidian-kanban",
-  "markdown-prettifier"
+  "markdown-prettifier",
+  "obsidian-git",
+  "periodic-notes",
+  "obsidian-reading-time",
+  "search-on-internet",
+  "templater-obsidian",
+  "vantage-obsidian"
 ]

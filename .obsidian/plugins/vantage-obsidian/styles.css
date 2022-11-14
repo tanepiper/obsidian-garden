@@ -1,0 +1,11 @@
+/* Many thanks to @Christian, developer of the NoteTweet plugin <https://forum.obsidian.md/t/new-plugin-notetweet-post-tweets-from-obsidian/13895>, for making this easy—<https://discord.com/channels/686053708261228577/840286264964022302/842014701138214983> */
+.vantage-modal {
+    overflow-y: auto;
+	max-height: 50rem;
+	overflow-x: hidden;
+	width: 80vw;
+}
+
+.vantage-modal input[type='text'] {
+	width: 100%;
+}
