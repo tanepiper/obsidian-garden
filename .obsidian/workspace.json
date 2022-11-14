@@ -1,0 +1,219 @@
+{
+  "main": {
+    "id": "6d192a8137c21897",
+    "type": "split",
+    "children": [
+      {
+        "id": "9ec085f0615a7d8f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "828e17397f6a51f2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "👩‍🌾 Your Knowledge Garden.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "43bf2720613d7d23",
+    "type": "split",
+    "children": [
+      {
+        "id": "891a2e60e271b31f",
+        "type": "tabs",
+        "dimension": 20.38735983690112,
+        "children": [
+          {
+            "id": "322342a2c258bfbb",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "7809a0592f8db2af",
+        "type": "tabs",
+        "dimension": 79.61264016309887,
+        "children": [
+          {
+            "id": "91f1dcc79c72e889",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "d491b697ebe0bc64",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "7946bc4e7b29c4d4",
+            "type": "leaf",
+            "state": {
+              "type": "file-tree-view",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "bb7bd0b32145b639",
+    "type": "split",
+    "children": [
+      {
+        "id": "5da860a61f1c73f3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8559220fe2d2af04",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "👩‍🌾 Your Knowledge Garden.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "be9f14ab1c389a8f",
+            "type": "leaf",
+            "state": {
+              "type": "stats-tracker",
+              "state": {}
+            }
+          },
+          {
+            "id": "75b4f20e390be5a8",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "df15c937db4eceee",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "👩‍🌾 Your Knowledge Garden.md"
+              }
+            }
+          },
+          {
+            "id": "84947e5e37c4b3c3",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "👩‍🌾 Your Knowledge Garden.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "1d3b3665ed63b563",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "b881b9b402aa2243",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "👩‍🌾 Your Knowledge Garden.md",
+                "options": {
+                  "collapse-filter": false,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 0.7303470412861964,
+                  "close": true
+                }
+              }
+            }
+          }
+        ],
+        "currentTab": 6
+      }
+    ],
+    "direction": "horizontal",
+    "width": 305.5
+  },
+  "active": "91f1dcc79c72e889",
+  "lastOpenFiles": [
+    "👩‍🌾 Your Knowledge Garden.md",
+    "📇 Terms/🪨 Obsidian/Link.md",
+    "👩‍🌾 Gardening Tips/🪴 Sowing Your Garden/🌱 Planting Seeds.md",
+    "👨‍👧‍👦 People/👨🏻‍🌾 Bob.md",
+    "👩‍🌾 Gardening Tips/🪨 Obsidian/🗂 Obsidian File Struture.md",
+    "👨‍👧‍👦 People.md",
+    "👩‍🌾 Gardening Tips/🪴 Sowing Your Garden/🏭  Project Stucture.md",
+    "⏰ ToDo Lists.md",
+    "⏣ Templates/🪛 Todo List.md",
+    "👩‍🌾 Gardening Tips/🪴 Sowing Your Garden/🎯  Create Custom Dashboards.md"
+  ]
+}

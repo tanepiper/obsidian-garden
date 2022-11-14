@@ -1,1 +1,12 @@
-{"commitMessage":"obsidian-garden @ {{date}}","commitDateFormat":"YYYY-MM-DD HH:mm:ss","autoSaveInterval":60,"autoPullInterval":0,"autoPullOnBoot":false,"disablePush":false,"pullBeforePush":true,"disablePopups":true,"listChangedFilesInMessageBody":false,"showStatusBar":true}
+{
+  "commitMessage": "obsidian-garden @ {{date}}",
+  "commitDateFormat": "YYYY-MM-DD HH:mm:ss",
+  "autoSaveInterval": 60,
+  "autoPullInterval": 0,
+  "autoPullOnBoot": false,
+  "disablePush": false,
+  "pullBeforePush": true,
+  "disablePopups": true,
+  "listChangedFilesInMessageBody": false,
+  "showStatusBar": true
+}

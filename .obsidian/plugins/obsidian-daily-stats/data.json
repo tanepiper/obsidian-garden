@@ -1,1 +1,30 @@
-{"dayCounts":{"2021/5/13":982,"2021/5/14":888,"2021/5/15":1554,"2021/5/16":538,"2021/5/17":82,"2021/5/18":198,"2021/5/19":25,"2021/5/23":139},"todaysWordCount":{"👩‍🌾 Your Knowledge Garden.md":{"initial":1152,"current":1152},"👩‍🌾 Gardening Tips/🪨 🌳 Obsidian Garden.md":{"initial":656,"current":656},"👩‍🌾 Gardening Tips/🪴 Sowing Your Garden/🌱 Planting Seeds.md":{"initial":328,"current":465},"👨‍👧‍👦 People/👨🏻‍🌾 Bob.md":{"initial":107,"current":109}}}
+{
+  "dayCounts": {
+    "2021/5/13": 982,
+    "2021/5/14": 888,
+    "2021/5/15": 1554,
+    "2021/5/16": 538,
+    "2021/5/17": 82,
+    "2021/5/18": 198,
+    "2021/5/19": 25,
+    "2021/5/23": 139
+  },
+  "todaysWordCount": {
+    "👩‍🌾 Your Knowledge Garden.md": {
+      "initial": 1152,
+      "current": 1152
+    },
+    "👩‍🌾 Gardening Tips/🪨 🌳 Obsidian Garden.md": {
+      "initial": 656,
+      "current": 656
+    },
+    "👩‍🌾 Gardening Tips/🪴 Sowing Your Garden/🌱 Planting Seeds.md": {
+      "initial": 328,
+      "current": 465
+    },
+    "👨‍👧‍👦 People/👨🏻‍🌾 Bob.md": {
+      "initial": 107,
+      "current": 109
+    }
+  }
+}
