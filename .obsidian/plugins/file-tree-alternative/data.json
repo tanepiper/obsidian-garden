@@ -1,1 +1,27 @@
-{"ribbonIcon":true,"excludedExtensions":"","excludedFolders":"","folderCount":true,"folderCountOption":"notes","openFolders":[],"pinnedFiles":[]}
+{
+  "openViewOnStart": true,
+  "ribbonIcon": true,
+  "showRootFolder": true,
+  "showFilesFromSubFolders": true,
+  "searchFunction": true,
+  "allSearchOnlyInFocusedFolder": false,
+  "showFilesFromSubFoldersButton": true,
+  "revealActiveFileButton": false,
+  "excludedExtensions": "",
+  "folderIcon": "default",
+  "folderCount": true,
+  "folderCountOption": "notes",
+  "evernoteView": true,
+  "filePreviewOnHover": false,
+  "iconBeforeFileName": true,
+  "sortFilesBy": "name",
+  "sortFoldersBy": "name",
+  "fixedHeaderInFileList": true,
+  "createdYaml": false,
+  "fileNameIsHeader": false,
+  "folderNote": false,
+  "deleteFileOption": "trash",
+  "showFileNameAsFullPath": false,
+  "openFolders": [],
+  "pinnedFiles": []
+}

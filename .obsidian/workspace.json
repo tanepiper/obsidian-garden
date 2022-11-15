@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "👩‍🌾 Your Knowledge Garden.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -40,8 +40,17 @@
               "type": "starred",
               "state": {}
             }
+          },
+          {
+            "id": "10be11e183a9ffed",
+            "type": "leaf",
+            "state": {
+              "type": "file-tree-view",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "7809a0592f8db2af",
@@ -72,14 +81,6 @@
                 "sortOrder": "alphabetical"
               }
             }
-          },
-          {
-            "id": "7946bc4e7b29c4d4",
-            "type": "leaf",
-            "state": {
-              "type": "file-tree-view",
-              "state": {}
-            }
           }
         ]
       }
@@ -101,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "👩‍🌾 Your Knowledge Garden.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "👩‍🌾 Your Knowledge Garden.md"
+                "file": "README.md"
               }
             }
           },
@@ -144,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "👩‍🌾 Your Knowledge Garden.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -167,7 +168,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "👩‍🌾 Your Knowledge Garden.md",
+                "file": "README.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -203,7 +204,7 @@
     "direction": "horizontal",
     "width": 305.5
   },
-  "active": "91f1dcc79c72e889",
+  "active": "828e17397f6a51f2",
   "lastOpenFiles": [
     "👩‍🌾 Your Knowledge Garden.md",
     "📇 Terms/🪨 Obsidian/Link.md",

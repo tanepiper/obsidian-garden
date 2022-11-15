@@ -1,0 +1,22 @@
+{
+  "githubRepo": "digitalgarden",
+  "githubToken": "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",
+  "githubUserName": "tanepiper",
+  "gardenBaseUrl": "digitalgarden.tane.codes",
+  "prHistory": [],
+  "theme": "{\"name\":\"Agora\",\"author\":\"Seraaron\",\"repo\":\"Seraaron/agora-obsidian-theme\",\"screenshot\":\"agora-theme-preview.png\",\"modes\":[\"dark\",\"light\"],\"cssUrl\":\"https://raw.githubusercontent.com/Seraaron/agora-obsidian-theme/HEAD/theme.css\"}",
+  "baseTheme": "light",
+  "faviconPath": "",
+  "showRibbonIcon": true,
+  "noteSettingsIsInitialized": true,
+  "siteName": "Digital Garden",
+  "defaultNoteSettings": {
+    "dgHomeLink": true,
+    "dgPassFrontmatter": true,
+    "dgShowBacklinks": true,
+    "dgShowLocalGraph": true,
+    "dgShowInlineTitle": true,
+    "dgShowFileTree": true,
+    "dgEnableSearch": true
+  }
+}

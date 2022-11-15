@@ -2,6 +2,8 @@
 aliases: [🧑‍🌾 Your Knowledge Garden, Home, homepage]
 type: tutorial
 description: The home page tutorial for Obsidian Garden
+dg-home: true
+dg-publish: true
 ---
 
 > ⚠️ If you are viewing this on [obsidian.garden](https://obsidian.garden) please be aware that [Obsidian Publish](https://help.obsidian.md/Plugins/Publish) does not yet support community plugins so not all featured are rendered - the project is best viewed in [Obsidian](https://obsidian.md) desktop.
